@@ -1,0 +1,142 @@
+{
+  "name": "Paradox Jura",
+  "tagline": "Ubiquitous Imperial Stout.",
+  "first_brewed": "06/2010",
+  "description": "Paradox. Reloaded. In 2011 we put Paradox into high gear to create an Imperial Stout destined for ageing. Loaded with dark roasted malts for a full bodied, toasted background, an array of bitter, earthy and resinous hops, and brewed with oats for a bold mouthfeel. This beer is the perfect canvas for barrel ageing.",
+  "abv": 10,
+  "ibu": 55,
+  "target_fg": 1014,
+  "target_og": 1128,
+  "ebc": 300,
+  "srm": 152,
+  "ph": 4.4,
+  "attenuation_level": 89,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 90,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": {
+      "technique": "Try ageing on oak chips, infusing with rum raisins, or vanilla pods",
+      "ingredients": null
+    }
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.86,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.86,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+
+
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+
+    ],
+    "yeast": "Wyeast 1272 - American Ale II"
+  },
+  "food_pairing": [
+    "Smoked cured beef",
+    "Smoked aubergine tapenade with rye bread",
+    "Beer affogato - 1/3 glass of Paradox with a scoop of vanilla ice cream"
+  ],
+  "brewers_tips": "Allow the fermentation to go as far as possible. Soak oak chips in whisky to get the barrel aged characteristic."
+}
