@@ -1,0 +1,123 @@
+{
+  "name": "Peroxide Punk",
+  "tagline": "Zesty Pale Ale.",
+  "first_brewed": "04/2007",
+  "description": "A trashy blonde concession for those who felt that our original 6% Punk IPA recipe was too hard hitting. This was also the first time we experimented with dry hopping our beers, giving Peroxide Punk a depth of flavour that belies its modest ABV. Zesty, aromatic and thirst quenching.",
+  "abv": 4,
+  "ibu": 40,
+  "target_fg": 1009,
+  "target_og": 1039,
+  "ebc": 18,
+  "srm": 9,
+  "ph": 4.4,
+  "attenuation_level": 76.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 3.85,
+          "unit": "kilograms"
+        }
+      },
+
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Liberty",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+
+    ],
+    "yeast": "Wyeast 1056 - American Ale"
+  },
+  "food_pairing": [
+    "Sashimi",
+    "Pan roasted poussin with spring veg",
+    "Lemon and thyme panna cotta"
+  ],
+  "brewers_tips": "During the mashing process, try to mix the malt without 'turning' or splashing too much. This will cause more oxygen to be dissolved in the mash - and result in a beer that will taste a little like a cardboard box."
+}
