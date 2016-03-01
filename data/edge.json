@@ -1,0 +1,142 @@
+{
+  "name": "Edge",
+  "tagline": "Dark Full-Bodied Cask Ale",
+  "first_brewed": "12/2007",
+  "description": "Low ABV, high flavour, this beer was brewed to show that a beer can have all the flavour without the drunken affects. Also this beer is one of BrewDog's original brews that made a rare appearance in cask. Spicy, malty biscuit and super drinkable.",
+  "abv": 2.7,
+  "ibu": 36,
+  "target_fg": 1010,
+  "target_og": 1033,
+  "ebc": 57,
+  "srm": 29,
+  "ph": 4.4,
+  "attenuation_level": 70.8,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.16,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "CaraAroma",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+
+    ],
+    "hops": [
+      {
+        "name": "Pacific Hallertau",
+        "amount": {
+          "value": 15.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Pacific Hallertau",
+        "amount": {
+          "value": 10.2,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Moteuka",
+        "amount": {
+          "value": 6.1,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Pacific Hallertau",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+
+    ],
+    "yeast": "Wyeast 1056 - American Ale"
+  },
+  "food_pairing": [
+    "Lamb and root vegetable stew",
+    "Warm goats cheese salad",
+    "Raisin rum cake"
+  ],
+  "brewers_tips": "Don’t overcook the mash - 75 minutes only at 65°C to get the right amount of fermentable sugars. Leave it too long and the beer ends up really watery and unpleasant."
+}
