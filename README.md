@@ -1,5 +1,5 @@
 # Punk API
-> Crowd Sourcing an API from Brewdogs hugeley generous [DIY Dog](https://www.brewdog.com/diydog)
+> Crowd Sourcing an API from Brewdogs hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the Brewdog Recipes from their DIY Dog pdf and create an api from it!
 
