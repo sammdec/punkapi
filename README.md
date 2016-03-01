@@ -4,7 +4,7 @@
 In the spirit of DIY & giving back I thought I would attempt to collect all the Brewdog Recipes from their DIY Dog pdf and create an api from it!
 
 ## What's the deal?
-If you head to the `[data](https://github.com/samjbmason/punkapi/tree/master/data)` folder you will see this is how far I have gotten, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the `[TEMPLATE.json](https://github.com/samjbmason/punkapi/blob/master/data/TEMPLATE.json)` file and submit it as a PR.
+If you head to the [`data`](data/) folder you will see this is how far I have gotten, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the [`TEMPLATE.json`](data/TEMPLATE.json) file and submit it as a PR.
 
 If people have any suggestions on information that is missing from the template please drop an issue or a PR.
 
