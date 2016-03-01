@@ -1,13 +1,18 @@
 # Punk API
-> Crowd Sourcing an API from Brewdogs hugely generous [DIY Dog](https://www.brewdog.com/diydog)
+> Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-In the spirit of DIY & giving back I thought I would attempt to collect all the Brewdog Recipes from their DIY Dog pdf and create an api from it!
+In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
 ## What's the deal?
-If you head to the [`data`](data/) folder you will see this is how far I have gotten, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the [`TEMPLATE.json`](data/TEMPLATE.json) file and submit it as a PR.
+If you head to the [`data`](data/) folder you will see all the recipes so far, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the [`TEMPLATE.json`](data/TEMPLATE.json) file and submit it as a PR.
 
+## Where can I find the recipes?
+Head over to BrewDog's DIY Dog [page to download the free PDF](https://www.brewdog.com/diydog)
+
+## The TEMPLATE.json is missing something?
 If people have any suggestions on information that is missing from the template please drop an issue or a PR.
 
+## What do you plan to do with all this data?
 Once this is all done I will create a fully searchable API from the data and of course it will be open source and free to use for all your beer hackers out there.
 
 Below is a list of all the beers and the ones that have already been done:
