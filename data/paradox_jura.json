@@ -33,10 +33,7 @@
         "unit": "celsius"
       }
     },
-    "twist": {
-      "technique": "Try ageing on oak chips, infusing with rum raisins, or vanilla pods",
-      "ingredients": null
-    }
+    "twist": "Try ageing on oak chips, infusing with rum raisins, or vanilla pods"
   },
   "ingredients": {
     "malt": [

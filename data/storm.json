@@ -33,19 +33,7 @@
         "unit": "celsius"
       }
     },
-    "twist": {
-      "technique": null,
-      "ingredients": [
-        {
-          "name": "Oak chips soaked in Islay whisky",
-          "amount": {
-            "value": 50,
-            "unit": "grams"
-          },
-          "add": null
-        }
-      ]
-    }
+    "twist": "Oak chips soaked in Islay whisky 50g"
   },
   "ingredients": {
     "malt": [

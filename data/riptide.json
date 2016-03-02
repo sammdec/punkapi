@@ -34,19 +34,7 @@ best reflected himself; this is the beer equivalent of the big, cute chocolate m
         "unit": "celsius"
       }
     },
-    "twist": {
-      "technique": null,
-      "ingredients": [
-        {
-          "name": "Dark muscavado sugar",
-          "amount": {
-            "value": 285,
-            "unit": "grams"
-          },
-          "add": "30mins pre boil end"
-        }
-      ]
-    }
+    "twist": "Dark muscavado sugar 285g 30mins pre boil end"
   },
   "ingredients": {
     "malt": [
