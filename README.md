@@ -1,6 +1,8 @@
 # Punk API
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
+**Status: 12 of 215 completed**
+
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
 ## What's the deal?
