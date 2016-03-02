@@ -1,0 +1,146 @@
+{
+  "name": "Original Dogma (Née Speedball)",
+  "tagline": "Strong Ale With Honey And Spices.",
+  "first_brewed": "07/2008",
+  "description": "A strong ale, brewed with guarana, Californian poppy, kola nut and Scottish heather honey. A conspiracy of trans-continental ingredients infused with some devastatingly BrewDog imaginative thinking.",
+  "abv": 7.8,
+  "ibu": 60,
+  "target_fg": 1012,
+  "target_og": 1071.3,
+  "ebc": 31,
+  "srm": 15.5,
+  "ph": 4.3,
+  "attenuation_level": 83.2,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 64,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Herb and honey addition"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.05,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.08,
+          "unit": "kilograms"
+        }
+      }
+
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bobek",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Guarana Powder",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Kola Nut Powder",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Poppy Seed",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Heather Honey",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+
+    ],
+    "yeast": "Safale US-05"
+  },
+  "food_pairing": [
+    "Spicy seafood stew",
+    "French onion soup",
+    "Mexican wedding cake (cookies)"
+  ],
+  "brewers_tips": "Get really good quality heather honey,
+the more aromatic the better. Honey is 100% fermentable, but it does have a huge influence on the ester profile of the beer – in this case high floral esters.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
