@@ -1,0 +1,106 @@
+{
+  "name": "Cult Lager",
+  "tagline": "US & New Zeland Hopped Lager",
+  "first_brewed": "04/2008",
+  "description": "A lager that actually tastes of something? You have to be kidding, right? Cult lager is made with 100% malt and whole leaf hops. Maybe we are crazy, so what? Taste our lager and we are pretty sure that you will agree that the fine line between insanity and genius has just become a little more blurred.",
+  "abv": 5.4,
+  "ibu": 50,
+  "target_fg": 1049,
+  "target_og": 1008,
+  "ebc": 19,
+  "srm": 8,
+  "ph": 4.1,
+  "attenuation_level": ,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Lager",
+        "amount": {
+          "value": 4.66,
+          "unit": "kilograms"
+        }
+      },
+
+    ],
+    "hops": [
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+
+    ],
+    "yeast": "Salflager S189"
+  },
+  "food_pairing": [
+    "Arrabiata pasta with grilled prawns",
+    "Mexican spiced chicken with hot sauce",
+    "Orange marmalade thumb print cookie"
+  ],
+  "brewers_tips": "When the fermentation is nearly complete, allow the temperature of the beer to rise. This will scrub some of the undesirable flavours out.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
