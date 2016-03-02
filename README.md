@@ -35,7 +35,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] STORM
 - [x] CULT LAGER
 - [x] TRASHY BLONDE
-- [ ] ORIGINAL DOGMA (NÉE SPEEDBALL)
+- [x] ORIGINAL DOGMA (NÉE SPEEDBALL)
 - [ ] AB:03
 - [ ] ZEITGEIST
 - [ ] BAD PIXIE
