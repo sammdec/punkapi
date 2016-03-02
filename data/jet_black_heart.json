@@ -1,6 +1,6 @@
 {
   "name": "Jet Black Heart",
-  "tagline": "Oatmeal Milk Stout. Dark. Roasty. Velvety",
+  "tagline": "Oatmeal Milk Stout. Dark. Roasty. Velvety.",
   "first_brewed": "01/2016",
   "description": "Good things come to those who wait. This smooth and roasty oatmeal milk stout won our 2015 Prototype Challenge at a canter. Roasty coffee and chocolate lead to a decadent, full-bodied richness of near uncharted depths with a velvet mouthfeel from the addition of oatmeal and a touch of wheat. This is complemented at every turn by the Magnum and Sorachi Ace hops, with the latter bringing an intensity of smooth vanilla and dark berry fruit on the long, rewarding finish.",
   "abv": 4.7,
@@ -121,7 +121,7 @@
         "attribute": "flavour"
       },
     ],
-    "yeast": "Wyeast 1056 American AleTM"
+    "yeast": "Wyeast 1056 American Ale™"
   },
   "food_pairing": [
     "Oyster beignets",
