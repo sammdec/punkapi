@@ -1,0 +1,110 @@
+
+{
+  "name": "77 Lager",
+  "tagline": "Artisan Rebel Pilsner.",
+  "first_brewed": "12/2008",
+  "description": "Think of everything you know about lagers. Then forget it all instantly. 77 will redefine the experience forever. A Lager that actually tastes of something? You have to be kidding, right? 77 lager is made with 100% malt and whole leaf hops. It contains no preservatives, additives, cheap substitutes or any other junk. Maybe we are crazy. So what? Taste 77 Lager and we are pretty sure you will agree that the fine line between genius and insanity has just become a little more blurred.",
+  "abv": 4.9,
+  "ibu": 30,
+  "target_fg": 1009,
+  "target_og": 1047,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.4,
+  "attenuation_level": 80.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Tettnang",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast Pilsner Strain 2007™"
+  },
+  "food_pairing": [
+    "Aromatic spicy red thai curry",
+    "Sticky spicy barbecue ribs with a strong blue cheese dipping sauce",
+    "Creamy warm baked goats cheese salad"
+  ],
+  "brewers_tips": "Watch out for collecting too much wort. Collecting too much liquid from run off (under 1008) may impart massive and undesired 'grainy' flavours into the beer",
+  "contributed_by": "Mike Francis <mikeffrancis@gmail.com>"
+}

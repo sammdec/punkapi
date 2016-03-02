@@ -41,7 +41,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] ZEPHYR
 - [ ] COFFEE IMPERIAL STOUT
 - [ ] DEVINE REBEL (W/MIKKELLER)
-- [ ] 77 LAGER
+- [x] 77 LAGER
 - [ ] ATLANTIC IPA ALE
 - [ ] HOW TO DISAPPEAR COMPLETELY
 - [ ] 5AM SAINT
