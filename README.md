@@ -1,7 +1,7 @@
 # Punk API
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 15 of 215 completed**
+**Status: 16 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -235,4 +235,4 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] ELVIS JUICE V2.0
 - [ ] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
 - [ ] B-SIDES – SINGLE HOP ENIGMA IPA
-- [ ] JET BLACK HEART
+- [x] JET BLACK HEART
