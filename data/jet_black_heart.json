@@ -1,0 +1,133 @@
+{
+  "name": "Jet Black Heart",
+  "tagline": "Oatmeal Milk Stout. Dark. Roasty. Velvety.",
+  "first_brewed": "01/2016",
+  "description": "Good things come to those who wait. This smooth and roasty oatmeal milk stout won our 2015 Prototype Challenge at a canter. Roasty coffee and chocolate lead to a decadent, full-bodied richness of near uncharted depths with a velvet mouthfeel from the addition of oatmeal and a touch of wheat. This is complemented at every turn by the Magnum and Sorachi Ace hops, with the latter bringing an intensity of smooth vanilla and dark berry fruit on the long, rewarding finish.",
+  "abv": 4.7,
+  "ibu": 45,
+  "target_fg": 1019,
+  "target_og": 1055,
+  "ebc": 200,
+  "srm": 100,
+  "ph": 4.4,
+  "attenuation_level": 70,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 2.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Lactose",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 6.3,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+    ],
+    "yeast": "Wyeast 1056 American Ale™"
+  },
+  "food_pairing": [
+    "Oyster beignets",
+    "Beef shin stew",
+    "A Shakin' jesse"
+  ],
+  "brewers_tips": "There's a lot of speciality malt in the mash. Make sure you take the run off nice and steady – increase the flow too much and pull in the bed at your peril.",
+  "contributed_by": "Sasha <SashaMasondeCaires>"
+}
