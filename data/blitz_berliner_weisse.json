@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 60,
+      "duration": 60
     },
     "fermentation": {
       "temp": {
@@ -34,7 +34,7 @@
       }
     },
     "twist": {
-      "technique": "Before main fermentation steep a bag of malt in the wort for 48 hours. Re boil the wort before pitching in the yeast for the main fermentation",
+      "technique": "Before main fermentation steep a bag of malt in the wort for 48 hours. Re boil the wort before pitching in the yeast for the main fermentation"
     }
   },
   "ingredients": {
@@ -44,15 +44,15 @@
           "amount": {
             "value": 1.88,
             "unit": "kilograms"
-          },
-        }
+          }
+        },
         {
           "name": "Wheat",
           "amount": {
             "value": 1.88,
             "unit": "kilograms"
           }
-      },
+      }
     ],
     "hops": [
       {
@@ -63,7 +63,7 @@
         },
         "add": "Start",
         "attribute": "Bitter"
-      },
+      }
     ],
     "yeast": "Wyeast 1056 - American Ale IITM"
   },

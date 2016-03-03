@@ -25,14 +25,14 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
         "value": 21,
         "unit": "celsius"
       }
-    },
+    }
   },
   "ingredients": {
     "malt": [
@@ -56,7 +56,7 @@
           "value": 0.63,
           "unit": "kilograms"
         }
-      },
+      }
     ],
     "hops": [
       {
@@ -103,8 +103,7 @@
         },
         "add": "Dry Hop",
         "attribute": "Aroma"
-      },
-
+      }
     ],
     "yeast": "Wyeast 1272 - American Ale IITM"
   },

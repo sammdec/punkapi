@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -34,15 +34,13 @@
       }
     },
     "twist": {
-      "technique": ,
       "ingredients": [
         {
           "name": "Heather Honey",
           "amount": {
             "value": 125,
             "unit": "grams"
-          },
-          "add":
+          }
         }
       ]
     }
@@ -125,7 +123,7 @@
           "value": 0.25,
           "unit": "kilograms"
         }
-      },
+      }
     ],
     "hops": [
       {
@@ -145,7 +143,7 @@
         },
         "add": "Start",
         "attribute": "Bitter"
-      },
+      }
     ],
     "yeast": "Wyeast 2007 - Pilsen LagerTM"
   },

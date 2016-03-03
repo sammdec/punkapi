@@ -2,8 +2,7 @@
   "name": "Dead Metaphor",
   "tagline": "Scottish Breakfast Stout",
   "first_brewed": "09/2013",
-  "description": "Scottish chocolate breakfast Stout
-- brewed with Brazilian Sertão coffee, Venezuelan cacao and (for the Scottish element) oatmeal. Smooth, chocolately and rich, with a honeycomb mouthfeel and a rich red berry coffee character. Brewed with our beer blogger friends from The Beer Cast and Hopzine.",
+  "description": "Scottish chocolate breakfast Stout - brewed with Brazilian Sertão coffee, Venezuelan cacao and (for the Scottish element) oatmeal. Smooth, chocolately and rich, with a honeycomb mouthfeel and a rich red berry coffee character. Brewed with our beer blogger friends from The Beer Cast and Hopzine.",
   "abv": 6.8,
   "ibu": 30,
   "target_fg": 1016,
@@ -26,7 +25,7 @@
         "value": 64,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -35,7 +34,6 @@
       }
     },
     "twist": {
-      "technique": ,
       "ingredients": [
         {
           "name": "Cacao",
@@ -121,7 +119,7 @@
           "value": 0.31,
           "unit": "kilograms"
         }
-      },
+      }
     ],
     "hops": [
       {
@@ -132,7 +130,7 @@
         },
         "add": "Start",
         "attribute": "Bitter"
-      },
+      }
     ],
     "yeast": "Wyeast 1056 - American AleTM"
   },
