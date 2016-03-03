@@ -1,0 +1,1 @@
+The data in this API is taken directly from BrewDog’s DIY Dog and is therefore free to use, replicate verbatim and share, but cannot be used for commercial purposes. If you have an enquiry about DIY Dog, contact hello@brewdog.com. 

@@ -1,0 +1,131 @@
+{
+  "name": "Punk Monk",
+  "tagline": "Who Ordered The Belgian Yeast?",
+  "first_brewed": "07/2009",
+  "description": "Old world meets new in this trans-atlantic mash up of brewing ingredients. Belgian funk incorporates itself into the pithy, resin and grapefruit, with pineapple and banana rounding out a rambunctious avalanche of fruity hops.",
+  "abv": 6,
+  "ibu": 60,
+  "target_fg": 1010,
+  "target_og": 1056,
+  "ebc": 17,
+  "srm": 8.5,
+  "ph": 4.4,
+  "attenuation_level": 82.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.3,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 17.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 17.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 17.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 17.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 17.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 17.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast-Ardennes 3522"
+  },
+  "food_pairing": [
+    "Moules frites",
+    "Thai green curry",
+    "Lemon posset"
+  ],
+  "brewers_tips": "Bottle condition and prime with a little bit more sugar than usual to attain those authentic fine Belgian bubbles.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

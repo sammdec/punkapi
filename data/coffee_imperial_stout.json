@@ -1,0 +1,134 @@
+{
+  "name": "Coffee Imperial Stout",
+  "tagline": "Beats a Cup of Joe.",
+  "first_brewed": "11/2008",
+  "description": "This beer was released as both as \"Danish Beerhouse Coffee Imperial Stout\" and \"BrewDog Coffee Imperial Stout\". Deep, dark, roasted flavours make this a perfect Sunday brunch beer.",
+  "abv": 9,
+  "ibu": 65,
+  "target_fg": 1019,
+  "target_og": 1080,
+  "ebc": 97,
+  "srm": 49,
+  "ph": 4.4,
+  "attenuation_level": 76,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 64,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coffee added after boil. Aged on French oak chips., Dark muscovado sugar: 312.5g for 20mins"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roast Barley",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 9.4,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 9.4,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Gooey chocolate brownies",
+    "Chicken fried steak with cheesy mash",
+    "Spicy chicken empanadas"
+  ],
+  "brewers_tips": "Grind the coffee as if making an espresso to really get the most out of it.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

@@ -1,0 +1,198 @@
+{
+  "name": "How To Disappear Completely",
+  "tagline": "Fake Fix Double IPA.",
+  "first_brewed": "04/2009",
+  "description": "Jam-packed with two of our favourite hops - Columbus and Centennial, it has 198 (yes one hundred and ninety eight) theoretical IBUs. We use a lot of caramalt, some amber malt and some chocolate malt to give the little beer as much body and mouthfeel as possible and the ability to handle all the hops we threw at it. We think this beer is the world’s first ever Imperial Mild. Imperial in terms of hop profile. An Imperially Hopped Mild. BrewDog’s Imperial Mild. How to Disappear Completely.",
+  "abv": 3.5,
+  "ibu": 198,
+  "target_fg": 1010,
+  "target_og": 1037,
+  "ebc": 37,
+  "srm": 19,
+  "ph": 4.4,
+  "attenuation_level": 73,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Crystal 60",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal 350",
+        "amount": {
+          "value": 0.081,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.081,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.081,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 18.8,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 18.8,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 18.8,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 18.8,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3522 - Ardennes™"
+  },
+  "food_pairing": [
+    "Spicy pork sausages with red potato mash",
+    "Turnip beef stew with crusty fresh baked bread",
+    "Summer berry cheesecake"
+  ],
+  "brewers_tips": "Dry Hopping: Columbus 37.5g, Centennial 37.5g, Galena 37.5g, Horizon 37.5g",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

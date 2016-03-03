@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 17 of 215 completed**
+**Status: 36 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -36,26 +36,26 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] CULT LAGER
 - [x] TRASHY BLONDE
 - [x] ORIGINAL DOGMA (NÉE SPEEDBALL)
-- [ ] AB:03
-- [ ] ZEITGEIST
-- [ ] BAD PIXIE
-- [ ] CHAOS THEORY
-- [ ] ZEPHYR
-- [ ] COFFEE IMPERIAL STOUT
-- [ ] DEVINE REBEL (W/MIKKELLER)
+- [x] AB:03
+- [x] ZEITGEIST
+- [x] BAD PIXIE
+- [x] CHAOS THEORY
+- [x] ZEPHYR
+- [x] COFFEE IMPERIAL STOUT
+- [x] DEVINE REBEL (W/MIKKELLER)
 - [x] 77 LAGER
-- [ ] ATLANTIC IPA ALE
-- [ ] HOW TO DISAPPEAR COMPLETELY
-- [ ] 5AM SAINT
-- [ ] TOKYO RISING SUN - HIGHLAND
-- [ ] TOKYO RISING SUN - LOWLAND
-- [ ] TOKYO*
-- [ ] PUNK MONK
-- [ ] BASHAH (W/STONE BREWING CO)
-- [ ] NANNY STATE
-- [ ] TACTICAL NUCLEAR PENGUIN
-- [ ] EUROTRASH
-- [ ] MOVEMBER
+- [x] ATLANTIC IPA ALE
+- [x] HOW TO DISAPPEAR COMPLETELY
+- [x] 5AM SAINT
+- [x] TOKYO RISING SUN - HIGHLAND
+- [x] TOKYO RISING SUN - LOWLAND
+- [x] TOKYO*
+- [x] PUNK MONK
+- [x] BASHAH (W/STONE BREWING CO)
+- [x] NANNY STATE
+- [x] TACTICAL NUCLEAR PENGUIN
+- [x] EUROTRASH
+- [x] MOVEMBER
 - [ ] BLACK DOG
 - [ ] HARDCORE IPA
 - [ ] SINK THE BISMARCK!
@@ -236,3 +236,6 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
 - [ ] B-SIDES – SINGLE HOP ENIGMA IPA
 - [x] JET BLACK HEART
+
+## License
+Please see [License](LICENSE.md)

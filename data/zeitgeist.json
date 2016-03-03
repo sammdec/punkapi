@@ -1,0 +1,98 @@
+{
+  "name": "Zeitgeist",
+  "tagline": "Organic Black Lager.",
+  "first_brewed": "12/2008",
+  "description": "Zeitgeist is an idiosyncratic alternative black lager. Its inspiration is found more than 200 years ago. Zeitgeist takes an age old classic, a forgotten masterpiece, and gives it relevance and an avant-garde edge.",
+  "abv": 4.9,
+  "ibu": 32,
+  "target_fg": 1010,
+  "target_og": 1047.5,
+  "ebc": 120,
+  "srm": 60,
+  "ph": 4.3,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 15,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Organic Lager",
+        "amount": {
+          "value": 1.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Organic Caramalt",
+        "amount": {
+          "value": 0.28,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Organic Munich",
+        "amount": {
+          "value": 2.7,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Organic Chocolate",
+        "amount": {
+          "value": 0.23,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 27.2,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 27.2,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "S189 Yeast"
+  },
+  "food_pairing": [
+    "Spicy cajun fried chicken",
+    "Pork dumplings with rich soy sauce",
+    "Cinnamon carrot cake with creamy cheese frosting"
+  ],
+  "brewers_tips": "Inspect the colour of the wort during boiling. If it is not quite dark enough, extend the boil by 10 - 15 mins and check again. The wort will darken during the boiling process.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

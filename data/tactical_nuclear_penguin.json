@@ -1,0 +1,143 @@
+{
+  "name": "Tactical Nuclear Penguin",
+  "tagline": "Uber Imperial Stout.",
+  "first_brewed": "09/2009",
+  "description": "This beer is about pushing the boundaries, it is about taking innovation in beer to a whole new level. Dark and decadent, plum, treacle and roast coffee are amplified beyond any stout you've had before.",
+  "abv": 32,
+  "ibu": 1157,
+  "target_fg": 1028,
+  "target_og": 1157,
+  "ebc": 250,
+  "srm": 127,
+  "ph": 4.4,
+  "attenuation_level": 82.2,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Cranberry: 25g at end, Jasmine: 25g at end, Muscovado sugar: 300g at start, Oak chips: 15g at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 11.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 1.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Goldings",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "WLP099 Super High Gravity Ale"
+  },
+  "food_pairing": [
+    "Lobster thermidor",
+    "Pan fried Foie Gras",
+    "Vanilla bean white chocolate"
+  ],
+  "brewers_tips": "This level of alcohol can be achieved using a domestic freezer. Use a container with a tap close to the bottom so you can run the un-frozen, concentrated beer from under the ice on top. You may have to do this three or four times.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

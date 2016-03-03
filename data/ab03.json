@@ -1,0 +1,68 @@
+{
+  "name": "AB:03",
+  "tagline": "Barrel-Aged Imperial Ale.",
+  "first_brewed": "09/2008",
+  "description": "This Abstrakt started life as a simple imperial Ale, but upon the addition of fresh Scottish raspberries and strawberries, and left to mature for 2 years in Invergordon whisky casks that had held whisky for over 40 years, this beer transcended into something new.",
+  "abv": 10.5,
+  "ibu": 14,
+  "target_fg": 1013,
+  "target_og": 1093,
+  "ebc": null,
+  "srm": null,
+  "ph": 4.4,
+  "attenuation_level": 80,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Strawberries: 1kg, Raspberries: 1kg, Oak Chips: 75g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 8,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 66.7,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - Ameican Ale II™"
+  },
+  "food_pairing": [
+    "Haggis spring rolls",
+    "Honey glazed duck breast",
+    "Cranachan"
+  ],
+  "brewers_tips": "Add your hops with five minutes of the boil left in a nod to the great lambic producers of Belgium.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
