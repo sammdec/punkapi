@@ -6,7 +6,7 @@
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
 ## What's the deal?
-If you head to the [`data`](data/) folder you will see all the recipes so far, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the [`TEMPLATE.json`](data/TEMPLATE.json) file and submit it as a PR.
+If you head to the [`data`](data/) folder you will see all the recipes so far, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the [`TEMPLATE.json`](TEMPLATE.json) file and submit it as a PR.
 
 ## Where can I find the recipes?
 Head over to BrewDog's DIY Dog [page to download the free PDF](https://www.brewdog.com/diydog)
