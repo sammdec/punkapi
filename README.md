@@ -236,3 +236,6 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
 - [ ] B-SIDES – SINGLE HOP ENIGMA IPA
 - [x] JET BLACK HEART
+
+## License
+Please see [License](LICENSE.md)
