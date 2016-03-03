@@ -1,0 +1,127 @@
+{
+  "name": "Bashah (w/Stone Brewing Co)",
+  "tagline": "Black Belgian Double IPA.",
+  "first_brewed": "08/2009",
+  "description": "Brewed when our good friends from Stone visited in 2009. Black As Sin, Hoppy As Hell - no other beer name has quite hit the nail so squarely on the head. Dark roasted malt makes a beautiful canvas for the savage hop bitterness, pine needles and orange zest.",
+  "abv": 9.7,
+  "ibu": 100,
+  "target_fg": 1015,
+  "target_og": 1088,
+  "ebc": 30,
+  "srm": 15.3,
+  "ph": 4.4,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 175
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 8.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.16,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa 3",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Hercules",
+        "amount": {
+          "value": 31.3,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Hercules",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3522- Ardennes™"
+  },
+  "food_pairing": [
+    "Chocolate crème brûlée with raspberries",
+    "Thyme, rosemary and black pepper rubbed roast beef served with fried green beans",
+    "Angus beef cheeseburger"
+  ],
+  "brewers_tips": "We also produced two separate barrel- aged versions of this beer; Bashah 2009 Highland Park and Black Raspberry Reserve, and Bashah 2009 Imperial and Tayberry Reserve were two barrel aged versions of the beer. Try ageing this beer on oak or with fruit to make your own reserve.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
