@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Testing for punkapi",
   "scripts": {
-    "test": "jsonlint ../data/*.json -V ./schema.json"
+    "test": "jsonlint ./data/*.json -V ./test/schema.json"
   },
   "author": "Sam Mason <sam.jbmason@gmail.com>",
   "license": "MIT",
