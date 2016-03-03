@@ -1,0 +1,98 @@
+{
+  "name": "Devine Rebel (w/ Mikkeller)",
+  "tagline": "Oak-aged Barley Wine.",
+  "first_brewed": "12/2008",
+  "description": "Two of Europe's most experimental, boundary-pushing brewers, BrewDog and Mikkeller, combined forces to produce a rebellious beer that combined their respective talents and brewing skills. The 12.5% Barley Wine fermented well, and the champagne yeast drew it ever closer to 12.5%. The beer was brewed with a single hop variety and was going to be partially aged in oak casks.",
+  "abv": 12.5,
+  "ibu": 100,
+  "target_fg": 1030,
+  "target_og": 1093,
+  "ebc": 36,
+  "srm": 18,
+  "ph": 4.4,
+  "attenuation_level": 68,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Part-aged in oak barrels, finished with champagne yeast"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 10,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Stilton on gingerbread biscuits",
+    "Pot roasted artichokes",
+    "Lamb chops with caramelised figs"
+  ],
+  "brewers_tips": "Rack off to a secondary fermenter before pitching in some champagne.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
