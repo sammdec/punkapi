@@ -1,0 +1,118 @@
+{
+  "name": "Atlantic IPA Ale",
+  "tagline": "IPA Of Yesteryear.",
+  "first_brewed": "12/2008",
+  "description": "Like IPA historically would have been. Part of this beer was aged on a fishing boat in an oak cask and released as \"Atlantic IPA\".",
+  "abv": 8,
+  "ibu": 80,
+  "target_fg": 1013,
+  "target_og": 1074,
+  "ebc": 55,
+  "srm": 13,
+  "ph": 4.4,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.73,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.52,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.52,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 146,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "East Kent Goldings",
+        "amount": {
+          "value": 47,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 46,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Goldings",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "US-05"
+  },
+  "food_pairing": [
+    "Smoked venison sausage",
+    "Very mature Cheddar",
+    "Fettucine alfredo"
+  ],
+  "brewers_tips": "Ensure you aerate the wort to get a nice clean fermentation and really get the best out of the UK hops.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
