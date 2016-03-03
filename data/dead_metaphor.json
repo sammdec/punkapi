@@ -1,0 +1,117 @@
+{
+  "name": "Dead Metaphor",
+  "tagline": "Scottish Breakfast Stout.",
+  "first_brewed": "09/2013",
+  "description": "Scottish chocolate breakfast Stout - brewed with Brazilian Sertão coffee, Venezuelan cacao and (for the Scottish element) oatmeal. Smooth, chocolately and rich, with a honeycomb mouthfeel and a rich red berry coffee character. Brewed with our beer blogger friends from The Beer Cast and Hopzine.",
+  "abv": 6.8,
+  "ibu": 30,
+  "target_fg": 1016,
+  "target_og": 1068,
+  "ebc": 86,
+  "srm": 43,
+  "ph": 4.4,
+  "attenuation_level": 76.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 64,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Cacao: 37.5g at end, Lactose: 125g at end, Ground Coffee: 6.3g at end."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type I",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Brisket burnt ends",
+    "Candied bacon French toast",
+    "Coco Pops (add stout to cereal)"
+  ],
+  "brewers_tips": "Steep the cocoa nibs and chocolate in the hot wort for a short period for the best extraction of flavour compounds.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Blitz Berliner Weisse",
+  "tagline": "Berliner Fruit Beer.",
+  "first_brewed": "07/2013",
+  "description": "Our sour recipe for all fruit Blitz beers uses a process called kettle souring. In this we steep a bag of malt in the wort to allow the bacteria to grow in it.",
+  "abv": 3,
+  "ibu": 8,
+  "target_fg": 1040,
+  "target_og": 1007,
+  "ebc": 9,
+  "srm": 4.5,
+  "ph": 3.2,
+  "attenuation_level": 82.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 60
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Before main fermentation steep a bag of malt in the wort for 48 hours. Re boil the wort before pitching in the yeast for the main fermentation."
+  },
+  "ingredients": {
+    "malt": [
+        {
+          "name": "Extra Pale",
+          "amount": {
+            "value": 1.88,
+            "unit": "kilograms"
+          }
+        },
+        {
+          "name": "Wheat",
+          "amount": {
+            "value": 1.88,
+            "unit": "kilograms"
+          }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 8.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale II™"
+  },
+  "food_pairing": [
+    "Grilled salmon with a light lemon sauce",
+    "Lobster bisque",
+    "Cheesecake with raspberry (or peach/passion fruit) sauce"
+  ],
+  "brewers_tips": "Making sour beers is an art, and is mostly related to trial and error with your process. Experiment with different temperatures for steeping the grain. 40 - 50°C willallow the lacto to grow and produce a clean profile.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}

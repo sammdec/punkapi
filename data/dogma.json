@@ -1,0 +1,147 @@
+{
+  "name": "Dogma",
+  "tagline": "Revamped Wee Heavy. Luscious. Malty. Fruity.",
+  "first_brewed": "07/2013",
+  "description": "Brewed with over ten different types of malt, and blended together with Scottish heather honey, it is a pantheon to the gods of intricacy and nuance; a beer that celebratesa confluence of ideas. Complex, indulgent and encapsulating, Dogma gives more than a cursory nod to history, to make you ponder the very nature of beer itself.",
+  "abv": 7.5,
+  "ibu": 30,
+  "target_fg": 1023,
+  "target_og": 1080,
+  "ebc": 46,
+  "srm": 23,
+  "ph": 4.5,
+  "attenuation_level": 70,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 12,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Heather Honey: 125g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Mature cheddar with red onion chutney",
+    "Honey glazed ham",
+    "Chocolate caramel drizzled sponge cake"
+  ],
+  "brewers_tips": "There's a lot of specialty malt in the mash. Make sure you take the run off nice and steady – increase the flow too much and pull in the bed at your peril.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}
