@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 20 of 215 completed**
+**Status: 21 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -39,7 +39,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] AB:03
 - [x] ZEITGEIST
 - [x] BAD PIXIE
-- [ ] CHAOS THEORY
+- [x] CHAOS THEORY
 - [ ] ZEPHYR
 - [ ] COFFEE IMPERIAL STOUT
 - [ ] DEVINE REBEL (W/MIKKELLER)
