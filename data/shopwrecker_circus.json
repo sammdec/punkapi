@@ -1,0 +1,170 @@
+{
+  "name": "Shopwrecker Circus (w/Oskar Blues)",
+  "tagline": "American Barley Wine - Oskar Blues Collab",
+  "first_brewed": "09/2013",
+  "description": "In collaboration with the awesome Oskar Blues from Colorado, we created this big, twisted 10.5% American style barley wine. Big boozy aromas and a sweet viscosity, packed in with some heavy-hitting C-hops, for an intense bitterness to balance this full-bodied malt monster.",
+  "abv": 10.5,
+  "ibu": 85,
+  "target_fg": 1022,
+  "target_og": 1102,
+  "ebc": 64,
+  "srm": 32,
+  "ph": 4.4,
+  "attenuation_level": 102,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 9.35,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      },
+
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+    ],
+    "yeast": "Wyeast 1272 - American Ale IITM"
+  },
+  "food_pairing": [
+    "Stilton",
+    "Pan seared steak",
+    "Dark Chocolate Fondant"
+  ],
+  "brewers_tips": "Age this beer in the cellar for a few months to allow the warm alcohol flavours to reduce.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}

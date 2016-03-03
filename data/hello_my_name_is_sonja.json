@@ -1,0 +1,118 @@
+{
+  "name": "Hello My Name is Sonja (w/Evil Twin)",
+  "tagline": "Blueberry Double IPA",
+  "first_brewed": "09/2013",
+  "description": "Brewed in collaboration with Jeppe from Evil Twin Brewing (and named after his mum), this Double IPA is big on fruity flavours. Single hopped with Mosaic for lots of tropical, passion fruit and citrus flavours. Loaded with well over 100kg of blueberries, the original was one super fruity hop bomb.",
+  "abv": 8.3,
+  "ibu": 70,
+  "target_fg": 1013,
+  "target_og": 1076,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 82.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75,
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+    ],
+    "hops": [
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Blueberries",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 187.5,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+
+    ],
+    "yeast": "Wyeast 1272 - American Ale IITM"
+  },
+  "food_pairing": [
+    "Lamb chops with a blueberry reduction",
+    "Cured ham and strong mulled cheddar board",
+    "Warm blueberry pie"
+  ],
+  "brewers_tips": "Mash the blueberries before adding to the kettle. This will help with flavour extraction and turning your wort a nice shade of purple.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}
