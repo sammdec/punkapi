@@ -1,0 +1,114 @@
+{
+  "name": "Movember",
+  "tagline": "Moustache-Worthy Beer.",
+  "first_brewed": "11/2009",
+  "description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
+  "abv": 4.5,
+  "ibu": 50,
+  "target_fg": 1012,
+  "target_og": 1047,
+  "ebc": 140,
+  "srm": 70,
+  "ph": 5.2,
+  "attenuation_level": 74.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": 50
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Maris Otter",
+        "amount": {
+          "value": 3.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 43.8,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 81.3,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 250,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Vegetable egg scramble",
+    "Margherita pizza",
+    "Fresh berry crisp tart"
+  ],
+  "brewers_tips": "If you can’t find really fresh cascade, substitute it for Amarillo or Ahtanum.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
