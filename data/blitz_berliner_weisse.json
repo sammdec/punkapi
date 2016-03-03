@@ -33,9 +33,7 @@
         "unit": "celsius"
       }
     },
-    "twist": {
-      "technique": "Before main fermentation steep a bag of malt in the wort for 48 hours. Re boil the wort before pitching in the yeast for the main fermentation"
-    }
+    "twist": "Before main fermentation steep a bag of malt in the wort for 48 hours. Re boil the wort before pitching in the yeast for the main fermentation."
   },
   "ingredients": {
     "malt": [
@@ -61,11 +59,11 @@
           "value": 8.5,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       }
     ],
-    "yeast": "Wyeast 1056 - American Ale IITM"
+    "yeast": "Wyeast 1056 - American Ale II™"
   },
   "food_pairing": [
     "Grilled salmon with a light lemon sauce",

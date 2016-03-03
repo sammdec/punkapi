@@ -1,6 +1,6 @@
 {
   "name": "Dogma",
-  "tagline": "Revamped wee heavy. Luscious. Malty. Fruity",
+  "tagline": "Revamped wee heavy. Luscious. Malty. Fruity.",
   "first_brewed": "07/2013",
   "description": "Brewed with over ten different types of malt, and blended together with Scottish heather honey, it is a pantheon to the gods of intricacy and nuance; a beer that celebratesa confluence of ideas. Complex, indulgent and encapsulating, Dogma gives more than a cursory nod to history, to make you ponder the very nature of beer itself.",
   "abv": 7.5,
@@ -33,17 +33,7 @@
         "unit": "celsius"
       }
     },
-    "twist": {
-      "ingredients": [
-        {
-          "name": "Heather Honey",
-          "amount": {
-            "value": 125,
-            "unit": "grams"
-          }
-        }
-      ]
-    }
+    "twist": "Heather Honey: 125g"
   },
   "ingredients": {
     "malt": [
@@ -132,8 +122,8 @@
           "value": 75,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "First Gold",
@@ -141,11 +131,11 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       }
     ],
-    "yeast": "Wyeast 2007 - Pilsen LagerTM"
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
   },
   "food_pairing": [
     "Mature cheddar with red onion chutney",

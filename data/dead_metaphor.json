@@ -1,6 +1,6 @@
 {
   "name": "Dead Metaphor",
-  "tagline": "Scottish Breakfast Stout",
+  "tagline": "Scottish Breakfast Stout.",
   "first_brewed": "09/2013",
   "description": "Scottish chocolate breakfast Stout - brewed with Brazilian Sertão coffee, Venezuelan cacao and (for the Scottish element) oatmeal. Smooth, chocolately and rich, with a honeycomb mouthfeel and a rich red berry coffee character. Brewed with our beer blogger friends from The Beer Cast and Hopzine.",
   "abv": 6.8,
@@ -33,34 +33,7 @@
         "unit": "celsius"
       }
     },
-    "twist": {
-      "ingredients": [
-        {
-          "name": "Cacao",
-          "amount": {
-            "value": 37.5,
-            "unit": "grams"
-          },
-          "add":"End"
-        },
-        {
-          "name": "Lactose",
-          "amount": {
-            "value": 125,
-            "unit": "grams"
-          },
-          "add": "End"
-        },
-        {
-          "name": "Ground Coffee",
-          "amount": {
-            "value": 6.3,
-            "unit": "grams"
-          },
-          "add":"End"
-        }
-      ]
-    }
+    "twist": "Cacao: 37.5g at end, Lactose: 125g at end, Ground Coffee: 6.3g at end."
   },
   "ingredients": {
     "malt": [
@@ -128,11 +101,11 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       }
     ],
-    "yeast": "Wyeast 1056 - American AleTM"
+    "yeast": "Wyeast 1056 - American AleT™"
   },
   "food_pairing": [
     "Brisket burnt ends",

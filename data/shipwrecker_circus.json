@@ -1,6 +1,6 @@
 {
-  "name": "Shopwrecker Circus (w/Oskar Blues)",
-  "tagline": "American Barley Wine - Oskar Blues Collab",
+  "name": "Shipwrecker Circus (w/Oskar Blues)",
+  "tagline": "American Barley Wine - Oskar Blues Collab.",
   "first_brewed": "09/2013",
   "description": "In collaboration with the awesome Oskar Blues from Colorado, we created this big, twisted 10.5% American style barley wine. Big boozy aromas and a sweet viscosity, packed in with some heavy-hitting C-hops, for an intense bitterness to balance this full-bodied malt monster.",
   "abv": 10.5,
@@ -32,7 +32,8 @@
         "value": 21,
         "unit": "celsius"
       }
-    }
+    },
+    "twist": null
   },
   "ingredients": {
     "malt": [
@@ -72,8 +73,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Cascade",
@@ -81,8 +82,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
       {
         "name": "Citra",
@@ -90,8 +91,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
       {
         "name": "Chinook",
@@ -99,8 +100,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
       {
         "name": "Chinook",
@@ -108,8 +109,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Citra",
@@ -117,8 +118,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Cascade",
@@ -126,8 +127,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Cascade",
@@ -135,8 +136,8 @@
           "value": 125,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Chinook",
@@ -144,8 +145,8 @@
           "value": 125,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -153,11 +154,11 @@
           "value": 125,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
-    "yeast": "Wyeast 1272 - American Ale IITM"
+    "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": [
     "Stilton",
