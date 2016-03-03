@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -38,8 +38,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Extra Pale Maris
-Otter",
+        "name": "Extra Pale Maris Otter",
         "amount": {
           "value": 3.78,
           "unit": "kilograms"

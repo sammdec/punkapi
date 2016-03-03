@@ -25,7 +25,7 @@
         "value": 69,
         "unit": "celsius"
       },
-      "duration": null,
+      "duration": 0
     },
     "fermentation": {
       "temp": {
@@ -95,8 +95,7 @@
         },
         "add": "end",
         "attribute": "flavour"
-      },
-
+      }
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
@@ -106,8 +105,6 @@
     "Goats cheese salad",
     "Creamy lemon bar doused in powdered sugar"
   ],
-  "brewers_tips": "Be careful not to collect too much
-wort from the mash. Once the sugars
-are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
+  "brewers_tips": "Be careful not to collect too much wort from the mash. Once the sugars are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

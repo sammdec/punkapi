@@ -10,7 +10,7 @@
   "ebc": 19,
   "srm": 8,
   "ph": 4.1,
-  "attenuation_level": ,
+  "attenuation_level": 83.7,
   "volume": {
     "value": 20,
     "unit": "liters"
@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -43,8 +43,7 @@
           "value": 4.66,
           "unit": "kilograms"
         }
-      },
-
+      }
     ],
     "hops": [
       {

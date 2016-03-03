@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -43,8 +43,7 @@
           "value": 3.85,
           "unit": "kilograms"
         }
-      },
-
+      }
     ],
     "hops": [
       {
@@ -110,7 +109,6 @@
         "add": "dry hop",
         "attribute": "aroma"
       }
-
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },

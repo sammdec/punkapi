@@ -1,0 +1,13 @@
+{
+  "name": "punkapi",
+  "version": "0.1.0",
+  "description": "Testing for punkapi",
+  "scripts": {
+    "test": "jsonlint ../data/*.json -V ./schema.json"
+  },
+  "author": "Sam Mason <sam.jbmason@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jsonlint": "ginman86/jsonlint#c95cda5"
+  }
+}

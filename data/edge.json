@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {

@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -33,7 +33,7 @@
         "unit": "celsius"
       }
     },
-    "twist": null,
+    "twist": null
   },
   "ingredients": {
     "malt": [
@@ -42,7 +42,7 @@
         "amount": {
           "value": 5.3,
           "unit": "kilograms"
-        },
+        }
       }
     ],
     "hops": [
@@ -119,7 +119,7 @@
         "attribute": "flavour"
       }
     ],
-    "yeast": "Wyeast 1056 - American Ale™",
+    "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": [
     "Spicy carne asada with a pico de gallo sauce",

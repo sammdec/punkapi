@@ -1,0 +1,214 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "tagline": {
+      "type": "string",
+      "required": true
+    },
+    "first_brewed": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "abv": {
+      "type": "number",
+      "required": true
+    },
+    "ibu": {
+      "type": "number",
+      "required": true
+    },
+    "target_fg": {
+      "type": "number",
+      "required": true
+    },
+    "target_og": {
+      "type": "number",
+      "required": true
+    },
+    "ebc": {
+      "type": "number",
+      "required": true
+    },
+    "srm": {
+      "type": "number",
+      "required": true
+    },
+    "ph": {
+      "type": "number",
+      "required": true
+    },
+    "attenuation_level": {
+      "type": "number",
+      "required": true
+    },
+    "volume": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "integer",
+          "required": true
+        },
+        "unit": {
+          "type": "string",
+          "required": true
+        }
+      }
+    },
+    "boil_volume": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "integer",
+          "required": true
+        },
+        "unit": {
+          "type": "string",
+          "required": true
+        }
+      }
+    },
+    "method": {
+      "type": "object",
+      "properties": {
+
+        "mash_temp": {
+          "type": "object",
+          "properties": {
+
+            "temp": {
+              "type": "object",
+              "properties": {
+                "value": {
+                  "type": "number",
+                  "required": true
+                },
+                "unit": {
+                  "type": "string",
+                  "required": true
+                }
+              }
+            },
+            "duration": {
+              "type": "number"
+            }
+          }
+        },
+        "fermentation": {
+          "type": "object",
+          "properties": {
+
+            "temp": {
+              "type": "object",
+              "properties": {
+
+                "value": {
+                  "type": "number",
+                  "required": true
+                },
+                "unit": {
+                  "type": "string",
+                  "required": true
+                }
+              }
+            }
+          }
+        },
+        "twist": {
+          "type": ["string", "null"],
+          "required": true
+        }
+      }
+    },
+    "ingredients": {
+      "type": "object",
+      "properties": {
+        "malt": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "required": true
+              },
+              "amount": {
+                "type": "object",
+                "properties": {
+                  "value": {
+                    "type": "number",
+                    "required": true
+                  },
+                  "unit": {
+                    "type": "string",
+                    "required": true
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hops": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "required": true
+              },
+              "amount": {
+                "type": "object",
+                "properties": {
+                  "value": {
+                    "type": "number",
+                    "required": true
+                  },
+                  "unit": {
+                    "type": "string",
+                    "required": true
+                  }
+                }
+              },
+              "add": {
+                "type": "string",
+                "required": true
+              },
+              "attribute": {
+                "type": "string",
+                "required": true
+              }
+            }
+          }
+        },
+        "yeast": {
+          "type": "string",
+          "required": true
+        }
+      }
+    },
+    "food_pairing": {
+      "id": "food_pairing",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "required": true
+      }
+    },
+    "brewers_tips": {
+      "type": "string",
+      "required": true
+    },
+    "contributed_by": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

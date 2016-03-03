@@ -10,7 +10,7 @@
   "ebc": 17,
   "srm": 8.5,
   "ph": 4.4,
-  "attenuation_level": ,
+  "attenuation_level": 76.2,
   "volume": {
     "value": 20,
     "unit": "liters"
@@ -25,7 +25,7 @@
         "value": 65,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -43,8 +43,7 @@
           "value": 4.02,
           "unit": "kilograms"
         }
-      },
-
+      }
     ],
     "hops": [
       {
@@ -73,8 +72,7 @@
         },
         "add": "end",
         "attribute": "flavour"
-      },
-
+      }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },

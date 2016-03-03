@@ -25,7 +25,7 @@
         "value": 66,
         "unit": "celsius"
       },
-      "duration": 75,
+      "duration": 75
     },
     "fermentation": {
       "temp": {
@@ -33,7 +33,8 @@
         "unit": "celsius"
       }
     },
-    "twist": null,
+    "twist": null
+  },
   "ingredients": {
     "malt": [
       {
@@ -41,14 +42,14 @@
         "amount": {
           "value": 4.38,
           "unit": "kilograms"
-        },
+        }
       },
       {
         "name": "Caramalt",
         "amount": {
           "value": 0.25,
           "unit": "kilograms"
-        },
+        }
       }
     ],
     "hops": [
