@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 27 of 215 completed**
+**Status: 28 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -47,7 +47,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] ATLANTIC IPA ALE
 - [x] HOW TO DISAPPEAR COMPLETELY
 - [x] 5AM SAINT
-- [ ] TOKYO RISING SUN - HIGHLAND
+- [x] TOKYO RISING SUN - HIGHLAND
 - [ ] TOKYO RISING SUN - LOWLAND
 - [ ] TOKYO*
 - [ ] PUNK MONK
