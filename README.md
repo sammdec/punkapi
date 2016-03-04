@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 36 of 215 completed**
+**Status: 44 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -212,7 +212,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] B-SIDES – SPICED CHERRY SOUR
 - [ ] B-SIDES – DEAF MERMAID
 - [ ] #MASHTAG 2015
-- [ ] DOG D
+- [x] DOG D
 - [ ] HINTERLAND
 - [ ] PEACH THERAPY
 - [ ] HELLO MY NAME IS HOLY MOOSE
@@ -229,7 +229,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] INDIA SESSION LAGER
 - [ ] PROTOTYPE CHALLENGE
 - [ ] HOPPED-UP BROWN ALE PROTOTYPE CHALLENGE
-- [ ] ALBINO SQUID ASSASSIN
+- [x] ALBINO SQUID ASSASSIN
 - [ ] B-SIDES – BERLINER WEISSE WITH RASPBERRIES AND RHUBARB
 - [ ] ARCADE NATION
 - [ ] ELVIS JUICE V2.0

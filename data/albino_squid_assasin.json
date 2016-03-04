@@ -1,0 +1,150 @@
+{
+  "name": "Albino Squid Assasin",
+  "tagline": "Red Rye IPA",
+  "first_brewed": "11/2015",
+  "description": "This tentacled terminator packs a punch - ten punches to be precise. Each hop addition adds to the intense layers of depth in this red rye IPA. Toasty caramel & cinder toffee from crystal malts, cacao richness from intensely roasted malt and the spiciness of rye. Zesty pithiness from Citra and the robust resin of Chinook. This small batch exclusive brew is up-front intensity matched with twisted complexity. The can features awesome custom art from Joe Wilson.",
+  "abv": 7.4,
+  "ibu": 65,
+  "target_fg": 1012,
+  "target_og": 1069,
+  "ebc": 60,
+  "srm": 30,
+  "ph": 4.2,
+  "attenuation_level": 82.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.0,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 6.25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "fv",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "fv",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Rocket and mozzarella salad with a cracked pepper dressing",
+    "Fried halibut with sweet potato fritters",
+    "Grapefruit and blood orange tart"
+  ],
+  "brewers_tips": "20% specialty malts in this grist can create problems in the run off. Be careful not to pull the bed down onto the plates.",
+  "contributed_by": "Matt Ball <GeordieMatt>"
+}
