@@ -162,7 +162,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] PROTOTYPE CHALLENGE - MOSHI MOSHI 15
 - [x] BLACK EYE JOE (W/STONE BREWING CO)
 - [x] LUMBERJACK STOUT
-- [ ] CLOWN KING
+- [x] CLOWN KING
 - [ ] HELLO MY NAME IS VLADIMIR
 - [ ] BOURBON BABY
 - [ ] AB:16
