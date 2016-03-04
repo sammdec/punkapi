@@ -1,0 +1,121 @@
+{
+  "name": "Brixton Porter",
+  "tagline": "Paradigm-Changing Porter.",
+  "first_brewed": "11/2013",
+  "description": "Brixton Porter delivers bold chocolate and coffee flavours with light smokiness and hints of autumn fruit all but built on a low ABV, lighter bodied backbone. Complex and intriguing, with spicy bitterness, but very sessionable.",
+  "abv": 5,
+  "ibu": 50,
+  "target_fg": 1014,
+  "target_og": 1053,
+  "ebc": 200,
+  "srm": 100,
+  "ph": 4.4,
+  "attenuation_level": 73.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bravo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Grilled rib-eye steak",
+    "Baked curry chickpea snacks",
+    "Chocolate and walnut brownie"
+  ],
+  "brewers_tips": "After the primary fermentation has finished, leave the beer in contact with the yeast for around 48 hours. Any longer and there is a risk that it will start to impart yeasty, bready flavours to the beer.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}
