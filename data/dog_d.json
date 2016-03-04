@@ -101,8 +101,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
 	  {
         "name": "Fuggles",
@@ -110,8 +110,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
 	  {
         "name": "Fuggles",
@@ -119,8 +119,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
 	  {
         "name": "Willamette",
@@ -128,8 +128,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
 	  {
         "name": "Ginger Powder",
@@ -137,8 +137,8 @@
           "value": 1.5,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
 	  {
         "name": "Honey",
@@ -146,8 +146,8 @@
           "value": 1250,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
 	  {
         "name": "Cold Infused Coffee",
@@ -155,8 +155,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       }  
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
