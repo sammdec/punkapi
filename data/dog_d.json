@@ -1,6 +1,6 @@
 {
-  "name": "¨Dog D",
-  "tagline": "ANNIVERSARY IMPERIAL STOUT",
+  "name": "DOG D",
+  "tagline": "ANNIVERSARY IMPERIAL STOUT.",
   "first_brewed": "05/2015",
   "description": "Dog D is an extra special brew, marking 8 years of BrewDog. Like Dog A, B & C before it, Dog D is an Imperial Stout with speciality ingredients, only this time we’ve barrel-aged it too. Dog D pours like dark matter into your glass, with a deep tan head. The nose is subtle but powerful, and on the palate, there’s a treacle toffee backbone, supporting the spicy hop flavour and naga chilli heat.",
   "abv": 16.1,
@@ -38,87 +38,83 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Extra Pale Spring Blend",
+        "name": "Pale Ale",
         "amount": {
-          "value": 4.15,
+          "value": 7.5,
           "unit": "kilograms"
         }
       },
 	  {
-        "name": "Caramalt",
+        "name": "Wheat",
         "amount": {
-          "value": 1.12,
+          "value": 0.5,
           "unit": "kilograms"
         }
       },
 	  {
-        "name": "Crystal 150",
+        "name": "Flaked Oats",
         "amount": {
-          "value": 0.56,
+          "value": 0.75,
           "unit": "kilograms"
         }
       },
 	  {
-        "name": "Choclate Malt",
+        "name": "Dark Crystal",
         "amount": {
-          "value": 0.38,
+          "value": 0.75,
           "unit": "kilograms"
         }
       },
 	  {
-        "name": "Roasted Barley",
+        "name": "Carafa Special Malt Type 1",
         "amount": {
-          "value": 0.31,
+          "value": 0.5,
           "unit": "kilograms"
         }
       },
 	  {
-        "name": "Wheat Malt",
+        "name": "Carafa Special Malt Type 3",
         "amount": {
-          "value": 0.63,
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Rye",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Brown",
+        "amount": {
+          "value": 0.75,
           "unit": "kilograms"
         }
       }
     ],
     "hops": [
       {
-        "name": "Columbus",
+        "name": "Chinook",
         "amount": {
-          "value": 31.3,
+          "value": 50,
           "unit": "grams"
         },
         "add": "Start",
         "attribute": "Bitter"
       },
 	  {
-        "name": "Columbus",
+        "name": "Fuggles",
         "amount": {
-          "value": 12.5,
+          "value": 25,
           "unit": "grams"
         },
         "add": "Middle",
         "attribute": "Flavour"
       },
 	  {
-        "name": "Simcoe",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "Middle",
-        "attribute": "Flavour"
-      },
-	  {
-        "name": "Chinook",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "Middle",
-        "attribute": "Flavour"
-      },
-	  {
-        "name": "Columbus",
+        "name": "Fuggles",
         "amount": {
           "value": 25,
           "unit": "grams"
@@ -127,7 +123,7 @@
         "attribute": "Flavour"
       },
 	  {
-        "name": "Simcoe",
+        "name": "Willamette",
         "amount": {
           "value": 25,
           "unit": "grams"
@@ -136,41 +132,32 @@
         "attribute": "Flavour"
       },
 	  {
-        "name": "Chinook",
+        "name": "Ginger Powder",
         "amount": {
-          "value": 25,
+          "value": 1.5,
           "unit": "grams"
         },
         "add": "End",
         "attribute": "Flavour"
       },
 	  {
-        "name": "Columbus",
+        "name": "Honey",
         "amount": {
-          "value": 87.5,
+          "value": 1250,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "End",
+        "attribute": "Flavour"
       },
 	  {
-        "name": "Simcoe",
+        "name": "Cold Infused Coffee",
         "amount": {
-          "value": 87.5,
+          "value": 25,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
-      },
-	  {
-        "name": "Chinook",
-        "amount": {
-          "value": 75,
-          "unit": "grams"
-        },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
-      }
+        "add": "End",
+        "attribute": "Flavour"
+      }  
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },
