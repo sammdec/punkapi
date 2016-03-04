@@ -163,7 +163,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] BLACK EYE JOE (W/STONE BREWING CO)
 - [x] LUMBERJACK STOUT
 - [x] CLOWN KING
-- [ ] HELLO MY NAME IS VLADIMIR
+- [x] HELLO MY NAME IS VLADIMIR
 - [ ] BOURBON BABY
 - [ ] AB:16
 - [ ] COMET
