@@ -1,0 +1,184 @@
+{
+  "name": "¨Dog D",
+  "tagline": "ANNIVERSARY IMPERIAL STOUT",
+  "first_brewed": "05/2015",
+  "description": "Dog D is an extra special brew, marking 8 years of BrewDog. Like Dog A, B & C before it, Dog D is an Imperial Stout with speciality ingredients, only this time we’ve barrel-aged it too. Dog D pours like dark matter into your glass, with a deep tan head. The nose is subtle but powerful, and on the palate, there’s a treacle toffee backbone, supporting the spicy hop flavour and naga chilli heat.",
+  "abv": 16.1,
+  "ibu": 85,
+  "target_fg": 1015,
+  "target_og": 1125,
+  "ebc": 400,
+  "srm": 200,
+  "ph": 4.3,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 63,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Add 1 naga chilli in the FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale Spring Blend",
+        "amount": {
+          "value": 4.15,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.12,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.56,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Choclate Malt",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+	  {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 31.3,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+	  {
+        "name": "Columbus",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+	  {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+	  {
+        "name": "Chinook",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+	  {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+	  {
+        "name": "Simcoe",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+	  {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+	  {
+        "name": "Columbus",
+        "amount": {
+          "value": 87.5,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+	  {
+        "name": "Simcoe",
+        "amount": {
+          "value": 87.5,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+	  {
+        "name": "Chinook",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+	"Sriracha infused shredded beef",
+	"Chipotle steak tacos",
+	"Chilli chocolate fondant"
+  ],
+  "brewers_tips": "Steep the coffee in the hot wort for short periods to get the best extraction of aromatic oils, without gaining too much bitterness.",
+  "contributed_by": "Joakim Skoog <joakimskoog>"
+}
