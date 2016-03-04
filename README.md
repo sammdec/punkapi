@@ -164,7 +164,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] LUMBERJACK STOUT
 - [x] CLOWN KING
 - [x] HELLO MY NAME IS VLADIMIR
-- [ ] BOURBON BABY
+- [x] BOURBON BABY
 - [ ] AB:16
 - [ ] COMET
 - [ ] HBC 366
