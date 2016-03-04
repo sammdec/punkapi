@@ -56,7 +56,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] TACTICAL NUCLEAR PENGUIN
 - [x] EUROTRASH
 - [x] MOVEMBER
-- [ ] BLACK DOG
+- [x] BLACK DOG
 - [ ] HARDCORE IPA
 - [ ] SINK THE BISMARCK!
 - [ ] ALPHA DOG
