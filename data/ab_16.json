@@ -1,0 +1,114 @@
+{
+  "name": "AB:16",
+  "tagline": "Coffee-Infused Belgian Quad.",
+  "first_brewed": "02/2014",
+  "description": "On the nose, clove and nutmeg, cafe au lait, subtle dark fruit notes, and hints of candied lemon peel. On the palate, smooth & fruity espresso, milk chocolate, and warm brandy-soaked currants are in the middle of a high-class dance-off against the spicy and peppery Belgian character. The overall impression evokes malt loaf or ginger cake.",
+  "abv": 10.6,
+  "ibu": 55,
+  "target_fg": 1012,
+  "target_og": 1090,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 86.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coffee Beans: 250g, FV. Raisins: 90g, at end. Dark Sugar:140g, at end."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Waimea",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3787 - Trappist High Gravity™"
+  },
+  "food_pairing": [
+    "Roasted duck",
+    "Gorgonzola and rye nut bread with smoked honey ham",
+    "Raspberry coffee cheesecake"
+  ],
+  "brewers_tips": "For the traditional cellering, age this beer in vessel or bottle for 2 - 3 months at cellar temperature.",
+  "contributed_by": "Ali Skinner <AliSkinner>"
+}
