@@ -166,7 +166,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] HELLO MY NAME IS VLADIMIR
 - [x] BOURBON BABY
 - [x] AB:16
-- [ ] COMET
+- [x] COMET
 - [ ] HBC 366
 - [ ] KOHATU
 - [ ] HELLO MY NAME IS ZÉ (W/2CABEÇAS)
