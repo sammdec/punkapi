@@ -1,0 +1,91 @@
+{
+  "name": "Rabiator",
+  "tagline": "Imperial Wheat Beer",
+  "first_brewed": "03/2011",
+  "description": "Imperial Wheat beer / Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff.",
+  "abv": 10.27,
+  "ibu": 26,
+  "target_fg": 1014,
+  "target_og": 1092,
+  "ebc": 24,
+  "srm": 12,
+  "ph": 4.4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 64,
+        "unit": "celsius"
+      },
+      "duration": 60
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.69,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3333 German Wheat™"
+  },
+  "food_pairing": [
+    "Grilled portabello mushroom burger",
+    "Chicken sausages with creamy mash",
+    "Caramel and banana meringue pie"
+  ],
+  "brewers_tips": "If you are struggling to get that authentic head retention increase your mash temperature to about 70°C.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
