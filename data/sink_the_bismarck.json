@@ -1,0 +1,181 @@
+{
+  "name": "Sink The Bismarck!",
+  "tagline": "IPA For The Dedicated.",
+  "first_brewed": "12/2009",
+  "description": "This is IPA amplified, the most evocative style of the craft beer resistance with the volume cranked off the scale. Kettle hopped, dry hopped then freeze hopped for a deep fruit, resinous and spicy aroma. A full on attack on your taste buds ensues as the incredibly smooth liquid delivers a crescendo of malt, sweet honey, hop oils and a torpedo of hop bitterness that lasts and lasts.",
+  "abv": 41,
+  "ibu": 1085,
+  "target_fg": 1016,
+  "target_og": 1085,
+  "ebc": 40,
+  "srm": 20,
+  "ph": 4.4,
+  "attenuation_level": 81.2,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.29,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus Extract",
+        "amount": {
+          "value": 30.8,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 19.2,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 115.4,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 96.2,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 96.2,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 76.9,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Charred apricot salad",
+    "Whole baked reblochon",
+    "Salted caramel crème brûlée"
+  ],
+  "brewers_tips": "Some serious investment in equipment will be required here to get the beer down to -40°C in order to remove enough water. Steep the final beer with a handful of your favourite American hops for 12 hours before bottling.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
