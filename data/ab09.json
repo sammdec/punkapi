@@ -1,0 +1,105 @@
+{
+  "name": "AB:09",
+  "tagline": "Cranachan Imperial Stout.",
+  "first_brewed": "11/2010",
+  "description": "This Cranachan Imperial Stout was inspired by the famous Scottish dessert, and brewed with a mountain of dark malts, loads of oats, Scottish heather honey and local raspberries. The beer was then transferred to oak casks to mature for 6 months.",
+  "abv": 11.6,
+  "ibu": 77,
+  "target_fg": 1022,
+  "target_og": 1110,
+  "ebc": 265,
+  "srm": 132.5,
+  "ph": 5.2,
+  "attenuation_level": 80,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Lactose: 125g, Scottish Heather Honey: 125g, Raspberries: 187.5g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter Extra Pale",
+        "amount": {
+          "value": 10,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Spec Malt 1",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal 350-400",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Champagne"
+  },
+  "food_pairing": [
+    "Aged cheddar with honey and raspberry chutney",
+    "Rich beef stew with winter vegetables and a dash of honey",
+    "Scottish raspberry cranachan parfait"
+  ],
+  "brewers_tips": "Lactose - or milk sugar - is un-fermentable. It adds a creamy mouthfeel to the beer. Experiment by using different types of honey for altered flavour profiles.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
