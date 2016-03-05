@@ -1,0 +1,140 @@
+{
+  "name": "AB:07",
+  "tagline": "Whisky Cask-Aged Scotch Ale.",
+  "first_brewed": "03/2010",
+  "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+  "abv": 12.5,
+  "ibu": 30,
+  "target_fg": 1020,
+  "target_og": 1106,
+  "ebc": 84,
+  "srm": 42,
+  "ph": 5.6,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 105
+    },
+    "fermentation": {
+      "temp": {
+        "value": 11,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Scottish Heather Honey: 62.5g at middle, Add honey during the boil. After fermentation, age in a Scottish whisky cask"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 5.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oats",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Peated Malt",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 31.3,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Saflager S189"
+  },
+  "food_pairing": [
+    "Kedgeree",
+    "Scotch broth with sourdough bread",
+    "Clootie dumpling"
+  ],
+  "brewers_tips": "Authentic heather honey adds a beautiful floral top note that is unachievable any other way.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
