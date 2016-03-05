@@ -1,0 +1,93 @@
+{
+  "name": "Avery Brown Dredge",
+  "tagline": "Bloggers' Imperial Pilsner.",
+  "first_brewed": "02/2011",
+  "description": "An Imperial Pilsner in collaboration with beer writers. Tradition. Homage. Revolution. We wanted to showcase the awesome backbone of the Czech brewing tradition, the noble Saaz hop, and also tip our hats to the modern beers that rock our world, and the people who make them.",
+  "abv": 7.2,
+  "ibu": 59,
+  "target_fg": 1027,
+  "target_og": 1069,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.4,
+  "attenuation_level": 67.0,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 66,
+        "unit": "celsius"
+      },
+      "duration": 70
+    },
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Lager Malt",
+        "amount": {
+          "value": 6.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast Pilsner Lager 2007™"
+  },
+  "food_pairing": [
+    "Vietnamese squid salad",
+    "Chargrilled corn on the cob with paprika butter",
+    "Strawberry and rhubarb pie"
+  ],
+  "brewers_tips": "Make sure you have a big enough yeast starter to ferment through the OG and lager successfully.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
