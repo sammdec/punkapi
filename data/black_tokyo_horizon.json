@@ -1,0 +1,159 @@
+{
+  "name": "Black Tokyo Horizon (w/Nøgne Ø & Mikkeller)",
+  "tagline": "Imperial Stout Collaboration.",
+  "first_brewed": "12/2010",
+  "description": "Special Collaboration between Nøgne, Mikkeller and BrewDog which is a recipe based on all three brewers’ big stouts; Nøgne Ø Dark Horizon, Mikkeller Black and BrewDog Tokyo*.",
+  "abv": 17.2,
+  "ibu": 75,
+  "target_fg": 1030,
+  "target_og": 1156,
+  "ebc": 128,
+  "srm": 64,
+  "ph": 4.4,
+  "attenuation_level": 80.8,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 120
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 1.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.56,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 18.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 18.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Truffle oil filet mignon",
+    "Sweet sticky beef brisket",
+    "Chocolate and dark cherry fondant"
+  ],
+  "brewers_tips": "Extend the mash time as much as possible to create maximum fermentable sugars. Boil for longer in the kettle to help evaporate off the water, and make the sugar concentration stronger.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
