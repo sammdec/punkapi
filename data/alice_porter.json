@@ -1,0 +1,137 @@
+{
+  "name": "Alice Porter",
+  "tagline": "Enigmatic Dark Alchemy.",
+  "first_brewed": "09/2010",
+  "description": "First brewed in 2010, Alice Porter returned as a seasonal in 2015. The beer was originally created and brewed for (real life) Alice Porter’s impending nuptials to the Beer King of Leeds, Matt Gorecki.",
+  "abv": 5.2,
+  "ibu": 55,
+  "target_fg": 1013,
+  "target_og": 1053,
+  "ebc": 165,
+  "srm": 82.5,
+  "ph": 5.2,
+  "attenuation_level": 75.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Special W",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa 1",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrified Wheat",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Applewood cheddar bacon beef burger",
+    "Roasted garlic camembert",
+    "Parmesan truffles"
+  ],
+  "brewers_tips": "The Sorachi Ace hop addition at the end of the boil gives the beer a subtle vanilla flavour that helps to lighten the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
