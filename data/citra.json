@@ -1,0 +1,100 @@
+{
+  "name": "Citra",
+  "tagline": "Single Hop IPA Series – 2011.",
+  "first_brewed": "01/2011",
+  "description": "The Pacific North West of America is home to the Citra hop. America is not just about cheer leaders, a silly version of football, elastic top jeans and cheeseburgers. They grow remarkable hops and Citra is a killer example of this, embodying all that is good about American hops and then some. Fearfully hard to resist, this beer is loaded with brash citrus, grapefruit, orange, hints of resinous pine and touches of blackcurrant. Devilishly moreish.",
+  "abv": 7.5,
+  "ibu": 70,
+  "target_fg": 1013,
+  "target_og": 1068,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 82.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Xpale",
+        "amount": {
+          "value": 6.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Lemon and herb salmon",
+    "Sharp cheddar with mango chutney",
+    "Shredded chicken tacos with pico de gallo"
+  ],
+  "brewers_tips": "Another hop to be treated with respect. Too much in the kettle or dry hop will turn the beer into a garlicky disaster.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
