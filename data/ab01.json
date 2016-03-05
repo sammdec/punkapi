@@ -1,0 +1,100 @@
+{
+  "name": "AB:01",
+  "tagline": "Vanilla Bean Infused Belgian Quad.",
+  "first_brewed": "02/2010",
+  "description": "Made with the yeast from a bottle of Westvleteren 12, aged with vanilla beans. Only available in 375ml bottles. Limited to 3200 bottles. The first in our Abstrakt series.",
+  "abv": 10.2,
+  "ibu": 20,
+  "target_fg": 1018,
+  "target_og": 1095,
+  "ebc": 16,
+  "srm": 8,
+  "ph": 4.1,
+  "attenuation_level": 8.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 63,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 22,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Two split vanilla pods in cold conditioning"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Styrian Goldings",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Westvleteren 12 (recovered from a bottle)"
+  },
+  "food_pairing": [
+    "Baked brown butter lobster",
+    "Apple crumble and custard",
+    "Coffee carrot cake"
+  ],
+  "brewers_tips": "To capture yeast from another bottle conditioned beer, simply make up a starter with some wort and grow the yeast up. Once it goes through a fermentation at 1 litre it can go straight into your wort to start the main fermentation.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
