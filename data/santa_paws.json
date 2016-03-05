@@ -1,0 +1,135 @@
+{
+  "name": "Santa Paws",
+  "tagline": "Christmas Scoth Ale.",
+  "first_brewed": "10/2010",
+  "description": "A 4.5% decadent scotch ale brewed with Scottish heather honey. A robust malty beer packed with flavour, at a strength you can drink all (Christmas) day long. Santa Paws is our antidote to the chaos of the festive season. All the flavours of Christmas pudding in liquid form.",
+  "abv": 4.5,
+  "ibu": 35,
+  "target_fg": 1013,
+  "target_og": 1048,
+  "ebc": 44,
+  "srm": 22,
+  "ph": 4.4,
+  "attenuation_level": 72.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 66,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 1.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.56,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.56,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Weyermann Beech Smoked",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 18.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Hallertauer Mittelfrueh",
+        "amount": {
+          "value": 6.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "French onion soup",
+    "Braised pheasant",
+    "Caramel sauce and hot fudge"
+  ],
+  "brewers_tips": "The addition of Weyermann Beech Smoked malt creates a beer with a delicate smoke character.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
