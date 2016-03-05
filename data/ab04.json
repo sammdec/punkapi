@@ -1,0 +1,130 @@
+{
+  "name": "AB:04",
+  "tagline": "Imperial Stout With Coffee, Loads Of Cocoa And Chilli.",
+  "first_brewed": "08/2010",
+  "description": "Imperial Stout brewed with coffee, cocoa, Naga chillies (the hottest in the world), and champagne yeast. Possibly our most acclaimed Abstrakt yet.",
+  "abv": 15,
+  "ibu": 80,
+  "target_fg": 1018,
+  "target_og": 1113,
+  "ebc": 400,
+  "srm": 200,
+  "ph": 4.0,
+  "attenuation_level": 84.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 63,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Add chillies, cacoa and naga chillies to the cold conditioning"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Malt",
+        "amount": {
+          "value": 10,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oat Malt",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal 350",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black Patent",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coffee Beans",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Beef mahaca on corn tortillas",
+    "Chilli and dark chocolate tart",
+    "Epoisses cheese"
+  ],
+  "brewers_tips": "Make sure you can get the coffee, cocoa and chillies out of the beer when the flavours are right.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
