@@ -1,0 +1,100 @@
+{
+  "name": "Growler",
+  "tagline": "Citra Hopped Pilsner",
+  "first_brewed": "03/2011",
+  "description": "Brewed by Pivovar Group at BrewDog, specifically for thier bars, Pivo in Leeds, Sheffield Tap in Sheffield, and Euston Tap in Euston. It was then lagered for 2 months and dry hopped with citra.",
+  "abv": 4.5,
+  "ibu": 38,
+  "target_fg": 1008,
+  "target_og": 1042.9,
+  "ebc": 18,
+  "srm": 9,
+  "ph": 4.4,
+  "attenuation_level": 81,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Malt",
+        "amount": {
+          "value": 4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 8.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 31.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsner™"
+  },
+  "food_pairing": [
+    "Havarti cheese",
+    "Cajun spiced fried chicken",
+    "Lemon squares"
+  ],
+  "brewers_tips": "Dry hop three days before you intend to package to get the freshest hop flavour possible.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
