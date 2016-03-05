@@ -1,0 +1,152 @@
+{
+  "name": "Black Eye Joe (w/Stone Brewing Co)",
+  "tagline": "Coffe Black IPA.",
+  "first_brewed": "11/2013",
+  "description": "A fresh tropical hit from this Black IPA, with undertones of roasted coffee. A well balanced, drinkable yet complex beer.",
+  "abv": 5.8,
+  "ibu": 40,
+  "target_fg": 1008,
+  "target_og": 1053,
+  "ebc": 177.3,
+  "srm": 88.7,
+  "ph": 4.4,
+  "attenuation_level": 84.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Fresh coffee in the boil."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale Ale Malt",
+        "amount": {
+          "value": 2.7,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.7,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.64,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Spicy carne asada with black beans and Mexican Rice",
+    "Pork smothered in mole sauce",
+    "Chocolate covered espresso beans"
+  ],
+  "brewers_tips": "Be careful to select the right coffee for this brew. For a fresh but fruity coffee hit, try to find lightly roasted Arabica beans.",
+  "contributed_by": "Ali Skinner <Ali SKinner>"
+}
