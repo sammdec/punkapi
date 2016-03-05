@@ -1,0 +1,104 @@
+{
+  "name": "TM10",
+  "tagline": "Liquid Art.",
+  "first_brewed": "04/2010",
+  "description": "Brewed for the Tate Modern’s 10th Anniversary. A saison style beer brewed with ginger and orange peel. Very limited batch of 4000 cork and caged bottles with a silk screened label designed by Johanna Basford. Only available at the Tate Modern.",
+  "abv": 5.5,
+  "ibu": 20,
+  "target_fg": 1005,
+  "target_og": 1048,
+  "ebc": 14,
+  "srm": 7,
+  "ph": 4.2,
+  "attenuation_level": 89.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 63,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 22,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Malt",
+        "amount": {
+          "value": 5.3,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bobek",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Bobek",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bobek",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ginger",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Orange Peel",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Tom yum soup",
+    "Andhra chicken pickle curry",
+    "Butterscotch tart"
+  ],
+  "brewers_tips": "For a fresh and fiery hit, put some ginger into the cold conditioning phase as well.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
