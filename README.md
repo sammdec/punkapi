@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 68 of 215 completed**
+**Status: 69 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -73,7 +73,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] AB:09
 - [x] BLACK TOKYO HORIZON (W/NØGNE Ø & MIKKELLER)
 - [x] AB:05
-- [ ] HELLO MY NAME IS INGRID
+- [x] HELLO MY NAME IS INGRID
 - [ ] BRAMLING X
 - [ ] CITRA
 - [ ] NELSON SAUVIN
