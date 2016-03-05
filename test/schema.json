@@ -42,7 +42,7 @@
       "required": true
     },
     "ph": {
-      "type": "number",
+      "type": ["number", "null"],
       "required": true
     },
     "attenuation_level": {
