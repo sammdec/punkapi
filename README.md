@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 91 of 215 completed**
+**Status: 92 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -86,7 +86,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] THE END OF HISTORY
 - [x] HOPS KILL NAZIS
 - [x] MR. MIYAGI'S WASABI STOUT
-- [ ] SUNK PUNK
+- [x] SUNK PUNK
 - [ ] AB:10
 - [ ] AB:18
 - [ ] OLD WORLD INDIA PALE ALE
