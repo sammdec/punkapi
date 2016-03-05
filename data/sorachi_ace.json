@@ -1,0 +1,91 @@
+{
+  "name": "Sorachi Ace",
+  "tagline": "Single Hop IPA Series - 2011.",
+  "first_brewed": "01/2011",
+  "description": "A hop that tastes of bubble gum? Seriously? No, we did not believe it either. But it does! This is one unique, son of a bitch of a hop. Lemony, deep, musty with a smoothness that belies its power. This hop is lemony like a lemon who was angry earlier but is now tired because of all the rage. This hop of Japanese origin is best enjoyed trying to make sushi from your gold fish, or trying to persuade your girlfriend (or boyfriend maybe) to dress up as a Geisha for Valentine’s Day.",
+  "abv": 7.5,
+  "ibu": 75,
+  "target_fg": 1013,
+  "target_og": 1068,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 82.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Xpale",
+        "amount": {
+          "value": 6.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 14.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Sashimi",
+    "Grilled salmon with a herb and citrus infused butter",
+    "Basil, lemon and pine nut angel hair pasta with grilled chicken"
+  ],
+  "brewers_tips": "Sorachi Ace is hop best handled with care. Too much and your beer may taste like dill pickle and lemons.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
