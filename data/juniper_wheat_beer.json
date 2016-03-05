@@ -1,0 +1,93 @@
+{
+  "name": "Juniper Wheat Beer",
+  "tagline": "American Style Wheat Ale With Juniper Berries.",
+  "first_brewed": "06/2011",
+  "description": "A variant on the 2008 release of Bad Pixie, but hoppier. Substituting the lemon peel for Ahtanum provided a vibrant floral and lemon citrus hit, balancing the slight tartness from the wheat. This dry, effervescent brew is perfect on Scotland's one day of summer.",
+  "abv": 5,
+  "ibu": 40,
+  "target_fg": 1008,
+  "target_og": 1047,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.1,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 64,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 17,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Malt",
+        "amount": {
+          "value": 2.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 2.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 31.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 31.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Juniper Berries",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1010 - American Wheat™"
+  },
+  "food_pairing": [
+    "Herring rollmops",
+    "Chicken schnitzel",
+    "Gin & elderflower jelly"
+  ],
+  "brewers_tips": "Give the juniper berries a quick blast in a food processor to break them up - otherwise they can jam up your fermenter.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
