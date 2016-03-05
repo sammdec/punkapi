@@ -22,7 +22,7 @@
       "required": true
     },
     "ibu": {
-      "type": "number",
+      "type": ["number", "null"],
       "required": true
     },
     "target_fg": {
