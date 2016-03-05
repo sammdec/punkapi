@@ -1,0 +1,128 @@
+{
+  "name": "AB:18",
+  "tagline": "Imperial Brown Ale Aged In Rum Casks.",
+  "first_brewed": "10/2011",
+  "description": "AB:18 began life as an Imperial Brown Ale before we bombarded it with Scottish tayberries and Purple raspberries and locked it away in rum barrels for two years, infusing rich dark fruit flavours and oaky warmth into the mix.",
+  "abv": 11.8,
+  "ibu": 80,
+  "target_fg": 1020,
+  "target_og": 1096,
+  "ebc": 115,
+  "srm": 57.5,
+  "ph": 5.2,
+  "attenuation_level": 79.2,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 69,
+        "unit": "celsius"
+      },
+      "duration": 45
+    },
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Age in rum barrels, Tayberries: 500g, Purple Raspberries: 500g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 8.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.93,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.11,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.11,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Wilamette",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast American Ale II Strain 1272"
+  },
+  "food_pairing": [
+    "Kippers and poached eggs",
+    "Slow cooked lamb shoulder with mint sauce",
+    "Apple and blackcurrant cobbler"
+  ],
+  "brewers_tips": "Blend aged beer with a fresh brewed black ale in a 70-30 ratio to add bursts of blackcurrant and citrus.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
