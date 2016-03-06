@@ -1,0 +1,105 @@
+{
+  "name": "Sunmaid Stout",
+  "tagline": "Rum & Raisin Imperial Stout.",
+  "first_brewed": "12/2011",
+  "description": "Brewed by Chris Sartori from Stone Brewing Company in 2010. A dark chocolate stout with dried dark fruit finish. Simcoe provides bitterness with subtle fruity supporting notes, contrasting the chocolate and coffee-laden malt profile. The finish is warming with vanilla and rich dark fruit depth.",
+  "abv": 10.2,
+  "ibu": 50,
+  "target_fg": 1102,
+  "target_og": 1026,
+  "ebc": 197,
+  "srm": 100,
+  "ph": 4.4,
+  "attenuation_level": 74.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 55
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Age in whisky casks with rum soaked raisins"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale - Tipple",
+        "amount": {
+          "value": 10,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.56,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Lapin aux pruneaux (braised rabbit with prunes)",
+    "Gouda cheese",
+    "Dark chocolate truffles"
+  ],
+  "brewers_tips": "Take small volume of wort out of the run off and steep the raisins in it, then crush them up. This will help to release the dark fruit aromas into the wort.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

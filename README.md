@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 97 of 215 completed**
+**Status: 98 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -93,7 +93,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] OLD WORLD RUSSIAN IMPERIAL STOUT
 - [x] LOST DOG (W/LOST ABBEY)
 - [x] AB:08
-- [ ] SUNMAID STOUT
+- [x] SUNMAID STOUT
 - [ ] SHAREHOLDER BLACK IPA 2011
 - [ ] AB:13
 - [ ] SIMCOE
