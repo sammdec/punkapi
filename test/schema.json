@@ -26,11 +26,11 @@
       "required": true
     },
     "target_fg": {
-      "type": "number",
+      "type": ["number", "null"],
       "required": true
     },
     "target_og": {
-      "type": "number",
+      "type": ["number", "null"],
       "required": true
     },
     "ebc": {
@@ -46,7 +46,7 @@
       "required": true
     },
     "attenuation_level": {
-      "type": "number",
+      "type": ["number", "null"],
       "required": true
     },
     "volume": {
@@ -87,7 +87,7 @@
               "type": "object",
               "properties": {
                 "value": {
-                  "type": "number",
+                  "type": ["number", "null"],
                   "required": true
                 },
                 "unit": {
@@ -110,7 +110,7 @@
               "properties": {
 
                 "value": {
-                  "type": "number",
+                  "type": ["number", "null"],
                   "required": true
                 },
                 "unit": {
@@ -189,7 +189,7 @@
           }
         },
         "yeast": {
-          "type": "string",
+          "type": ["string", "null"],
           "required": true
         }
       }
