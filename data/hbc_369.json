@@ -1,0 +1,100 @@
+{
+  "name": "HBC 369",
+  "tagline": "Single Hop India Pale Ale – 2012.",
+  "first_brewed": "02/2012",
+  "description": "HBC 369 brings rich fruity flavours with the tiniest layer of candy coating on top. HBC 369 (the hop) can bring notes of blueberries, pear, and possibly even sweet potato. HBC 369 (the beer) was balanced, with just one hop providing a complex aroma, and a dry bitterness.",
+  "abv": 6.7,
+  "ibu": 67,
+  "target_fg": 1064,
+  "target_og": 1013,
+  "ebc": 19,
+  "srm": 9.5,
+  "ph": 4.4,
+  "attenuation_level": 79.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 5.87,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.37,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "HBC 369",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "HBC 369",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "HBC 369",
+        "amount": {
+          "value": 250,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Spicy jalapeño & seared steak fajitas",
+    "Grilled spicy corn with feta crumbles",
+    "Blueberry pie"
+  ],
+  "brewers_tips": "HBC 369 is now known as Mosaic!",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
