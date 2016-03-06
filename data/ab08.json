@@ -1,0 +1,107 @@
+{
+  "name": "AB:08",
+  "tagline": "Deconstructed Blonde Imperial Stout.",
+  "first_brewed": "11/2011",
+  "description": "Flavours and aromas you'd expect from a Stout, but brewed without dark malts. The full mouthfeel comes courtesy of wheat and oats, while smoked malt and the twist additions add the complex flavours normally provided by highly kilned malts.",
+  "abv": 10.43,
+  "ibu": 65,
+  "target_fg": 1016,
+  "target_og": 1095,
+  "ebc": 23,
+  "srm": 11.5,
+  "ph": 4.4,
+  "attenuation_level": 83.2,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Cacao: 25g at FV, Coffee Beans: 37.5g at FV, Oak Chips: 5g at FV, Vanilla Pods: 10 split pods, Liquorice: 5g at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter Extra Pale",
+        "amount": {
+          "value": 9.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked Peaty",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 81.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coffee Beans",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Caramelised scallops with burnt apple puree",
+    "Blackened Cajun chicken",
+    "Blondies with chocolate fudge sauce"
+  ],
+  "brewers_tips": "Add all twist ingredients to Fermentation Vessel once fermentation is complete. Don’t be afraid to add a little at a time and taste as you go. During mashing in first start with pale malt. Afterwards mix all malts evenly. Go with flaked oats during second half of mashing in process.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
