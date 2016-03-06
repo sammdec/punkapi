@@ -90,7 +90,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] AB:10
 - [x] AB:18
 - [x] OLD WORLD INDIA PALE ALE
-- [ ] OLD WORLD RUSSIAN IMPERIAL STOUT
+- [x] OLD WORLD RUSSIAN IMPERIAL STOUT
 - [ ] LOST DOG (W/LOST ABBEY)
 - [ ] AB:08
 - [ ] SUNMAID STOUT
