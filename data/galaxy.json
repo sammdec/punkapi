@@ -1,0 +1,100 @@
+{
+  "name": "Galaxy",
+  "tagline": "Single Hop India Pale Ale – 2012.",
+  "first_brewed": "02/2012",
+  "description": "With all the rich tropical flavour you'd expect from Australia's Galaxy, this beer backs up a strong citrus aroma and flavour with a mellow undercurrent of passion fruit and mango. Zingy and sweet but not too sweet, Galaxy has a soft and inviting fruity hop character.",
+  "abv": 6.7,
+  "ibu": 67,
+  "target_fg": 1064,
+  "target_og": 1013,
+  "ebc": 19,
+  "srm": 9.5,
+  "ph": 4.4,
+  "attenuation_level": 79.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 5.87,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.37,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Galaxy",
+        "amount": {
+          "value": 75.4,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galaxy",
+        "amount": {
+          "value": 75.4,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Galaxy",
+        "amount": {
+          "value": 250,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Spicy green chilli and lemongrass chicken thai curry",
+    "Sharp cheddar cheese and crackers",
+    "Ginger and orange zest cookies"
+  ],
+  "brewers_tips": "Use fresh Galaxy for the best flavour profile.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
