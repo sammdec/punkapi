@@ -1,0 +1,100 @@
+{
+  "name": "Challenger",
+  "tagline": "Single Hop India Pale Ale – 2012.",
+  "first_brewed": "02/2012",
+  "description": "Challenger is known for its herbal and fruity characteristics. When used alone in a beer like IPA is Dead, Challenger brings light woodsy notes, floral hints, and delicate green tea, alongside more recognisable citrus notes. As a dual-purpose hop, it also yields great bittering potential, which is ideal in a dry bitter IPA.",
+  "abv": 6.7,
+  "ibu": 67,
+  "target_fg": 1013,
+  "target_og": 1064,
+  "ebc": 19,
+  "srm": 9.5,
+  "ph": 4.4,
+  "attenuation_level": 79.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 5.87,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.37,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 85,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 250,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Caramelized onion and steak pie",
+    "Chicken Khua Kling (dry Thai curry)",
+    "Lemon drizzle cake"
+  ],
+  "brewers_tips": "Challenger hops come from English hops farms - try getting hold of some fresh, undried hops and make a \"wet hop\" beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
