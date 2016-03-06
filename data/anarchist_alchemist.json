@@ -1,0 +1,131 @@
+{
+  "name": "Anarchist Alchemist",
+  "tagline": "Triple Hopped Triple Ipa.",
+  "first_brewed": "03/2012",
+  "description": "About as far as you can push an IPA; Anarchist Alchemist packs in three times the malt and three of our favourite hops. Nelson Sauvin, Amarillo and Centennial bring a range of flavours, touching on tropical fruit, white grape, tangerine, grapefruit, pine, spiced orange... the list goes on!",
+  "abv": 16.5,
+  "ibu": 20.5,
+  "target_fg": 1000,
+  "target_og": 1112,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.4,
+  "attenuation_level": 100,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 12.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 6.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Blue cheese & onion tart",
+    "Goan goat curry",
+    "Sugar-poached kumquat rice pudding"
+  ],
+  "brewers_tips": "The biggest challenge with this beer is getting it to ferment out entirely. Hold mash temp at 65°C for 90 mins to ensure maximum fermentability. Use super high gravity yeast or champagne yeast to achieve the last few gravity points.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
