@@ -1,0 +1,136 @@
+{
+  "name": "Dead Pony Club",
+  "tagline": "West Coast Kicks. Citrusy. Zesty. Bright.",
+  "first_brewed": "03/2012",
+  "description": "Our California style West Coast IPA has light toffee and caramel notes layered on biscuit malt, supporting a huge, fresh citrus aroma, with lemongrass, lime zest, grapefruit peel, alongside some tropical notes, courtesy of some heavy-hitting US hops.",
+  "abv": 3.8,
+  "ibu": 35,
+  "target_fg": 1012,
+  "target_og": 1040,
+  "ebc": 25,
+  "srm": 12.7,
+  "ph": 4.4,
+  "attenuation_level": 70,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 62,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.79,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Baja style fish tacos",
+    "Jerk chicken",
+    "Apple crumble"
+  ],
+  "brewers_tips": "It may be tempting to throw extra (extra) hops at Dead Pony Club, but try adding a little at a time to consecutive brews rather than cramming in loads extra on your first time.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
