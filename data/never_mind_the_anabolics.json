@@ -1,0 +1,91 @@
+{
+  "name": "Never Mind The Anabolics",
+  "tagline": "Performance-Enhancing India Pale Ale.",
+  "first_brewed": "06/2012",
+  "description": "Never Mind the Anabolics, a 6.5% India Pale Ale brewed with copious amounts of performance-enhancing natural ingredients. Brewed to commemorate the 2012 Olympics and its merry marketing bandwagon.",
+  "abv": 6.5,
+  "ibu": 35,
+  "target_fg": 1012,
+  "target_og": 1050,
+  "ebc": 23,
+  "srm": 11.5,
+  "ph": 4.4,
+  "attenuation_level": 76,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": 30
+    },
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Lycii Berries: 7.5g at end, Ginseng: 5.625g at end, Guarana: 25g at end, Kolabu: 25g at end, Gingko: 6.25g at end, Matcha Tea: 12.5g at end, Maca Powder: 16.25g at end"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Grilled chicken salad with bacon and avocado",
+    "Red pepper houmous and flat bread",
+    "Matcha green tea cake"
+  ],
+  "brewers_tips": "Mix the powders into a paste before adding to the wort kettle. This will prevent the powders from balling up and not bringing the full flavour effect.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
