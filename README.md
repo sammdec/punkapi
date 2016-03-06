@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 114 of 215 completed**
+**Status: 115 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -110,7 +110,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] DOG A
 - [x] HUNTER FOUNDATION PALE ALE
 - [x] AB:19
-- [ ] JACK HAMMER
+- [x] JACK HAMMER
 - [ ] NEVER MIND THE ANABOLICS
 - [ ] SAN DIEGO SCOTCH ALE (W/BALLAST POINT)
 - [ ] AB:12
