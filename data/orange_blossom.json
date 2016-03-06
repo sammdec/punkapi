@@ -1,0 +1,132 @@
+{
+  "name": "Orange Blossom",
+  "tagline": "Citrus Wheat Braggot.",
+  "first_brewed": "08/2015",
+  "description": "Orange blossom honey braggot. A floral easy drinker with a hint of citrus.",
+  "abv": 3.8,
+  "ibu": 20,
+  "target_fg": 1000,
+  "target_og": 1039,
+  "ebc": 6,
+  "srm": 3,
+  "ph": 5.2,
+  "attenuation_level": ,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Orange blossom honey: 1kg in FV."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Soy and honey glazed mackerel",
+    "Moroccan spice lamb shanks",
+    "Baklava"
+  ],
+  "brewers_tips": "If possible use the orange blossom honey addition at the end of fermentation to carbonate the beer, this will keep the delicate blossom honey aroma from escaping.",
+  "contributed_by": "Matt Ball <GeordieMatt>"
+}

@@ -4,7 +4,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 120 of 215 completed**
+**Status: 123 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -223,9 +223,9 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] B-SIDES – MANGO GOSE
 - [ ] CANDY KAISER
 - [ ] PUMPKIN KING
-- [ ] B-SIDES – BABY SAISON
-- [ ] B-SIDES – MORAG'S MOJITO
-- [ ] B-SIDES – ORANGE BLOSSOM
+- [x] B-SIDES – BABY SAISON
+- [x] B-SIDES – MORAG'S MOJITO
+- [x] B-SIDES – ORANGE BLOSSOM
 - [ ] DOODLEBUG
 - [ ] NO LABEL
 - [ ] B-SIDES – RHUBARB SAISON

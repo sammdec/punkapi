@@ -1,0 +1,132 @@
+{
+  "name": "Baby Saison",
+  "tagline": "Trial Baby Saison.",
+  "first_brewed": "08/2015",
+  "description": "A hark back to the origins of Saison; slight spice and earthy notes with highlights of lemon and pepper make a beer that could quench the thirst of any seasonal worker.",
+  "abv": 3.6,
+  "ibu": 9,
+  "target_fg": 1004,
+  "target_og": 1032,
+  "ebc": 2,
+  "srm": 1,
+  "ph": 4.4,
+  "attenuation_level": 88,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+    {
+      "temp": {
+        "value": 60,
+        "unit": "celsius"
+      },
+      "duration": 10
+    },
+    {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 30
+    },
+    {
+      "temp": {
+        "value": 72,
+        "unit": "celsius"
+      },
+      "duration": 10
+    },
+    {
+      "temp": {
+        "value": 78,
+        "unit": "celsius"
+      },
+      "duration": 5
+    }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 5.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.05,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 6.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 6.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 6.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 6.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Pork chop with rosemary chips",
+    "Steak tartare",
+    "Belgian waffles"
+  ],
+  "brewers_tips": "Ferment between 21 and 24°C to get this saison as dry as possible.",
+  "contributed_by": "Matt Ball <GeordieMatt>"
+}
