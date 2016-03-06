@@ -1,0 +1,107 @@
+{
+  "name": "White Noise",
+  "tagline": "White IPA with Motueka.",
+  "first_brewed": "07/2012",
+  "description": "A White IPA; brewed with plenty of wheat, fermented with a Belgian yeast with some coriander thrown in for good measure. Oh and this one has mountains of Motueka hops. And then lots of dry hops too.",
+  "abv": 6.8,
+  "ibu": 50,
+  "target_fg": 1012,
+  "target_og": 1060,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 80,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 67,
+        "unit": "celsius"
+      },
+      "duration": 30
+    },
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coriander powder: 37.5g at end"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 2.81,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 2.81,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oats",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 31.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 250,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 3944 - Belgian Witbier™"
+  },
+  "food_pairing": [
+    "Huevos rancheros",
+    "Mild coriander and chilli chicken curry",
+    "Panna cotta with an orange and raspberry sauce"
+  ],
+  "brewers_tips": "Coriander seed or powder can be added to either the boil, or after the fermentation has finished. They will both impact different characteristics to the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
