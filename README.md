@@ -1,6 +1,9 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
+## Update: Over halfway there!
+After lots of contributions we are over halfway to completing all the data.
+
 **Status: 120 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
