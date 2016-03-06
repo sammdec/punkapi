@@ -1,7 +1,7 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-**Status: 99 of 215 completed**
+**Status: 100 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -95,7 +95,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] AB:08
 - [x] SUNMAID STOUT
 - [x] SHAREHOLDER BLACK IPA 2011
-- [ ] AB:13
+- [x] AB:13
 - [ ] SIMCOE
 - [ ] LIBERTINE PORTER
 - [ ] MIXTAPE 8

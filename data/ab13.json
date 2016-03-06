@@ -1,0 +1,91 @@
+{
+  "name": "AB:13",
+  "tagline": "Cask-Aged Cherry Imperial Stout.",
+  "first_brewed": "01/2012",
+  "description": "A cherry imperial stout aged in ex- sherry whisky barrels. Based on the classic German Schwarzwald (Black Forest) dessert. Intense dark fruit flavours of cherry, plum, raisin and currant, coupled with deep bitter chocolate, espresso and a full- bodied coffee and cream character.",
+  "abv": 11.3,
+  "ibu": 50,
+  "target_fg": 1020,
+  "target_og": 1098,
+  "ebc": 164,
+  "srm": 83,
+  "ph": 4.4,
+  "attenuation_level": 79.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Lactose: 125g at middle, Sour cherries: 187.5g at middle"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 10,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 2",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.88,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Pheasant paté",
+    "Roast duck in a cherry glaze",
+    "Chocolate torte with a dark fruit compote"
+  ],
+  "brewers_tips": "To mimic the sherry cask ageing character, soak some oak chips in sherry for 48 hours then steep them in the beer after primary fermentation has finished.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
