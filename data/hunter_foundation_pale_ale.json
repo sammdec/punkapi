@@ -1,0 +1,102 @@
+{
+  "name": "Hunter Foundation Pale Ale",
+  "tagline": "American Pale Ale.",
+  "first_brewed": "05/2012",
+  "description": "This straight-up US style pale ale uses some of our favourite hops against a toasty malt base. We brewed this with Sir Tom Hunter at our Fraserburgh brewery - to add a charitable element to your own version, feel free to share this citrusy pale ale with your friends. Or don't, it's your choice.",
+  "abv": 5.4,
+  "ibu": 35,
+  "target_fg": 1008,
+  "target_og": 1050,
+  "ebc": 11.5,
+  "srm": 5.75,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 63,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Malt (Maris Otter)",
+        "amount": {
+          "value": 4.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.8,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Monterey Jack stuffed grilled jalepenos",
+    "Barbecue corn and steak fajita seasoned wrap",
+    "Cinnamon & white chocolate churro"
+  ],
+  "brewers_tips": "To dry the beer out, mash at a slightly lower temp (62° - 63°C), this will increase the ratio of fermentable sugars in the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
