@@ -1,0 +1,114 @@
+{
+  "name": "San Diego Scotch Ale (w/Ballast Point)",
+  "tagline": "Imperial Scotch Ale With Rum & Raisin.",
+  "first_brewed": "07/2012",
+  "description": "Whisky cask aged with raisins soaked in rum. Warm, chocolatey and boozy with refreshing resinous bitterness and a lingering toasty biscuit background from the malt. Toasted oak comes courtesy of the barrels and spicy, sweet, dark fruit flavours from the rum soaked raisins.",
+  "abv": 9,
+  "ibu": 70,
+  "target_fg": 1018,
+  "target_og": 1090,
+  "ebc": 190,
+  "srm": 95,
+  "ph": 4.4,
+  "attenuation_level": 80,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 50
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Age in whisky casks with rum soaked raisins"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale - Tipple",
+        "amount": {
+          "value": 8.32,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 1.79,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 1.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.59,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.12,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Venison stroganoff",
+    "Chilli dog",
+    "Toffee chocolate cheesecake"
+  ],
+  "brewers_tips": "Soak oak chips in rum, then steep in the beer for the rum cash finish.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
