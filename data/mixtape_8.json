@@ -1,0 +1,109 @@
+{
+  "name": "Mixtape 8",
+  "tagline": "An Epic Fusion Of Old Belgian, American New Wave, And Scotch Whisky.",
+  "first_brewed": "01/2012",
+  "description": "This recipe is for the Belgian Tripel base. A blend of two huge oak aged beers – half a hopped up Belgian Tripel, and half a Triple India Pale Ale. Both aged in single grain whisky barrels for two years and blended, each beer brings its own character to the mix. The Belgian Tripel comes loaded with complex spicy, fruity esters, and punchy citrus hop character.",
+  "abv": 14.5,
+  "ibu": 50,
+  "target_fg": 1014,
+  "target_og": 1093,
+  "ebc": 40,
+  "srm": 20,
+  "ph": 4.4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 40
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Barrel aged and blended with Anarchist Alchemist"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale - Tipple",
+        "amount": {
+          "value": 11.1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara",
+        "amount": {
+          "value": 0.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus Extract",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3522 - Belgian Ardennes™"
+  },
+  "food_pairing": [
+    "Coriander & chilli crab cakes",
+    "Goats cheese salad with walnuts, radish and blood orange",
+    "Pistachio cake"
+  ],
+  "brewers_tips": "Brew twice as much Belgian Tripel as you were planning on ageing - it's awesome on its own too!",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
