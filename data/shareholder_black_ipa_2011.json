@@ -1,0 +1,169 @@
+{
+  "name": "Shareholder Black IPA 2011",
+  "tagline": "Shareholder Black IPA.",
+  "first_brewed": "12/2011",
+  "description": "Brewed as part of the shareholder brewday at our Fraserburgh brewery. Massively dry hopped and aged on toasted oak chips, this IPA was a riot of lemon, vanilla and roasted malt.",
+  "abv": 7.1,
+  "ibu": 80,
+  "target_fg": 1014,
+  "target_og": 1067,
+  "ebc": 71,
+  "srm": 36,
+  "ph": 4.4,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 66,
+        "unit": "celsius"
+      },
+      "duration": 90
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Several dozen brewers!, Toasted oak chips: 75g at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter Extra Pale",
+        "amount": {
+          "value": 6.57,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.32,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special 1",
+        "amount": {
+          "value": 0.50,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 American Ale™"
+  },
+  "food_pairing": [
+    "Classic American cheeseburger",
+    "Chilli chocolate bars"
+  ],
+  "brewers_tips": "Get as many Equity Punks involved. You can toast the oak chips yourself in an oven.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
