@@ -1,0 +1,141 @@
+{
+  "name": "Libertine Black Ale",
+  "tagline": "The New Black. Roasty. Hoppy. Fruity.",
+  "first_brewed": "03/2012",
+  "description": "A dark hop bomb combining the malt-forward indulgences of a stout with the insatiable hopload of an IPA. Rich spiced blackcurrant and caramel up front, with a sharp bitter finish following behind, bringing grapefruit and resin with it. Dry, bitter and intense; this is an IPA first and foremost, given a dark malt makeover. Originally brewed as a Simcoe only single hop IPA, we've experimented with adding a little Cascade and Mosaic for extra depth.",
+  "abv": 7.2,
+  "ibu": 50,
+  "target_fg": 1013,
+  "target_og": 1068,
+  "ebc": 150,
+  "srm": 76,
+  "ph": 4.4,
+  "attenuation_level": 78.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": 75
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 37.50,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 175,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Grilled king prawns with a chilli lime sauce",
+    "Blue cheese burger",
+    "Flourless chocolate ginger cake"
+  ],
+  "brewers_tips": "The goal here is to make a black beer that tastes like an IPA. Don't overload the black or roasted malts to try and achieve the correct colour. Too much roasted malts will suppress far too much of that beautiful citrus and tropical flavour from the Simcoe. It may be hard to get hold of Carafa, but it will allow you to get a great colour, without all of the characteristic roasty astringent flavours.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
