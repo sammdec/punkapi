@@ -1,0 +1,130 @@
+{
+  "name": "Bitch Please (w/3 Floyds)",
+  "tagline": "Barley Wine - 3 Floyds Collab.",
+  "first_brewed": "02/2012",
+  "description": "This limited edition American Barley Wine was brewed in collaboration with 3 Floyds Brewery. This beer had all the warm, boozy and smoky aspects of an Islay Scotch whisky with the sweet malt and devastatingly bitter attributes of a barley wine. Peat smoke features prominently, backed up with a complex fruity hop profile.",
+  "abv": 11.5,
+  "ibu": 50,
+  "target_fg": 1016,
+  "target_og": 1104,
+  "ebc": 38,
+  "srm": 19,
+  "ph": 4.4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Two bars of Highland Toffee at start of boil"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 8.21,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pinhead Oats",
+        "amount": {
+          "value": 0.36,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "CaraHell",
+        "amount": {
+          "value": 0.18,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "CaraAroma",
+        "amount": {
+          "value": 0.18,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Malt",
+        "amount": {
+          "value": 0.09,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Peated Malt",
+        "amount": {
+          "value": 0.09,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Green Bullet",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 35.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Pacific Gem",
+        "amount": {
+          "value": 21.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 7,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Stilton Blue featured cheese platter",
+    "Dark bitter chocolate torte",
+    "Scotch bonnet beef chilli"
+  ],
+  "brewers_tips": "To add to the smoky nature of this Barley Wine, source some smoked wood or whisky casks to age the beer in.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
