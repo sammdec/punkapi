@@ -10,7 +10,7 @@
   "ebc": 6,
   "srm": 3,
   "ph": 5.2,
-  "attenuation_level": ,
+  "attenuation_level": 87,
   "volume": {
     "value": 20,
     "unit": "liters"
