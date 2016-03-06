@@ -1,0 +1,171 @@
+{
+  "name": "Libertine Porter",
+  "tagline": "Dry-Hopped Aggressive Porter.",
+  "first_brewed": "01/2012",
+  "description": "An avalanche of cross-continental hop varieties give this porter a complex spicy, resinous and citrusy aroma, with a huge malt bill providing a complex roasty counterpoint. Digging deeper into the flavour draws out cinder toffee, bitter chocolate and hints of woodsmoke.",
+  "abv": 6.1,
+  "ibu": 45,
+  "target_fg": 1020,
+  "target_og": 1067,
+  "ebc": 219,
+  "srm": 109.5,
+  "ph": 4.4,
+  "attenuation_level": 70.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": 35
+    },
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked Malt",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 31.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Blue cheese beef burger",
+    "Glazed short ribs",
+    "Chocolate cake"
+  ],
+  "brewers_tips": "Mash in at a higher temperature to leave more unfermentable sugars in the wort. This gives the beer a sweeter porter profile.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
