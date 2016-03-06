@@ -1,0 +1,100 @@
+{
+  "name": "Motueka",
+  "tagline": "Single Hop India Pale Ale – 2012.",
+  "first_brewed": "02/2012",
+  "description": "Lemon and lime rise to the top of this hoppy brew, with supporting acts of tropical fruit for a very rounded, thoroughly satisfying flavour. Motueka is a hop we've used in loads of recipes; it has enough resin to balance the intense fruity character.",
+  "abv": 6.7,
+  "ibu": 67,
+  "target_fg": 1064,
+  "target_og": 1013,
+  "ebc": 19,
+  "srm": 9.5,
+  "ph": 4.4,
+  "attenuation_level": 79.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 68,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 5.87,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.37,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 250,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Tofu pad Thai with fresh lime juice and coriander",
+    "Fish tacos with avocado",
+    "Key lime pie"
+  ],
+  "brewers_tips": "Be careful with the Motueka additions. It has an intense citrus character that is often tempered by using in conjunction with other hops.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
