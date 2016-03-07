@@ -20,13 +20,15 @@
     "unit": "liters"
   },
   "method": {
-    "mash_temp": {
-      "temp": {
-        "value": 65,
-        "unit": "celsius"
-      },
-      "duration": 90
-    },
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
     "fermentation": {
       "temp": {
         "value": 21,
@@ -124,7 +126,6 @@
         "add": "end",
         "attribute": "flavour"
       }
-
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },

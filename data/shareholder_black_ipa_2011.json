@@ -20,13 +20,15 @@
     "unit": "liters"
   },
   "method": {
-    "mash_temp": {
-      "temp": {
-        "value": 66,
-        "unit": "celsius"
-      },
-      "duration": 90
-    },
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
     "fermentation": {
       "temp": {
         "value": 19,
@@ -61,7 +63,7 @@
       {
         "name": "Carafa Special 1",
         "amount": {
-          "value": 0.50,
+          "value": 0.5,
           "unit": "kilograms"
         }
       }

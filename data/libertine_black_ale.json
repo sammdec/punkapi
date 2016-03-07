@@ -20,13 +20,15 @@
     "unit": "liters"
   },
   "method": {
-    "mash_temp": {
-      "temp": {
-        "value": 65,
-        "unit": "celsius"
-      },
-      "duration": 75
-    },
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
     "fermentation": {
       "temp": {
         "value": 19,
@@ -95,7 +97,7 @@
       {
         "name": "Simcoe",
         "amount": {
-          "value": 37.50,
+          "value": 37.5,
           "unit": "grams"
         },
         "add": "end",

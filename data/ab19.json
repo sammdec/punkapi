@@ -20,13 +20,15 @@
     "unit": "liters"
   },
   "method": {
-    "mash_temp": {
-      "temp": {
-        "value": null,
-        "unit": "celsius"
-      },
-      "duration": null
-    },
+    "mash_temp": [
+      {
+        "temp": {
+          "value": null,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
     "fermentation": {
       "temp": {
         "value": null,
@@ -37,8 +39,10 @@
   },
   "ingredients": {
     "malt": [
+
     ],
     "hops": [
+
     ],
     "yeast": null
   },
