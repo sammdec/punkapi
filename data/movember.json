@@ -20,13 +20,15 @@
     "unit": "liters"
   },
   "method": {
-    "mash_temp": {
-      "temp": {
-        "value": 68,
-        "unit": "celsius"
-      },
-      "duration": 50
-    },
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 68,
+          "unit": "celsius"
+        },
+        "duration": 50
+      }
+    ],
     "fermentation": {
       "temp": {
         "value": 19,

@@ -78,26 +78,27 @@
     "method": {
       "type": "object",
       "properties": {
-
         "mash_temp": {
-          "type": "object",
-          "properties": {
-
-            "temp": {
-              "type": "object",
-              "properties": {
-                "value": {
-                  "type": ["number", "null"],
-                  "required": true
-                },
-                "unit": {
-                  "type": "string",
-                  "required": true
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "temp": {
+                "type": "object",
+                "properties": {
+                  "value": {
+                    "type": ["number", "null"],
+                    "required": true
+                  },
+                  "unit": {
+                    "type": "string",
+                    "required": true
+                  }
                 }
+              },
+              "duration": {
+                "type": ["number", "null"]
               }
-            },
-            "duration": {
-              "type": ["number", "null"]
             }
           }
         },

@@ -20,13 +20,15 @@
     "unit": "liters"
   },
   "method": {
-    "mash_temp": {
-      "temp": {
-        "value": 65,
-        "unit": "celsius"
-      },
-      "duration": 75
-    },
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
     "fermentation": {
       "temp": {
         "value": 20,
@@ -40,7 +42,7 @@
       {
         "name": "Extra Pale",
         "amount": {
-          "value": 12.50,
+          "value": 12.5,
           "unit": "kilograms"
         }
       }
