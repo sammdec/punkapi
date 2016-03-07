@@ -1,0 +1,136 @@
+{
+  "name": "Doodlebug",
+  "tagline": "Hoppy Sub-Session Pale Ale.",
+  "first_brewed": "09/2015",
+  "description": "Doodlebug is our fusion of low strength and enormously high tropical hop levels – think a mashup of Hop Fiction and How to Disappear Completely, and you’re almost there. Clocking in at 2.8% ABV, Doodlebug is keg-only and is packed with Amarillo, Chinook and Mosaic; letting fly a hoppy buzzbomb at sub-session-strength.",
+  "abv": 2.5,
+  "ibu": 35,
+  "target_fg": 1008,
+  "target_og": 1027,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.2,
+  "attenuation_level": 70.4,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": {
+      "temp": {
+        "value": 65,
+        "unit": "celsius"
+      },
+      "duration": null
+    },
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 1.69,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Lightly curried spiced chickpea dip",
+    "Fried calamari with a mild sauce",
+    "Lemon sherbet cookies"
+  ],
+  "brewers_tips": "Wheat and flaked oats can help to add to the body of the beer. This makes up for the lack of alcoholic bite.",
+  "contributed_by": "Lars Gregori <choas>"
+}
