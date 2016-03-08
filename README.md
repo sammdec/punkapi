@@ -119,7 +119,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] AB:12
 - [x] WHITE NOISE
 - [x] INTERNATIONAL ARMS RACE (W/FLYING DOG)
-- [ ] AB:11
+- [x] AB:11
 - [ ] HELLO MY NAME IS BEASTIE
 - [ ] DOG FIGHT (W/FLYING DOG)
 - [ ] HOPPY CHRISTMAS

@@ -1,0 +1,141 @@
+{
+  "name": "AB:11",
+  "tagline": "Black Barley Wine With Ginger, Raspberries, Chipotle Peppers.",
+  "first_brewed": "08/2012",
+  "description": "AB:11 is an Imperial Black Barley Wine brewed with ginger, black raspberries and chipotle peppers. A 12.8% rollercoaster of ginger zestiness and chipotle smokiness, all bound together with dark berry tartness and the decadent residual body of a Black Barley Wine.",
+  "abv": 12.8,
+  "ibu": 70,
+  "target_fg": 1020,
+  "target_og": 1108,
+  "ebc": 79,
+  "srm": 40,
+  "ph": 4.4,
+  "attenuation_level": 81.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 68,
+          "unit": "celsius"
+        },
+        "duration": 40
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Grated ginger root: 62.5g for 45mins, Add chipotle peppers and raspberries into the FV post- fermentation, Chipotle"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra pale - Sprint Blend",
+        "amount": {
+          "value": 8.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.3125,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ginger Powder",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Steak taquitos with spicy mole sauce",
+    "Herb roasted duck with a fruit sauce",
+    "Dark chocolate and chilli flourless cake"
+  ],
+  "brewers_tips": "Use chipotle morito chillies to add a subtle level of smoky character to the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
