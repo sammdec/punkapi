@@ -1,0 +1,120 @@
+{
+  "name": "Dog Fight (w/Flying Dog)",
+  "tagline": "Rye IPA - Flying Dog Collab.",
+  "first_brewed": "10/2012",
+  "description": "A clash of kings. A spiced toffee malt backbone arranged against a tidal wave of US hops. Citrus, nectarine and juicy tropical fruits are layered into this complex beer.",
+  "abv": 8.5,
+  "ibu": 65,
+  "target_fg": 1012,
+  "target_og": 1078,
+  "ebc": 31.2,
+  "srm": 15.6,
+  "ph": 4.4,
+  "attenuation_level": 84.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 50
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Spring Blend",
+        "amount": {
+          "value": 6.79,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 107.14,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 142.86,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Black bean and avocado enchiladas with mole sauce",
+    "Mexican spiced cheddar cheese",
+    "Pancakes with maple syrup"
+  ],
+  "brewers_tips": "Space the rye and caramalt out evenly in the mash. If it is all collected in one section, it can contribute to a sticky run-off.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
