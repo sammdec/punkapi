@@ -1,0 +1,154 @@
+{
+  "name": "Vagabond Pilsner",
+  "tagline": "Hoppy Pilsner.",
+  "first_brewed": "02/2013",
+  "description": "Take the thirst-quenching crispness of a German Pilsner and combine it with lemon and honey to produce a rewarding modern twist on a beer classic.",
+  "abv": 4.5,
+  "ibu": 55,
+  "target_fg": 1012,
+  "target_og": 1046,
+  "ebc": 25,
+  "srm": 12.5,
+  "ph": 4.4,
+  "attenuation_level": 73.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 9,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Acidulated malt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 6.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 6.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Jamaican jerk chicken",
+    "Hot dog with grilled onions and spicy ketchup",
+    "Shortbread and raspberry jam thumbprint cookie"
+  ],
+  "brewers_tips": "The addition of the acidulated malt tweaks the pH down to aid the yeast fermentation, and helps to creates the crisp lager bite. Be careful not to use more than 10% in any grist, it will turn your mash into jelly!",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
