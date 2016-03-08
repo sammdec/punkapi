@@ -1,0 +1,147 @@
+{
+  "name": "Nuns With Guns",
+  "tagline": "Dry-Hopped Lager.",
+  "first_brewed": "11/2012",
+  "description": "A dry-hopped Session Pilsner. At 4.2% this amber-hued lager packs a malty punch with toasty Munich character and a light caramel sweetness. From here, things take a sharp turn towards the hoppy flavour, with some serious US citrus packed classic hops.",
+  "abv": 4.2,
+  "ibu": 25,
+  "target_fg": 1012,
+  "target_og": 1044,
+  "ebc": 19,
+  "srm": 9.5,
+  "ph": 4.4,
+  "attenuation_level": 72.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 70,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 16,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Maris Otter",
+        "amount": {
+          "value": 3.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 1.25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Falafel and hummus pitta wrap",
+    "Bratwurst with spicy relish",
+    "Strawberry tart"
+  ],
+  "brewers_tips": "Keep the temperature of the fermentation as close to 12C as possible (or below). This allows the yeast to create a crisper and cleaner beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

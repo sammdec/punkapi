@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 129 of 215 completed**
+**Status: 130 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -126,7 +126,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] HOPPY CHRISTMAS
 - [x] BLACK EYED KING IMP
 - [x] COCOA PSYCHO
-- [ ] NUNS WITH GUNS
+- [x] NUNS WITH GUNS
 - [ ] CATHERINE'S PONY (W/BEAVERTOWN)
 - [ ] AMARILLO
 - [ ] LICHTENSTEIN PALE ALE
