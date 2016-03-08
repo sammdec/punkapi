@@ -1,0 +1,114 @@
+{
+  "name": "Cocoa Psycho",
+  "tagline": "Russian Imperial Stout. Rich. Decadent. Mocha.",
+  "first_brewed": "11/2012",
+  "description": "Vanilla pods and toasted oak chips add a rounded character to this massive Russian Imperial Stout, brewed with a hefty malt bill, cacao nibs and coffee beans. Dark malts combine with Cascade to add a punchy bitterness, strong enough to offset the big chocolate sweetness.",
+  "abv": 10,
+  "ibu": 85,
+  "target_fg": 1012,
+  "target_og": 1098,
+  "ebc": 30,
+  "srm": 15.25,
+  "ph": 4.4,
+  "attenuation_level": 70,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coffee Beans: 25g at end, Cocoa Nibs: 25g at end, Cocoa Nibs: 25g at conditioning, Coffee Beans: 25g at conditioning, Oak Chips: 15g at conditioning"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 1.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Weyermann Smoked",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Smokey sweet pulled brisket",
+    "Espresso crusted venison with a dark cherry jus",
+    "Affogato with vanilla ice cream"
+  ],
+  "brewers_tips": "Put coffee beans and cocoa nibs in a cheese cloth and dip in wort like a tea bag. Do multiple small additions for short lengths of time – the longer you leave them in the more heavy oils will be extracted.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

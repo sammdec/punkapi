@@ -125,7 +125,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] DOG FIGHT (W/FLYING DOG)
 - [x] HOPPY CHRISTMAS
 - [x] BLACK EYED KING IMP
-- [ ] COCOA PSYCHO
+- [x] COCOA PSYCHO
 - [ ] NUNS WITH GUNS
 - [ ] CATHERINE'S PONY (W/BEAVERTOWN)
 - [ ] AMARILLO
