@@ -1,0 +1,107 @@
+{
+  "name": "AB:15",
+  "tagline": "Salted Caramel Popcorn Strong Ale.",
+  "first_brewed": "03/2013",
+  "description": "A salted caramel popcorn Imperial Ale. Bourbon and Rum barrel aged, this 12.8% ale has complex and twisting flavours. Bitter caramel, wood, smoke, spice, treacle and vanilla are all present and intertwine against a smooth and lightly chewy mouthfeel. The salted caramel popcorn lends subtle hints of a smoky brininess.",
+  "abv": 12.8,
+  "ibu": 50,
+  "target_fg": 1020,
+  "target_og": 1096,
+  "ebc": 111,
+  "srm": 55.5,
+  "ph": 4.4,
+  "attenuation_level": 79.17,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 68,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Adding popped popcorn into the mash, then barrel ageing in fresh bourbon barrels"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Malt (Maris Otter)",
+        "amount": {
+          "value": 6.5625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.3125,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 1.250,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.3125,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Popcorn",
+        "amount": {
+          "value": 0.00625,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Crispy bacon on flat bread",
+    "Glazed ham with crackling coating",
+    "Popcorn caramel and chocolate cake"
+  ],
+  "brewers_tips": "By soaking some oak chips in bourbon, then steeping in the beer you not only get an authentic Bourbon taste - the beer will also gain ABV! Add salt to taste, too much will totally ruin the balance of the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
