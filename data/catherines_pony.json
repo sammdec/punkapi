@@ -1,0 +1,134 @@
+{
+  "name": "Catherine's Pony (w/Beavertown)",
+  "tagline": "Imperial Smoked Porter – Beavertown Collab.",
+  "first_brewed": "12/2012",
+  "description": "An Imperial Smoked Porter with a nose like gooseberries and blueberries, stuffed with coffee, covered in chocolate and toasted on a campfire by the beach, Catherine’s Pony is robust and imposing with a herculean mouthfeel. Rich and smooth with roasted smoky flavours battling for prominence over the assertive bitterness. A satisfying hoppiness rounds off the palate.",
+  "abv": 8.8,
+  "ibu": 40,
+  "target_fg": 1017,
+  "target_og": 1084,
+  "ebc": 190,
+  "srm": 95,
+  "ph": 4.5,
+  "attenuation_level": 79.8,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 67,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coffee at end for flavour"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.15,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Type 2",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked Warminster",
+        "amount": {
+          "value": 0.77,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 11.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 11.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 11.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 11.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 19.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Flame grilled steak",
+    "Venison and Winter vegetable stew",
+    "Maple bacon chocolate cupcakes"
+  ],
+  "brewers_tips": "The smoke aroma comes from a mix of the Carafa malt and smoked malt. If you can't get hold of fresh smoked malt – make your own in a barbeque - carefully!",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
