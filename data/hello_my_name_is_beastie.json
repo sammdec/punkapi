@@ -1,0 +1,149 @@
+{
+  "name": "Hello My Name Is Beastie",
+  "tagline": "Double IPA Brewed with Brambles.",
+  "first_brewed": "08/2012",
+  "description": "A Scottish take on Hello My Name is Ingrid with added brambles. Caramel malt provides sweetness to balance the tart berry character, which loses sweetness during fermentation.",
+  "abv": 8.2,
+  "ibu": 42,
+  "target_fg": 1013,
+  "target_og": 1078,
+  "ebc": 90,
+  "srm": 45,
+  "ph": 4.4,
+  "attenuation_level": 83.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "500g bramble addition in the FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter Extra Pale",
+        "amount": {
+          "value": 6.86,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.93,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bramling Cross/ First Gold",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 71.43,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 71.43,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 71.43,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Honey glazed ham with pineapple",
+    "Spicy wings with blue cheese sauce",
+    "Blackberry pie with vanilla ice cream"
+  ],
+  "brewers_tips": "For easy addition, freeze the berries and then allow to defrost. The process will turn the berries to mush.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

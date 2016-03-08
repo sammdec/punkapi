@@ -4,7 +4,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 124 of 215 completed**
+**Status: 125 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -120,7 +120,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] WHITE NOISE
 - [x] INTERNATIONAL ARMS RACE (W/FLYING DOG)
 - [x] AB:11
-- [ ] HELLO MY NAME IS BEASTIE
+- [x] HELLO MY NAME IS BEASTIE
 - [ ] DOG FIGHT (W/FLYING DOG)
 - [ ] HOPPY CHRISTMAS
 - [ ] BLACK EYED KING IMP
