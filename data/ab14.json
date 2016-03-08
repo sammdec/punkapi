@@ -1,0 +1,127 @@
+{
+  "name": "AB:14",
+  "tagline": "Oak-Aged Imperial Weizenbock.",
+  "first_brewed": "02/2013",
+  "description": "Think banoffee pie; loads of creamy sweet banana, and sticky warm toffee. This beer is super complex, and one for the sweet-toothed!",
+  "abv": 10,
+  "ibu": 30,
+  "target_fg": 1016,
+  "target_og": 1094,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.4,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 120
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 23,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Oak chips: 25g at end"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3638 - Bavarian Wheat™"
+  },
+  "food_pairing": [
+    "Sweet pork Chinese dumplings",
+    "Caramelised onion venison burger",
+    "Banoffee pie"
+  ],
+  "brewers_tips": "Boil for even longer to get more caramelised flavours in the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
