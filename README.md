@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 133 of 215 completed**
+**Status: 134 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -130,7 +130,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] CATHERINE'S PONY (W/BEAVERTOWN)
 - [x] AMARILLO
 - [x] LICHTENSTEIN PALE ALE
-- [ ] AB:14
+- [x] AB:14
 - [ ] IPA IS DEAD - DANA
 - [ ] IPA IS DEAD - EL DORADO
 - [ ] IPA IS DEAD - GOLDINGS
