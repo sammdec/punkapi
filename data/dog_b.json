@@ -1,0 +1,157 @@
+{
+  "name": "Dog B",
+  "tagline": "Cacao, Coffee Chili Anniversary Stout.",
+  "first_brewed": "05/2013",
+  "description": "Our anniversary stout was based on AB:04, one of our most sought after beers ever. This beer is slightly different each year, with subtle variations coming into play purely down to environmental and fermentation factors. What doesn't change is the rich dark chocolate, bitter coffee and chilli warmth of this monumental Stout.",
+  "abv": 15,
+  "ibu": 90,
+  "target_fg": 1003,
+  "target_og": 1120,
+  "ebc": 100,
+  "srm": 50,
+  "ph": 4.4,
+  "attenuation_level": 98,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Based on AB:04, but with added vanilla and 3.5 times the chilli."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Honey",
+        "amount": {
+          "value": 0.7,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "twist"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": " aroma"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "twist"
+      }
+    ],
+    "yeast": "Wyeast 1056 American Ale™"
+  },
+  "food_pairing": [
+    "Blackened cajun beef",
+    "Blue cheese",
+    "Flourless chocolate cheesecake"
+  ],
+  "brewers_tips": "Be really careful when mashing, as this amount of malts can get tough to sparge! Add honey into the boil, and naga chili and vanilla in maturation (soak them in some neutral spirit to sanitise).",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
