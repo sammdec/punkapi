@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 145 of 215 completed**
+**Status: 146 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -142,7 +142,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] 10 HEADS HIGH
 - [x] VICE BIER
 - [x] MISSPENT YOUTH
-- [ ] #MASHTAG 2013
+- [x] #MASHTAG 2013
 - [ ] DOG B
 - [ ] ELECTRIC INDIA
 - [ ] DOG WIRED (W/8 WIRED)

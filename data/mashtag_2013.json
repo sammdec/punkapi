@@ -1,0 +1,152 @@
+{
+  "name": "#Mashtag 2013",
+  "tagline": "Democratic American Brown Ale.",
+  "first_brewed": "05/2013",
+  "description": "A rich, nutty Brown Ale with a deep, rich malt profile, hopped with a range of citrusy and spicy US varieties. Mellow yet endlessly complex, with enough chocolate and fruit character to balance the bitterness, and a soft oaky roundness.",
+  "abv": 7.5,
+  "ibu": 50,
+  "target_fg": 1013,
+  "target_og": 1070,
+  "ebc": 40,
+  "srm": 20,
+  "ph": 4.4,
+  "attenuation_level": 81.4,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Roasted Hazelnuts: 25g in Tank (FV), Almonds: 12.5g in Tank (FV), Oak Chips: 25g in Tank (FV)"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Roast beef",
+    "Roasted butternut squash",
+    "Hazelnut brittle"
+  ],
+  "brewers_tips": "Add the hazelnuts and oak chips during the cold conditioning phase.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
