@@ -141,7 +141,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] FAKE LAGER
 - [x] 10 HEADS HIGH
 - [x] VICE BIER
-- [ ] MISSPENT YOUTH
+- [x] MISSPENT YOUTH
 - [ ] #MASHTAG 2013
 - [ ] DOG B
 - [ ] ELECTRIC INDIA
