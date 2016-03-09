@@ -1,0 +1,136 @@
+{
+  "name": "Fake Lager",
+  "tagline": "Bohemian Pilsner.",
+  "first_brewed": "03/2013",
+  "description": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness.",
+  "abv": 4.7,
+  "ibu": 40,
+  "target_fg": 1010,
+  "target_og": 1046,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.4,
+  "attenuation_level": 78,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.33,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.42,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.28,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Acidulated Malt",
+        "amount": {
+          "value": 0.07,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 6.25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 6.25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Fried crab cakes with avocado salsa",
+    "Spicy shredded pork roll with hot dipping sauce",
+    "Key lime pie"
+  ],
+  "brewers_tips": "Once the primary fermentation is complete get this beer as cold as you can and let it mature for as long as you've got.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
