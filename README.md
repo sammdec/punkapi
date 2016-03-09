@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 140 of 215 completed**
+**Status: 141 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -137,7 +137,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] IPA IS DEAD - WAIMEA
 - [x] VAGABOND PILSNER
 - [x] AB:15
-- [ ] BRACKEN'S PORTER
+- [x] BRACKEN'S PORTER
 - [ ] FAKE LAGER
 - [ ] 10 HEADS HIGH
 - [ ] VICE BIER
