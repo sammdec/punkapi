@@ -1,0 +1,129 @@
+{
+  "name": "Electric India",
+  "tagline": "Vibrant Hoppy Saison.",
+  "first_brewed": "05/2013",
+  "description": "Re-brewed as a spring seasonal, this beer – which appeared originally as an Equity Punk shareholder creation – retains its trademark spicy, fruity edge. A perfect blend of Belgian Saison and US IPA, crushed peppercorns and heather honey are also added to produce a genuinely unique beer.",
+  "abv": 5.2,
+  "ibu": 38,
+  "target_fg": 1005,
+  "target_og": 1045,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.4,
+  "attenuation_level": 88.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 22,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Honey: 62.5g at End (WP), Coriander Seeds: 8.5g at 45mins"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Nelson",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Peppercorns",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Nelson",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Mussels with a garlic and herb sauce",
+    "Crab melt sandwich",
+    "Shortbread cookies"
+  ],
+  "brewers_tips": "Source some really good heather honey to get the right spicy esters in the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
