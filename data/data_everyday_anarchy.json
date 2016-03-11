@@ -1,0 +1,127 @@
+{
+  "name": "Everday Anarchy",
+  "tagline": "White Wine Barrel-Aged Imperial Red Saison.",
+  "first_brewed": "06/2013",
+  "description": "This French white wine barrel aged Imperial Saison has a plethora of intertwining flavours. Huge aromas of peach, syrup, tangerine, sherry, toffee and raisin, followed by a dynamic bracing acidity.",
+  "abv": 10.5,
+  "ibu": 45,
+  "target_fg": 1005,
+  "target_og": 1081,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.4,
+  "attenuation_level": 93.8,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 23,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coriander seeds: 12.5g at End (WP), Orange: 25g at End (WP), Lemon: 25g at End (WP), Honey: 125g at End (WP), Pink Peppercorns: 3.5g at End (WP)"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bobek",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "midele",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bobek",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Spiced carrot and coriander soup",
+    "Spicy chilli king prawns",
+    "Orange zest tart"
+  ],
+  "brewers_tips": "The honey addition will help to dry out the beer, as the saison yeast will continue to ferment long after most ale yeast.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
