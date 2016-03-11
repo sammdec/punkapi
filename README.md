@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 153 of 215 completed**
+**Status: 154 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -172,7 +172,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] AB:16
 - [x] COMET
 - [x] HBC 366
-- [ ] KOHATU
+- [x] KOHATU
 - [ ] HELLO MY NAME IS ZÉ (W/2CABEÇAS)
 - [ ] ALPHA POP
 - [ ] JASMINE IPA
