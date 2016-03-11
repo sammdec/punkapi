@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 151 of 215 completed**
+**Status: 152 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -148,7 +148,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] DOG WIRED (W/8 WIRED)
 - [x] HELLO MY NAME IS METTE-MARIT
 - [x] EVERYDAY ANARCHY
-- [ ] BLACK JACQUES
+- [x] BLACK JACQUES
 - [x] BLITZ BERLINER WEISSE
 - [x] DOGMA
 - [x] HELLO MY NAME IS SONJA (W/EVIL TWIN)

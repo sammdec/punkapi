@@ -1,0 +1,141 @@
+{
+  "name": "Black Jacques",
+  "tagline": "Red Wine Barrel-Aged Imperial Black Saison.",
+  "first_brewed": "06/2013",
+  "description": "A Black Saison, brewed with oats and wheat for a silky mouthfeel, Spicy hops and Carafa Malt for colour, then aged in red wine barrels. On the nose there's cola, chocolate, coffee, mint humbug, warming oak, and spice. The myriad flavours touch on treacle, ripe banana, espresso, brandy, and a clean herbal warmth.",
+  "abv": 11.1,
+  "ibu": 45,
+  "target_fg": 1005,
+  "target_og": 1089,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.4,
+  "attenuation_level": 94.4,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 23,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Grains of paradise: 10g at End (WP), Lemon Peel: 25g at End (WP), Ginger: 7.5g at End (WP)"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Malted Oats",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bravo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Bravo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mt.Hood",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bravo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mt.Hood",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Cured Spanish ham",
+    "Steak pasty",
+    "Black cherry tart"
+  ],
+  "brewers_tips": "Addition of the grains of paradise help to accentuate the peppery spiciness of the yeast.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
