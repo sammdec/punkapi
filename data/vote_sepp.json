@@ -1,0 +1,95 @@
+{
+  "name": "Vote Sepp",
+  "tagline": "Witbier With Hibiscus.",
+  "first_brewed": "05/2014",
+  "description": "Vote Sepp is a single hop wheat beer brewed to a session strength, with hibiscus flower, which gives it an impressively vibrant shade of pink. What Vote Sepp lacks in complexity, it more than makes up for in a perfect balance of tartness, bitterness and body.",
+  "abv": 3.6,
+  "ibu": 20,
+  "target_fg": 1009,
+  "target_og": 1036,
+  "ebc": 8,
+  "srm": 4,
+  "ph": 4.1,
+  "attenuation_level": 75,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Hibiscus: 37.5g Tank"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrified Wheat",
+        "amount": {
+          "value": 0.69,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3944 - Belgian Witbier™"
+  },
+  "food_pairing": [
+    "Crab roll sushi with strawberries",
+    "Artichoke hearts and chicken melt",
+    "Caprese salad (mozzarella, tomato, basil, black pepper and sea salt)"
+  ],
+  "brewers_tips": "Load hibiscus in the hot wort in a tea bag.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
