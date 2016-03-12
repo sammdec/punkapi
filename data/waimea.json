@@ -1,0 +1,118 @@
+{
+  "name": "Waimea - IPA Is Dead",
+  "tagline": "Single Hop India Pale Ale.",
+  "first_brewed": "02/2013",
+  "description": "Waimea has a new world flavour, infusing unique fresh crushed citrus aroma and flavour notes into this IPA - think intense fresh tangelo, citrus fruit and pine needle characteristics. There is a huge depth of flavour with astringent gooseberry balanced against the robust malt base.",
+  "abv": 6.7,
+  "ibu": 70,
+  "target_fg": 1015,
+  "target_og": 1066,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 77.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Waimea",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Waimea",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Waimea",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Waimea",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Hot spiced barbecue chicken wings",
+    "Orange sesame chicken",
+    "Chocolate fondue with fruit"
+  ],
+  "brewers_tips": "Use the freshest hops for the most impact.",
+  "contributed_by": "Matt Ball <GeordieMatt>"
+}
