@@ -1,0 +1,145 @@
+{
+  "name": "Jasmine IPA",
+  "tagline": "Floral & Fruity India Pale Ale.",
+  "first_brewed": "03/2014",
+  "description": "This has big floral aromas backed up with some of our favourite fruity hop flavours. Bitter, bright and refreshing, our Jasmine IPA is a perfect spring beer for drinking outside (under a patio heater, with a pair of gloves on).",
+  "abv": 5.8,
+  "ibu": 40,
+  "target_fg": 1014,
+  "target_og": 1060,
+  "ebc": 35,
+  "srm": 17.5,
+  "ph": 4.4,
+  "attenuation_level": 76.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Jasmine addition in cold conditioning"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Malt",
+        "amount": {
+          "value": 4.69,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Jasmine",
+        "amount": {
+          "value": 31,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Jasmine",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Chicken satay",
+    "Thai fishcakes",
+    "Honey and almond sponge cake"
+  ],
+  "brewers_tips": "When dry hopping with the jasmine, use a muslin or cloth like a tea bag, and make sure it has a heavy object in it (ensure its clean). This will help to keep the jasmine submerged in the beer for better flavour extraction.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
