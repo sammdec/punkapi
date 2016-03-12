@@ -5,7 +5,7 @@
 ## Update: Over halfway there!
 After lots of contributions we are over halfway to completing all the data.
 
-**Status: 129 of 215 completed**
+**Status: 130 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -210,7 +210,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [ ] BORN TO DIE
 - [ ] B-SIDES – MELON AND CUCUMBER IPA
 - [ ] B-SIDES – SORACHI BITTER
-- [ ] B-SIDES – TRUFFLE AND CHOCOLATE STOUT
+- [x] B-SIDES – TRUFFLE AND CHOCOLATE STOUT
 - [ ] B-SIDES – HOPPY SAISON
 - [ ] B-SIDES – WHISKY SOUR
 - [ ] B-SIDES – SPICED CHERRY SOUR
