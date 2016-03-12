@@ -1,0 +1,118 @@
+{
+  "name": "El Dorado - IPA Is Dead",
+  "tagline": "Single Hop India Pale Ale.",
+  "first_brewed": "02/2013",
+  "description": "The Pacific North West of America grows remarkable hops and El Dorado is a killer example of this. A new hop on the block, loaded with tropical fruits, pear, watermelon, candy floss and stone fruit.",
+  "abv": 6.7,
+  "ibu": 70,
+  "target_fg": 1015,
+  "target_og": 1066,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 77.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "El Dorado",
+        "amount": {
+          "value": 3.75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "El Dorado",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "El Dorado",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "El Dorado",
+        "amount": {
+          "value": 125,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Watermelon and feta salad with balsamic reduction",
+    "Grilled chicken with a chilli soy sauce marinade",
+    "Crème brûlée with apricot coulis"
+  ],
+  "brewers_tips": "El Dorado works well on its own but pairs up brilliantly with a higher alpha hop for bittering, saving your El Dorado for aroma and flavour.",
+  "contributed_by": "Matt Ball <GeordieMatt>"
+}
