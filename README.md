@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 195 of 215 completed**
+**Status: 196 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -212,7 +212,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] B-SIDES – HOPPY SAISON
 - [x] B-SIDES – WHISKY SOUR
 - [x] B-SIDES – SPICED CHERRY SOUR
-- [ ] B-SIDES – DEAF MERMAID
+- [x] B-SIDES – DEAF MERMAID
 - [ ] #MASHTAG 2015
 - [x] DOG D
 - [ ] HINTERLAND

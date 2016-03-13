@@ -1,0 +1,124 @@
+{
+  "name": "Deaf Mermaid - B-Sides",
+  "tagline": "Light Pale Ale.",
+  "first_brewed": "04/2015",
+  "description": "A keg-only summer special, hop- bursted and dry-hopped to infinity.",
+  "abv": 5.2,
+  "ibu": 65,
+  "target_fg": 1010,
+  "target_og": 1048,
+  "ebc": 16,
+  "srm": 8,
+  "ph": 5.2,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Most of the hops are added in the whirlpool and dry hop stages"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Malt",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Grilled fish tacos",
+    "Greek salad",
+    "Goat's cheese"
+  ],
+  "brewers_tips": "Make sure the dry hops get plenty of contact with the beer! Weigh them down in a muslin sack if using whole leaf.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
