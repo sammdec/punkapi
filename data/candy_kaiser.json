@@ -1,0 +1,93 @@
+{
+  "name": "Candy Kaiser",
+  "tagline": "NorDdeutsches Retro Altbier.",
+  "first_brewed": "08/2015",
+  "description": "In this northern German style retro altbier, we’ve dialled down the dry-hops to zero, but cranked up the malt to create massive aromas. Toasty, toffee and floral notes duke it out for supremacy in the headspace of your glass. When this all hits your palate, the steely bitterness combines with the rich dry malt and the subtle alcohol warmth in a full throttle attack on your taste buds.",
+  "abv": 5.2,
+  "ibu": 45,
+  "target_fg": 1009,
+  "target_og": 1049,
+  "ebc": 45,
+  "srm": 22.5,
+  "ph": 4.2,
+  "attenuation_level": 81.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 14,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.94,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Aged gouda",
+    "German bratwurst sausage",
+    "Poached pear fritters"
+  ],
+  "brewers_tips": "Make sure that the boil is vigorous enough to roll. This means that high flavours are active, and undesirable compounds like DMS are not left in the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
