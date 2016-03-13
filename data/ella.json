@@ -1,0 +1,88 @@
+{
+  "name": "Ella - IPA Is Dead",
+  "tagline": "Single Hop India Pale Ale.",
+  "first_brewed": "03/2015",
+  "description": "2015 IPA is Dead Series. Supremely floral, this hugely under-rated hop is related to Galaxy and was first cultivated in the Australian state of Victoria. Initially given the same name as a certain Eurolager, their lawyers got involved and the St- prefix was dropped. Ella displays subtle notes of spice, but is fundamentally a truly floral bouquet, redolent of the Southern Hemisphere.",
+  "abv": 7.2,
+  "ibu": 100,
+  "target_fg": 1010,
+  "target_og": 1064,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.39,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Ella",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Ella",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ella",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Cheddar cheese toastie on dark rye",
+    "Lamb samosas with chilli dipping sauce",
+    "Cheesecake"
+  ],
+  "brewers_tips": "These beers need to hit FG to really pop. If you're fermentation is struggling, whip up a starter and re-pitch to get some viable yeast in there to finish the job",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
