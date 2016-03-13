@@ -1,0 +1,123 @@
+{
+  "name": "U-Boat (w/Victory Brewing)",
+  "tagline": "Smoked Porter Collab With Victory Brewing.",
+  "first_brewed": "07/2014",
+  "description": "On the palate is a big dark malt sweetness, balanced by the blend of spicy Mittelfruh and citrussy Galena. Cocoa powder, rich dark chocolate, and ripe berries interplay with a toasty burnt sugar bitterness. The mouthfeel is thick and chewy with a treacly quality that doesn’t cloy, as it plays off against the hops and roast malt bitterness.",
+  "abv": 8.4,
+  "ibu": 50,
+  "target_fg": 1015,
+  "target_og": 1080,
+  "ebc": 200,
+  "srm": 100,
+  "ph": 4.4,
+  "attenuation_level": 81.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 14,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Try ageing on oak chips, infusing with rum raisins, or vanilla pods"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.35,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 1.92,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked Warminster",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 11.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Smoked bratwurst and mustard",
+    "Chargrilled steak",
+    "Grilled pineapple"
+  ],
+  "brewers_tips": "A good Porter is dependant on a long fermentation and cellaring process. Keep the temperature controlled as much as possible.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

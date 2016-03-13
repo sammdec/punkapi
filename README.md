@@ -2,10 +2,8 @@
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
-## Update: Over halfway there!
-After lots of contributions we are over halfway to completing all the data.
 
-**Status: 164 of 215 completed**
+**Status: 166 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -183,7 +181,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] MAGIC STONE DOG (W/MAGIC ROCK & BREWING CO.)
 - [x] RUSSIAN DOLL – BARLEY WINE
 - [x] SUB HOP
-- [ ] U-BOAT (W/VICTORY BREWING)
+- [x] U-BOAT (W/VICTORY BREWING)
 - [ ] AMERICAN WHEAT
 - [ ] CAP DOG (W/CAP BREWERY)
 - [ ] RUSSIAN DOLL – DOUBLE IPA
