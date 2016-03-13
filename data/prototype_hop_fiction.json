@@ -1,0 +1,124 @@
+{
+  "name": "Hop Fiction - Prototype Challenge",
+  "tagline": "US-Style Pale Ale.",
+  "first_brewed": "11/2014",
+  "description": "Hop Fiction is an explosively tropical US-style Pale Ale. We rolled up our hop-dusted sleeves and put some advanced brewing techniques to work on this seasonal brew. Hop Fiction’s incredible aromas and flavours are down to a combination of early and late hops. Bags of soft, rounded citrus and stone fruit layer up on a dry light biscuit backbone. Hop Fiction, beer fact.",
+  "abv": 5.2,
+  "ibu": 40,
+  "target_fg": 1010,
+  "target_og": 1048,
+  "ebc": 13,
+  "srm": 6.5,
+  "ph": 4.4,
+  "attenuation_level": 79.2,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 American Ale™"
+  },
+  "food_pairing": [
+    "Jalapeño and cream cheese poppers",
+    "Asparagus pesto pasta",
+    "Bacon and maple syrup cupcakes"
+  ],
+  "brewers_tips": "Don't be scared by the amount of hops. Seriously this beer can handle them.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
