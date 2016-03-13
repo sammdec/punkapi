@@ -1,5 +1,5 @@
 {
-  "name": "Black Eyed King Imp",
+  "name": "Black Eyed King Imp - Vietnamese Coffee Edition",
   "tagline": "Vietnamese Coffee Edition.",
   "first_brewed": "12/2014",
   "description": "This is the Vietnamese Coffee Edition. At 12.7% ABV, Black Eyed King Imp is a super intense and twistedly complex brew, with intense notes of sweet vanilla, rich espresso, smooth molasses and bitter chocolate barely contained by the whatever container it's in.",
@@ -129,7 +129,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "aroma/ bitter"
+        "attribute": "aroma / bitter"
       }
     ],
     "yeast": "Wyeast American Ale II Strain 1272"
