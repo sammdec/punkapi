@@ -1,0 +1,125 @@
+{
+  "name": "Cap Dog (w/Cap Brewery)",
+  "tagline": "Black Cascara IPA.",
+  "first_brewed": "08/2014",
+  "description": "A collaboration by BrewDog and CAP with Cascara green unroasted cherry coffee beans.",
+  "abv": 9,
+  "ibu": 80,
+  "target_fg": 1014,
+  "target_og": 1083,
+  "ebc": 180,
+  "srm": 90,
+  "ph": 5.2,
+  "attenuation_level": 83.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Cascara: 500g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.02,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal 150",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.96,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.29,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cascara",
+        "amount": {
+          "value": 0.04,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 38.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 77,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascara",
+        "amount": {
+          "value": 38.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Chilli con carne",
+    "Pepper jack cheese burger on a brioche bun",
+    "Coffee cake"
+  ],
+  "brewers_tips": "Split the Cascara evenly between the mash and end of boil to really get the most out of it.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
