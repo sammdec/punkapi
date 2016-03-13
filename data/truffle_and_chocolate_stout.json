@@ -1,0 +1,139 @@
+{
+  "name": "Truffle and Chocolate Stout - B-Sides",
+  "tagline": "Gastronomic Session Stout.",
+  "first_brewed": "03/2015",
+  "description": "Pilot Brew - Truffle & Chocolate Stout. Deep, earthy roast notes make this a gastronome's dream.",
+  "abv": 5.6,
+  "ibu": 30,
+  "target_fg": 1015,
+  "target_og": 1058,
+  "ebc": 54,
+  "srm": 27,
+  "ph": 4.4,
+  "attenuation_level": 74,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Use Perigold Truffles after fermentation"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Special W",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.31,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 1.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Mushroom pithivier",
+    "Roast pheasant with savoy cabbage",
+    "Dark chocolate ganache macaroons"
+  ],
+  "brewers_tips": "A little truffle goes a long way. Add 5g, leave for a 2 days and add more if needed.",
+  "contributed_by": "Iain Mullan <iainmullan>"
+}
