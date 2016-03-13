@@ -1,0 +1,167 @@
+{
+  "name": "Born To Die",
+  "tagline": "Terminally Hoppy India Pale Ale.",
+  "first_brewed": "03/2015",
+  "description": "Savagely bitter, exceptionally dry, this IPA is born to die on a predetermined day. It proudly displays its short-lived life span front and centre. There is no better time to drink this than the moment you get your paws on it. Awesome bitterness backed up by unrelenting aromas of resin, citrus, and juicy fruit. Born To Die is a eulogy to the hops that sacrificed themselves in its creation. An incredibly ambitious and satisfying small batch brew.",
+  "abv": 8.5,
+  "ibu": 85,
+  "target_fg": 1007,
+  "target_og": 1072,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.4,
+  "attenuation_level": 90.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Pale - Marris Otter",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "C02 Extract",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Caramelised onion and lightly seared steak",
+    "Pulled barbecue brisket",
+    "Salted caramel cheesecake"
+  ],
+  "brewers_tips": "Fresh is best with this beer. Use fresh hops in the brew and during dry hop stages. Condition just long enough to let the powerful grassy aroma cut back - and drink.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
