@@ -1,0 +1,134 @@
+{
+  "name": "Rhubarb Saison - B-Sides",
+  "tagline": "Spiced Rhubarb Saison.",
+  "first_brewed": "10/2015",
+  "description": "Spiced peppercorn and rhubarb Saison.",
+  "abv": 6.4,
+  "ibu": 25,
+  "target_fg": 1008,
+  "target_og": 1052,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 5.2,
+  "attenuation_level": 87,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 0.42,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Lamb cutlets with cucumber raita",
+    "Pigeon pea dal",
+    "Set vanilla custard"
+  ],
+  "brewers_tips": "Be prepared to give your Saison yeast plenty of time to do its thing. It’s not unheard of for Saison fermentation taking 6-8 weeks.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
