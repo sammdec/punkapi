@@ -1,0 +1,150 @@
+{
+  "name": "Stereo Wolf Stout - Prototype Challenge",
+  "tagline": "Dark Audio Storm.",
+  "first_brewed": "02/2015",
+  "description": "Roasty, dark and complex, Stereo Wolf is a 5.2% ABV Stout brewed with a cacophony of hop-driven fruit and spice. Dark chocolate stalks alongside the resonating bitterness, through to Stereo Wolf’s lingering dry finish. Balancing roasty malt and new world hops at 5.2% ABV is no mean feat, but Stereo Wolf takes it in its stride.",
+  "abv": 5.2,
+  "ibu": 55,
+  "target_fg": 1014,
+  "target_og": 1052,
+  "ebc": 200,
+  "srm": 100,
+  "ph": 5.2,
+  "attenuation_level": 73.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Special W",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Spec 1",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Mississippi style pork ribs",
+    "Chunky mild spice beef stew",
+    "Chocolate chunky cookies"
+  ],
+  "brewers_tips": "Special W is a specialty malt that creates an intense profile of nuts, raisins and caramel. It provides a focal point for the malt base, that the hops can stack against.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

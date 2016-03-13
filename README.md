@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 181 of 215 completed**
+**Status: 182 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -197,7 +197,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] BLACK EYED KING IMP - VIETNAMESE COFFEE EDITION
 - [x] SHAREHOLDER BREW – BOUNTY HUNTER
 - [x] RESTORATIVE BEVERAGE FOR INVALIDS AND CONVALESCENTS
-- [ ] STEREO WOLF STOUT
+- [x] STEREO WOLF STOUT
 - [ ] B-SIDES – SUNSHINE ON RYE
 - [ ] B-SIDES – BOWMAN’S BEARD
 - [ ] HELLO MY NAME IS LITTLE INGRID
