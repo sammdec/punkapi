@@ -1,0 +1,111 @@
+{
+  "name": "India Pale Weizen (w/Weihenstephan)",
+  "tagline": "BrewDog Versus Weihenstephan.",
+  "first_brewed": "09/2014",
+  "description": " BrewDog vs. Weihenstephan India Pale Weizen kicked off a new direction for our collaborations. We took a simple concept (by our standards) and teamed up with the oldest brewery in the world to brew a mash-up beer using the signature styles of both breweries. India Pale Weizen has classic base hefeweizen aromas and flavours of banana, clove and bubblegum, with a distinctive haziness. Layered on top of this is a tapestry of US citrus hop character. India Pale Weizen is a perfect symbiosis of traditional and modern brewing.",
+  "abv": 6.2,
+  "ibu": 50,
+  "target_fg": 1010,
+  "target_og": 1056,
+  "ebc": 35,
+  "srm": 17.5,
+  "ph": 4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.08,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Hersbrucker",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3638 - Bavarian Wheat™"
+  },
+  "food_pairing": [
+    "Korean barbecue nachos",
+    "Beef pho soup",
+    "Waffles with caramelised apple and powdered sugar"
+  ],
+  "brewers_tips": "Let the fermentation temperature creep up a couple of degrees higher than normal to create the characteristic banana and bubblegum aromas.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
