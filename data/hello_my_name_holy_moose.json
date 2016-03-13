@@ -1,0 +1,184 @@
+{
+  "name": "Hello My Name Is Holy Moose",
+  "tagline": "Nordic Berry IPA.",
+  "first_brewed": "07/2015",
+  "description": "Cloudberry, lingonberry, blueberry and sea buckthorn meld with citrusy hops in an intensely sweet, fruity and floral aroma, with toasty malt notes and tropical fruit bursts. This bitter, resinous IPA follows up with a lemony punch in the mouth - cherry and blueberry sourness takes this pithy pale ale in a new direction before a long, dry finish.",
+  "abv": 5.5,
+  "ibu": 35,
+  "target_fg": 1011,
+  "target_og": 1053,
+  "ebc": 25,
+  "srm": 12.5,
+  "ph": 4.4,
+  "attenuation_level": 79.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 17,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Lingon Berries: 25g at end, Cloudberries: 25g ate end, Blueberry Concentrate: 62.5g at FV, Sea Buckthorn: 62.5g at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carared",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Warms goats cheese salad",
+    "Trifle or chocolate cake"
+  ],
+  "brewers_tips": "The mixture of berries and hops create a very intense flavour profile, a great brew for using up some spare hops.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
