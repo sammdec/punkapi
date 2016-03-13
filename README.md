@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 209 of 215 completed**
+**Status: 210 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -231,7 +231,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] INDIA SESSION LAGER PROTOTYPE CHALLENGE
 - [x] HOPPED-UP BROWN ALE PROTOTYPE CHALLENGE
 - [x] ALBINO SQUID ASSASSIN
-- [ ] B-SIDES – BERLINER WEISSE WITH RASPBERRIES AND RHUBARB
+- [x] B-SIDES – BERLINER WEISSE WITH RASPBERRIES AND RHUBARB
 - [ ] ARCADE NATION
 - [ ] ELVIS JUICE V2.0
 - [ ] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA

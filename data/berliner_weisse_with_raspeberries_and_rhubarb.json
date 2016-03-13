@@ -1,0 +1,112 @@
+{
+  "name": "Berliner Weisse With Raspberries And Rhubarb - B-Sides",
+  "tagline": "Fruity Berliner Weisse.",
+  "first_brewed": "11/2015",
+  "description": "Tart, dry and acidic with a punch of summer berry as rhubarb crumble.",
+  "abv": 3.6,
+  "ibu": 8,
+  "target_fg": 1007,
+  "target_og": 1040,
+  "ebc": null,
+  "srm": null,
+  "ph": 3.2,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Raspberries in the boil, rhubarb at maturation. Soured naturally using the kettle souring technique, Raspberries at middle"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Propino Pale Malt",
+        "amount": {
+          "value": 1.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat Malt",
+        "amount": {
+          "value": 1.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Propino Pale Malt for kettle souring",
+        "amount": {
+          "value": 0.03,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Acidulated Malt for kettle souring",
+        "amount": {
+          "value": 0.03,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Wyeast 1056 American Ale™"
+  },
+  "food_pairing": [
+    "Grilled salmon",
+    "Mac and cheese fries",
+    "Cheesecake with raspberry coulis"
+  ],
+  "brewers_tips": "Fruits added at the end of the boil for 10 mins and additional added in maturation. Boil for no more than 15 mins.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
