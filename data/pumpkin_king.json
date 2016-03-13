@@ -1,0 +1,109 @@
+{
+  "name": "Pumpkin King",
+  "tagline": "Spicy Citrus Pumpkin Ale.",
+  "first_brewed": "08/2015",
+  "description": "We're turning Hallowe’en inside out and upside down. Pumpkin King is not your usual unctuous, cloyingly sweet Hallowe’en pumpkin ale. Sure, there’s a huge heady hit of pungent spice on the nose, but it’s followed with bright and zesty citrus flavours, and a light mouthfeel. Spicy and sweet autumnal favourites like toasted marshmallow and toffee apple are just some of the complex notes you’ll find in our twisted take on a pumpkin ale, which weighs in at 5.4% ABV.",
+  "abv": 5.4,
+  "ibu": 20,
+  "target_fg": 1014,
+  "target_og": 1055,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 74.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Pumkin puree: 375g, Grains of Paradise: 2.5g at end, Star Anise: 1.5g at end, Cinnamon: 2.5g at end, Nutmeg: 2.5g at end, Allspice: 2.5g at end, Ginger: 2.5g at end, Clove: 2.5g at end"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 3.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Creamy maple syrup and bacon soup",
+    "Chunky chicken and vegetable spiced stew",
+    "Pumpkin pie"
+  ],
+  "brewers_tips": "Experiment with the spice addition to find the correct balance to suit your taste. FYI star anise is a very strong flavour.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

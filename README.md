@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 203 of 215 completed**
+**Status: 204 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -221,7 +221,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] LIZARD BRIDE
 - [x] B-SIDES – MANGO GOSE
 - [x] CANDY KAISER
-- [ ] PUMPKIN KING
+- [x] PUMPKIN KING
 - [x] B-SIDES – BABY SAISON
 - [x] B-SIDES – MORAG'S MOJITO
 - [x] B-SIDES – ORANGE BLOSSOM
