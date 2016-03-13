@@ -1,0 +1,163 @@
+{
+  "name": "Bowman's Beard - B-Sides",
+  "tagline": "English Barley Wine.",
+  "first_brewed": "03/2015",
+  "description": "Ice-distilled double barley wine brewed by Chris from Stone Brewing Co. (see Sunmaid Stout) and BrewDog's own brewers. As robust, resinous and badass as its eponymic beard.",
+  "abv": 18.3,
+  "ibu": 50,
+  "target_fg": 1011,
+  "target_og": 1067,
+  "ebc": 15,
+  "srm": 8,
+  "ph": 5.3,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Ice-distilled after fermentation to get to 18.3%"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara Aroma",
+        "amount": {
+          "value": 0.04,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramunich",
+        "amount": {
+          "value": 0.1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.07,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.11,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Motueka",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™ & Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Celery and stilton soup",
+    "Salted caramel soufflé"
+  ],
+  "brewers_tips": "Ferment first with the American ale strain and after a week add the American Ale II to really push up the ABV. Use a starter to get the yeast raring and ready to go before the second addition.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
