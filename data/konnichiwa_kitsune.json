@@ -1,0 +1,176 @@
+{
+  "name": "Konnichiwa Kitsune",
+  "tagline": "Hello My Name Is Yuzu.",
+  "first_brewed": "10/2014",
+  "description": "Named in a slight deviation from our Hello My Name Is series, Konnichiwa Kitsune is a Japanese- inspired, yuzu-infused Imperial IPA, brewed with Amarillo, Cascade and Citra. These punchy new world hops bring orange, grapefruit and lime to back up the yuzu aroma and flavour. Big mandarin notes, balanced against a caramel malt biscuity base.",
+  "abv": 4.4,
+  "ibu": 70,
+  "target_fg": 1012,
+  "target_og": 1045,
+  "ebc": 30,
+  "srm": 15,
+  "ph": 4.4,
+  "attenuation_level": 82.9,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Yuzu juice: 250g at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.86,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 18.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavoour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavouor"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 137.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 87.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast American Ale II Strain 1272"
+  },
+  "food_pairing": [
+    "Fresh seared tuna and rocket salad",
+    "Lemon meringue pie",
+    "Baked chicken with yuzu reduction"
+  ],
+  "brewers_tips": "Squeeze the fresh yuzu juice directly into the beer after primary fermentation is complete. Putting it in the hot wort may seem like better practice, but the juice will cook and some of the fresh citrus character will be lost.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

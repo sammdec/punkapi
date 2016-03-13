@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 173 of 215 completed**
+**Status: 174 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -190,7 +190,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] THIS.IS.LAGER.
 - [x] INDIA PALE WEIZEN (W/WEIHENSTEPHAN)
 - [x] AB:17
-- [ ] KONNICHIWA KITSUNE
+- [x] KONNICHIWA KITSUNE
 - [ ] PROTOTYPE CHALLENGE - ALL DAY LONG
 - [ ] PROTOTYPE CHALLENGE - HOP FICTION
 - [ ] PROTOTYPE CHALLENGE - VAGABOND PALE ALE
