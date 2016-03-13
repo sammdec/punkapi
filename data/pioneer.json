@@ -1,0 +1,88 @@
+{
+  "name": "Pioneer - IPA Is Dead",
+  "tagline": "Single Hop India Pale Ale.",
+  "first_brewed": "03/2015",
+  "description": "2015 IPA is Dead Series. Pioneer hails from the hop gardens of Kent, and for those expecting something classically English, they surprise with an unforeseen blast of lemony citrus. Bookended with a herbal, cedar quality, these high alpha UK hops pack a pithy zing not often seen from these hop-growing isles.",
+  "abv": 7.2,
+  "ibu": 100,
+  "target_fg": 1010,
+  "target_og": 1064,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.88,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Pioneer",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Pioneer",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Pioneer",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Fried teriyaki chicken",
+    "Chicken jalfrezi",
+    "Chocolate and toffee fondant"
+  ],
+  "brewers_tips": "Ensure to get the dry hops in and out within 3 days to ensure you capture the best of the hop.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

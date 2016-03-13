@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 188 of 215 completed**
+**Status: 189 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -204,7 +204,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] IPA IS DEAD - CHINOOK
 - [x] IPA IS DEAD - ELLA
 - [x] IPA IS DEAD - MANDARINA BAVARIA
-- [ ] IPA IS DEAD - PIONEER
+- [x] IPA IS DEAD - PIONEER
 - [ ] BORN TO DIE
 - [ ] B-SIDES – MELON AND CUCUMBER IPA
 - [ ] B-SIDES – SORACHI BITTER
