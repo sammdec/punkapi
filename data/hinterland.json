@@ -1,0 +1,141 @@
+{
+  "name": "Hinterland",
+  "tagline": "A Most Beguiling Brew.",
+  "first_brewed": "05/2015",
+  "description": "Hinterland is a beer long in the creation, and even longer in the appreciation. On the aroma, deep reverberating roasty bitterness and sweet dark chocolate. Also in evidence, woodsmoke, rich vanilla, mocha and marzipan. When tasting, Hinterland reveals itself as the beer moves from cellar temperature to something warmer, yielding all of the above plus dried fruit, rich ganache and ending on a resoundingly warming finish redolent of chocolate liqueur or plum brandy.",
+  "abv": 9,
+  "ibu": 85,
+  "target_fg": 1025,
+  "target_og": 1094,
+  "ebc": 400,
+  "srm": 200,
+  "ph": 4.3,
+  "attenuation_level": 73.4,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Lactose (Milk Sugar): 500g at middle"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 6.88,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Mulled cheddar buffalo burger",
+    "Venison with warm spices (cardamom) and sweet potato",
+    "Pure vanilla bean ice cream"
+  ],
+  "brewers_tips": "Towards the end of the fermentation allow the temperature to free rise. This will let the yeast finish off the fermentation and scour off-flavours from the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
