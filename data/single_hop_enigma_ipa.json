@@ -1,0 +1,109 @@
+{
+  "name": "Single Hop Enigma IPA - B-Sides",
+  "tagline": "Enigma Hopped IPA.",
+  "first_brewed": "01/2016",
+  "description": "A cheeky play with a new hop on the pilot kit. Expect notes of redcurrant, melon and citrus. An intriguing possibility for the future.",
+  "abv": 5,
+  "ibu": 50,
+  "target_fg": 1011,
+  "target_og": 1050,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.4,
+  "attenuation_level": 78,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Propino Pale Malt",
+        "amount": {
+          "value": 4.1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Enigma",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Enigma",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Enigma",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 American Ale™ & Wyeast American Ale II Strain 1272"
+  },
+  "food_pairing": [
+    "Jalapeño poppers with blue cheese dip",
+    "T-bone steak with fried onions",
+    "Carrot cake with cream cheese frosting"
+  ],
+  "brewers_tips": "Enigma has a very high alpha acid so be careful not to over do the bittering hops.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

@@ -1,25 +1,22 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
+## Update: It's Done!
+Thank you to everyone who contributed to the project. **What's next?**
+I'm nearly done with the API itself expect it to launch sometime around the 16th March.
 
-**Status: 214 of 215 completed**
+**Status: 215 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
 ## What's the deal?
-If you head to the [`data`](data/) folder you will see all the recipes so far, I'm asking all you beer lovers to take 5 minutes to choose one of the recipes and convert it into a JSON file using the [`TEMPLATE.json`](TEMPLATE.json) file and submit it as a PR.
+If you head to the [`data`](data/) folder you will see all the recipes. If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
 
 ## Where can I find the recipes?
 Head over to BrewDog's DIY Dog [page to download the free PDF](https://www.brewdog.com/diydog)
 
-## The TEMPLATE.json is missing something?
-If people have any suggestions on information that is missing from the template please drop an issue or a PR.
-
 ## What do you plan to do with all this data?
 Once this is all done I will create a fully searchable API from the data and of course it will be open source and free to use for all your beer hackers out there.
-
-Below is a list of all the beers and the ones that have already been done:
 
 ## The Beers
 
@@ -236,7 +233,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] ELVIS JUICE V2.0
 - [x] BERLINER WEISSE WITH YUZU
 - [x] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
-- [ ] B-SIDES – SINGLE HOP ENIGMA IPA
+- [x] B-SIDES – SINGLE HOP ENIGMA IPA
 - [x] JET BLACK HEART
 
 ## License
