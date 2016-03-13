@@ -219,7 +219,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] PEACH THERAPY
 - [x] HELLO MY NAME IS HOLY MOOSE
 - [x] LIZARD BRIDE
-- [ ] B-SIDES – MANGO GOSE
+- [x] B-SIDES – MANGO GOSE
 - [ ] CANDY KAISER
 - [ ] PUMPKIN KING
 - [x] B-SIDES – BABY SAISON
