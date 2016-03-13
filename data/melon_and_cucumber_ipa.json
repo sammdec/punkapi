@@ -1,0 +1,152 @@
+{
+  "name": "Melon And Cucumber IPA - B-Sides",
+  "tagline": "Fresh Melon IPA.",
+  "first_brewed": "03/2015",
+  "description": "A Pilot Brew with 200Kg of fresh melon and 5Kg fresh cucumber added after fermentation to produce the perfect summer refreshment.",
+  "abv": 6,
+  "ibu": 50,
+  "target_fg": 1010,
+  "target_og": 1050,
+  "ebc": 8,
+  "srm": 4,
+  "ph": 5.2,
+  "attenuation_level": 87,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Melon: 500g, Cucumber: 20g"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Beef carpaccio",
+    "Chilled beetroot soup",
+    "Korean watermelon salad"
+  ],
+  "brewers_tips": "Have a good food proccesser to blend up all the melon and cucumber, also sieve out the seeds from the melon.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
