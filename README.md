@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 170 of 215 completed**
+**Status: 171 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -186,7 +186,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] CAP DOG (W/CAP BREWERY)
 - [x] RUSSIAN DOLL – DOUBLE IPA
 - [x] RUSSIAN DOLL – INDIA PALE ALE
-- [ ] RUSSIAN DOLL – PALE
+- [x] RUSSIAN DOLL – PALE
 - [ ] THIS.IS.LAGER.
 - [ ] INDIA PALE WEIZEN (W/WEIHENSTEPHAN)
 - [ ] AB:17
