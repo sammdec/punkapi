@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 174 of 215 completed**
+**Status: 176 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -193,7 +193,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] KONNICHIWA KITSUNE
 - [x] PROTOTYPE CHALLENGE - ALL DAY LONG
 - [x] PROTOTYPE CHALLENGE - HOP FICTION
-- [ ] PROTOTYPE CHALLENGE - VAGABOND PALE ALE
+- [x] PROTOTYPE CHALLENGE - VAGABOND PALE ALE
 - [ ] BLACK EYED KING IMP - VIETNAMESE COFFEE EDITION
 - [ ] SHAREHOLDER BREW – BOUNTY HUNTER
 - [ ] RESTORATIVE BEVERAGE FOR INVALIDS AND CONVALESCENTS
