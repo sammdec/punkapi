@@ -1,0 +1,131 @@
+{
+  "name": "Restorative Beverage For Invalids And Convalescents",
+  "tagline": "An Extract Taken From \"A Treatise on Food and Diet\" By Dr Jonathan Pereira, 1843.",
+  "first_brewed": "02/2015",
+  "description": "Brewed to 8.5%, light as a mass market Pilsner in colour, fermented to be as dry as a Lambic, but as bitter as any double IPA and loaded with as much hop aroma as we can get into a beer. The fermentables in this beer were Marris Otter Extra Pale along with plenty of sugar as we mashed at a very low temperature to ensure maximum fermentability and attenuation. This beer is fermented within an inch of its life making it dry, sheer and bright. Citra, Amarillo & Centennial were all used in abundance in the kettle and also fired extremely liberally at this beer with our high tech hop cannon.",
+  "abv": 8.5,
+  "ibu": 100,
+  "target_fg": 1003,
+  "target_og": 1068,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.4,
+  "attenuation_level": 95.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 63,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale - Marris Otter",
+        "amount": {
+          "value": 5.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "White Cane Sugar",
+        "amount": {
+          "value": 0.88,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "C02 Extract",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Habanero spicy chicken wings with ranch sauce",
+    "Jalapeño chilli and chicken quesadillas",
+    "New York style cheesecake"
+  ],
+  "brewers_tips": "Allow the mash to sit at lower temperatures for an extended period to convert the maximum amount of starch to fermetable sugars. This will give the beer a higher ABV and dry it out.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
