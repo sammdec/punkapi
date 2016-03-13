@@ -1,0 +1,88 @@
+{
+  "name": "Mandarina Bavaria - IPA Is Dead",
+  "tagline": "Single Hop India Pale Ale.",
+  "first_brewed": "03/2015",
+  "description": "From the central European plains of Germany, comes something very different. A blast of tangerine and orange, Mandarina Bavaria brings a highly distinctive backbone of flavour. This is down to its parent – Cascade – and a frankly enormous 70% myrcene oil content. If equate Germany solely with earthy, spicy Noble hops, Mandarina Bavaria will make you think again.",
+  "abv": 7.2,
+  "ibu": 100,
+  "target_fg": 1010,
+  "target_og": 1064,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.39,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Lavender and thyme roast beef",
+    "Spicy kung po chicken",
+    "Caramel and rose essence cheesecake"
+  ],
+  "brewers_tips": "We've mentioned the importance of fresh hops previously but this one really demands that your hops are the absolute freshest.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
