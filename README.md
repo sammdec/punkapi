@@ -187,7 +187,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] RUSSIAN DOLL – DOUBLE IPA
 - [x] RUSSIAN DOLL – INDIA PALE ALE
 - [x] RUSSIAN DOLL – PALE
-- [ ] THIS.IS.LAGER.
+- [x] THIS.IS.LAGER.
 - [ ] INDIA PALE WEIZEN (W/WEIHENSTEPHAN)
 - [ ] AB:17
 - [ ] KONNICHIWA KITSUNE
