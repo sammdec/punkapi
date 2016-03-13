@@ -1,0 +1,88 @@
+{
+  "name": "Chinook - IPA Is Dead",
+  "tagline": "Single Hop India Pale Ale.",
+  "first_brewed": "03/2015",
+  "description": "2015 IPA is Dead series. Often used as a combination hop for American Pale Ales and IPAs, Chinook can really shine when left to front a beer all on its own. The main reason for this is that it’s thunderously piney, with a fistful of spice kicked up in your face as you lie on the beach. A true heavyweight of the brewing industry.",
+  "abv": 7.2,
+  "ibu": 100,
+  "target_fg": 1010,
+  "target_og": 1064,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.39,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 13.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 41.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Chicken fajita spiced monteray jack quesadillas",
+    "Chilli lime and coriander marinated king prawn cocktail",
+    "Margarita key lime pie"
+  ],
+  "brewers_tips": "Chinook is a hop that can really shine on its own so don't be shy and really throw it at this IPA",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
