@@ -1,0 +1,123 @@
+{
+  "name": "Cascade, Centennial & Willamette IPA - B-Sides",
+  "tagline": "Pilot Kit IPA.",
+  "first_brewed": "01/2016",
+  "description": "An experiment in balancing hops on the pilot kit. Grapefruit, orange and resin to the fore.",
+  "abv": 6.4,
+  "ibu": 65,
+  "target_fg": 1011,
+  "target_og": 1060,
+  "ebc": 14,
+  "srm": 7,
+  "ph": 5.2,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Propino Pale Malt",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dextrin Malt",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oats",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 21.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 21.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 American Ale™ & Wyeast American Ale II Strain 1272"
+  },
+  "food_pairing": [
+    "Cauliflower pakora with mango chutney",
+    "Penne with tomato and smoked cheese",
+    "Salted caramel ice cream and peanuts"
+  ],
+  "brewers_tips": "Hold off on the dry hops. You want to know how well you balanced the brew house.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

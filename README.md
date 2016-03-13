@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 213 of 215 completed**
+**Status: 214 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -235,7 +235,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] ARCADE NATION
 - [x] ELVIS JUICE V2.0
 - [x] BERLINER WEISSE WITH YUZU
-- [ ] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
+- [x] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
 - [ ] B-SIDES – SINGLE HOP ENIGMA IPA
 - [x] JET BLACK HEART
 
