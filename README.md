@@ -3,7 +3,7 @@
 
 ## Update 2: I have created an issue to collect suggestions on ways to query the data in the API, have your [say here](https://github.com/samjbmason/punkapi/issues/18)!
 
-**Status: 198 of 215 completed**
+**Status: 199 of 215 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -216,7 +216,7 @@ Below is a list of all the beers and the ones that have already been done:
 - [x] #MASHTAG 2015
 - [x] DOG D
 - [x] HINTERLAND
-- [ ] PEACH THERAPY
+- [x] PEACH THERAPY
 - [ ] HELLO MY NAME IS HOLY MOOSE
 - [ ] LIZARD BRIDE
 - [ ] B-SIDES – MANGO GOSE

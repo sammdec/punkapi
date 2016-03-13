@@ -1,0 +1,118 @@
+{
+  "name": "Peach Therapy",
+  "tagline": "Tart Belgian Tripple.",
+  "first_brewed": "06/2015",
+  "description": "9% abv sour tripel, infused with peach and apricot in collaboration with some of our favourite beer writers Adrian Tierney-Jones, Matt Curtis and Jonny and Brad from The Craft Beer Channel.",
+  "abv": 9,
+  "ibu": 30,
+  "target_fg": 1000,
+  "target_og": 1071,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 3.6,
+  "attenuation_level": 87,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 10
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration":  10
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 5
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 20,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 14.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Mandarina",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Strisselspalt",
+        "amount": {
+          "value": 7.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Mandarina",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Strisselspalt",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 3522 - Belgian Ardennes™"
+  },
+  "food_pairing": [
+    "Summer salad with pickled veg",
+    "Sticky barbecue spare ribs",
+    "Blueberry and almond tart"
+  ],
+  "brewers_tips": "20% of the original volume of wort was brewed again, kettle soured and added during fermentation to give a tart finish to the beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
