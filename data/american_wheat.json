@@ -1,0 +1,93 @@
+{
+  "name": "American Wheat",
+  "tagline": "Hoppy American Wheat.",
+  "first_brewed": "07/2014",
+  "description": "A luscious blend of peach, blood orange and banana to make a suitably refreshing beverage that happily straddles the Atlantic.",
+  "abv": 4.5,
+  "ibu": 17,
+  "target_fg": 1013,
+  "target_og": 1047,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 5.3,
+  "attenuation_level": 72,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 2.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Crystal",
+        "amount": {
+          "value": 0.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1010 American Wheat™"
+  },
+  "food_pairing": [
+    "Strawberry and citrus salad",
+    "Fish corn tacos with pomegranate salsa",
+    "Summer berry fruit parfait"
+  ],
+  "brewers_tips": "Using a starter to get your yeast as vibrant and healthy as possible will make all the difference here.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
