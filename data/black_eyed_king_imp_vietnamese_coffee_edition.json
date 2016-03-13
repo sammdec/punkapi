@@ -1,0 +1,144 @@
+{
+  "name": "Black Eyed King Imp",
+  "tagline": "Vietnamese Coffee Edition.",
+  "first_brewed": "12/2014",
+  "description": "This is the Vietnamese Coffee Edition. At 12.7% ABV, Black Eyed King Imp is a super intense and twistedly complex brew, with intense notes of sweet vanilla, rich espresso, smooth molasses and bitter chocolate barely contained by the whatever container it's in.",
+  "abv": 12.7,
+  "ibu": 85,
+  "target_fg": 1038,
+  "target_og": 1113.5,
+  "ebc": 250,
+  "srm": 125,
+  "ph": 5.2,
+  "attenuation_level": 76.8,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 50
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Coffee Beans: 12.5g at end, Lactose: 125g at FV, Bourbon barrel aged"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara",
+        "amount": {
+          "value": 1.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 1.5625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.625,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.3125,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 62.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 31.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 31.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "aroma/ bitter"
+      }
+    ],
+    "yeast": "Wyeast American Ale II Strain 1272"
+  },
+  "food_pairing": [
+    "Bacon sandwich with brown sauce",
+    "20hr smoked brisket",
+    "Chocolate fudge ice cream"
+  ],
+  "brewers_tips": "Buying top notch coffee beans make a huge difference here. Give them a very course grind to get the most out of them.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
