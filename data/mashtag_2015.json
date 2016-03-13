@@ -1,0 +1,186 @@
+{
+  "name": "#Mashtag 2015",
+  "tagline": "US Hopped Black Barley Wine.",
+  "first_brewed": "05/2015",
+  "description": "Democratically voted on by you and the BrewDog beer community. A wonderfully burnt toast malt backbone, loaded with American Hops for floral, citrus flavours and warm boozy vanilla and toasted oak.",
+  "abv": 10,
+  "ibu": 85,
+  "target_fg": 1020,
+  "target_og": 1098,
+  "ebc": 130,
+  "srm": 65,
+  "ph": 4.4,
+  "attenuation_level": 79.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Oak Chips: 38.5g at FV, Vanilla Pods at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Malt",
+        "amount": {
+          "value": 6.35,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.77,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.96,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Special W",
+        "amount": {
+          "value": 0.29,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Nugget",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 38.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 19,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 38.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 38.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Willamette",
+        "amount": {
+          "value": 38.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Charcuterie platter (featuring Italian salami)",
+    "Blue cheese wedge salad",
+    "Rich dark chocolate volcano cake"
+  ],
+  "brewers_tips": "Steep the oak chips and vanilla in separate bags in the cold conditioning phase. Taste every 2 - 3 days and as soon as profile is desirable they can be removed easily.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
