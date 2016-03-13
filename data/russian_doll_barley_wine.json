@@ -1,0 +1,147 @@
+{
+  "name": "Barley Wine - Russian Doll",
+  "tagline": "Double India Pale Ale.",
+  "first_brewed": "06/2014",
+  "description": "Russian Doll was an experimental set of brews showcasing the effects of varying the amount and ratio of malts in the grist. The barley wine had rich, chewy dark fruit aromas balanced with a spike of zesty hops. Toffee, apricot jam and grapefruit pith, crammed into the head of our little Russian Doll family.",
+  "abv": 10,
+  "ibu": 80,
+  "target_fg": 1020,
+  "target_og": 1097,
+  "ebc": 65,
+  "srm": 32.5,
+  "ph": 4.4,
+  "attenuation_level": 79.4,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 9.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Smcoe",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 200,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 150,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 200,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Stilton tart",
+    "Caramelised onion and ham foccacia",
+    "Dark fruit crumble"
+  ],
+  "brewers_tips": "Age the beer in bottle for a few months at cellar temperature to allow the hot alcohol characteristic to diminish.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
