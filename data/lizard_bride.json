@@ -1,0 +1,184 @@
+{
+  "name": "Lizard Bride - Prototype Challenge",
+  "tagline": "Fruit Infused Sour IPA.",
+  "first_brewed": "07/2015",
+  "description": "Wonderfully tart, bitter, piney and filled with the fruity elements from raspberries, blueberries and sour cherries. Oh, and it’s purple.",
+  "abv": 5.7,
+  "ibu": 35,
+  "target_fg": 1009,
+  "target_og": 1053,
+  "ebc": 25,
+  "srm": 12.5,
+  "ph": 4.4,
+  "attenuation_level": 79.3,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 17,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Blackcurrant: 65g at FV, Sour Cherry: 65g at FV, Blueberry: 65g at FV, Sea Buckthorn: 65g at FV, Cranberry: 65g at FV, Blackberry: 65g at FV, Sweet cherry: 65g at FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carared",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Challenger",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Roasted pumpkin and mozzarella",
+    "Black forrest gateaux"
+  ],
+  "brewers_tips": "Try to find the ripest berries possible to impart as much juicy goodness as possible. These can be forzen until you have the full set.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
