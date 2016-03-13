@@ -1,0 +1,120 @@
+{
+  "name": "No Label",
+  "tagline": "Dry Hopped Kölsch.",
+  "first_brewed": "10/2015",
+  "description": "No Label is a postmodern, postgender non-binary brew; the world’s first beer made with transgender hops. Brewed with whole hop bines that have spontaneously changed from female to male, no label goes its own way. No Label balances a light, biscuity dryness from the malt base with delicate hints of fruity esters gifted by the fermentation. Finally, dry- hopping adds a layer of new world tropical & pine flavours that add a unique twist to this classic Kölsch style beer. All profits from the sales of this beer were donated to LGBTQI+ events organisers Queerest of the Queer.",
+  "abv": 4.5,
+  "ibu": 25,
+  "target_fg": 1009,
+  "target_og": 1043,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.2,
+  "attenuation_level": 79.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": null
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 15,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.13,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 2.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Jester",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale"
+  },
+  "food_pairing": [
+    "Strawberry and basil salad with feta",
+    "Lemon baked monkfish",
+    "Peach cobbler"
+  ],
+  "brewers_tips": "Dry hop using a muslin bag in order to give you the best chance at getting the signature Kölsch clarity.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
