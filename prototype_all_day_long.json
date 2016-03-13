@@ -1,0 +1,133 @@
+{
+  "name": "All Day Long - Prototype Challenge",
+  "tagline": "Malty Low ABV Ale.",
+  "first_brewed": "11/2014",
+  "description": "Prototype Challenge 2014. All Day Long is a mild like no other. This complex, low-alcohol brew was the third of our 2014 Prototypes. Featuring a boatload of seven different speciality malts and some of our favourite hops, this beer is resinous at first, transitioning into something akin to bitter orange marmalade spread onto a thick bread crust. This is for everyone who said BrewDog would never brew a mild...",
+  "abv": 2.8,
+  "ibu": 30,
+  "target_fg": 1012,
+  "target_og": 1032.5,
+  "ebc": 42,
+  "srm": 21,
+  "ph": 4.4,
+  "attenuation_level": 63.1,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 22,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 3.13,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 8.5,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 20.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 20.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Ahtanum",
+        "amount": {
+          "value": 20.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 75,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Chunky orange marmalade on toast",
+    "Prawn toast with sweet chilli sauce",
+    "Lemon tart"
+  ],
+  "brewers_tips": "In any low ABV fermentation after primary fermentation has finished if the beer smells or tastes like wort, allow it to condition on the yeast for an extra 24 - 48 hours. This can round the profile off well.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
