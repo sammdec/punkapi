@@ -4,8 +4,8 @@
 ## Libraries
 These are user contributed wrappers for the API
 
-C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
-Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
+- C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
+- Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 
 **Status: 215 of 215 completed**
 
