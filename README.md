@@ -5,10 +5,7 @@
 These are user contributed wrappers for the API
 
 C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
-
-## Update: It's Done!
-Thank you to everyone who contributed to the project. **What's next?**
-I'm nearly done with the API itself expect it to launch sometime around the 16th March.
+Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 
 **Status: 215 of 215 completed**
 
