@@ -243,7 +243,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] PROTOTYPE PILS 2.0
 - [x] BLITZ SERIES
 - [x] DOG E
-- [ ] BARREL AGED HINTERLAND
+- [x] BARREL AGED HINTERLAND
 - [ ] AB:20
 - [ ] BARREL AGED ALBINO SQUID ASSASSIN
 - [ ] PARADOX ISLAY
