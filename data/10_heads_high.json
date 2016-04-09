@@ -72,7 +72,7 @@
       {
         "name": "Chinook",
         "amount": {
-          "value": 0,
+          "value": 20,
           "unit": "grams"
         },
         "add": "start",
@@ -81,7 +81,7 @@
       {
         "name": "Chinook",
         "amount": {
-          "value": 0,
+          "value": 5,
           "unit": "grams"
         },
         "add": "middle",
@@ -90,7 +90,7 @@
       {
         "name": "Centennial",
         "amount": {
-          "value": 0,
+          "value": 5,
           "unit": "grams"
         },
         "add": "middle",
@@ -99,7 +99,7 @@
       {
         "name": "Chinook",
         "amount": {
-          "value": 0,
+          "value": 62.5,
           "unit": "grams"
         },
         "add": "end",
@@ -108,7 +108,7 @@
       {
         "name": "Centennial",
         "amount": {
-          "value": 0,
+          "value": 62.5,
           "unit": "grams"
         },
         "add": "end",
