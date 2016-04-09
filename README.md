@@ -1,24 +1,23 @@
 # Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
+In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it! 
+
+You can find the API at punkapi.com and it's completely free!
+
+If you are looking for the source code for the server that powers punkapi.com head over to samjbmason/punkapi-server
+
 ## Libraries
 These are user contributed wrappers for the API
 
 - C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
 - Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 
-**Status: 230 of 234 completed**
-
-In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
 ## What's the deal?
 If you head to the [`data`](data/) folder you will see all the recipes. If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
 
-## Where can I find the recipes?
-Head over to BrewDog's DIY Dog [page to download the free PDF](https://www.brewdog.com/diydog)
-
-## What do you plan to do with all this data?
-Once this is all done I will create a fully searchable API from the data and of course it will be open source and free to use for all your beer hackers out there.
+**Status: 230 of 234 completed**
 
 ## The Beers
 
