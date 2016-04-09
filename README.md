@@ -254,7 +254,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] CHILI HAMMER
 - [ ] ACE OF EQUINOX
 - [x] RYE HAMMER
-- [ ] BREWDOG VS BEAVERTOWN
+- [x] BREWDOG VS BEAVERTOWN
 - [ ] PROTOTYPE HELLES
 
 ## License

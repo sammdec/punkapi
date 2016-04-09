@@ -1,0 +1,141 @@
+{
+  "name": "Brewdog Vs Beavertown",
+  "tagline": "Coffee And Cigarettes.",
+  "first_brewed": "06/2016",
+  "description": "Loaded with roasty coffee notes and balanced with complex tobacco character. With smoky flavours from the malt, our Beavertown Collab is barrel-aged, but we don’t know for how long until its ready!",
+  "abv": 9.2,
+  "ibu": 50,
+  "target_fg": 1085,
+  "target_og": 1016,
+  "ebc": 78.8,
+  "srm": 40,
+  "ph": 4.2,
+  "attenuation_level": 81,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 2.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked Weyermann",
+        "amount": {
+          "value": 1.8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black",
+        "amount": {
+          "value": 0.1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Muscavado (Wort Kettle)",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Ancho pulled beef chilli",
+    "Aged cheddar, chickpea & roasted vegetable tagine"
+  ],
+  "brewers_tips": "Add your Dark Muscavado for the last ten minutes of the boil.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
