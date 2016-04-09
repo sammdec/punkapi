@@ -1,0 +1,149 @@
+{
+  "name": "Rye Hammer",
+  "tagline": "Our Ruthless IPA with A Spicy Twist.",
+  "first_brewed": "06/2016",
+  "description": "Rye Hammer is the fourth of our super-charged hyped up hybrids. A bready beery beast. Rye grains and American hops unite in an agricultural superpower. Aroma of roasted malts, rye bread and subtle floral hops. Grapefruit, roasted caramel with malty fruity notes, followed by the bitterest of bitter finishes. Rye Hammer – liquid daily bread.",
+  "abv": 7.2,
+  "ibu": 250,
+  "target_fg": 1010,
+  "target_og": 1065,
+  "ebc": 17,
+  "srm": 8.5,
+  "ph": 4.4,
+  "attenuation_level": 84.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Columbus Extract",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Smoked salmon tostada",
+    "Schäufele",
+    "Rye apple cake"
+  ],
+  "brewers_tips": "The amount of rye shouldn’t cause a stuck mash, but if you find you are having problems the addition of rice hulls to your mash can help.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

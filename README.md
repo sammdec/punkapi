@@ -253,7 +253,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [ ] ACE OF CITRA
 - [x] CHILI HAMMER
 - [ ] ACE OF EQUINOX
-- [ ] RYE HAMMER
+- [x] RYE HAMMER
 - [ ] BREWDOG VS BEAVERTOWN
 - [ ] PROTOTYPE HELLES
 
