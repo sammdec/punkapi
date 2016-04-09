@@ -1,0 +1,155 @@
+{
+  "name": "Dog E",
+  "tagline": "Ninth Anniversary Imperial Stout.",
+  "first_brewed": "06/2016",
+  "description": "Dog E is a very special beer. This beer commemorates our 9th year in 2016. This beer originally appeared as AB:04 in 2010, perhaps the most sought after beer we ever brewed. Dog E is a 16.1% Imperial Stout brewed with copious amounts of dark malts, pure cacao and coffee, balanced by the subtle addition of naga chili, and barrel-aged. Perfect for ageing in your cellar, or drinking fresh if you’re lucky enough to get your paws on a bottle.",
+  "abv": 16.1,
+  "ibu": 100,
+  "target_fg": 1125,
+  "target_og": 1015,
+  "ebc": 500,
+  "srm": 254,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 63,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "5g Habanero and 3g lemon drop chili in FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 7.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 1",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type 3",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Ginger Powder",
+        "amount": {
+          "value": 1.25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Honey",
+        "amount": {
+          "value": 1250,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Cold Infused Coffee",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Char sui pork buns",
+    "Spicy beef empanadas",
+    "Chocolate cheesecake"
+  ],
+  "brewers_tips": "With stronger styles (like imperial stouts), feel free to cellar your beer and try a bottle every few months to see how the flavours have developed – often the beer picks up new, incredible flavours.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

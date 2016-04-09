@@ -242,14 +242,14 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] MONK HAMMER
 - [x] PROTOTYPE PILS 2.0
 - [x] BLITZ SERIES
-- [ ] DOG E
-- [ ] BARRELAGEDHINTERLAND
+- [x] DOG E
+- [ ] BARREL AGED HINTERLAND
 - [ ] AB:20
 - [ ] BARREL AGED ALBINO SQUID ASSASSIN
 - [ ] PARADOX ISLAY
 - [ ] ACE OF CHINOOK
 - [ ] NEON OVERLORD
-- [ ] BLACKHAMMER
+- [ ] BLACK HAMMER
 - [ ] ACE OF CITRA
 - [ ] CHILI HAMMER
 - [ ] ACE OF EQUINOX
