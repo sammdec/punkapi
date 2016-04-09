@@ -249,7 +249,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] PARADOX ISLAY
 - [ ] ACE OF CHINOOK
 - [ ] NEON OVERLORD
-- [ ] BLACK HAMMER
+- [x] BLACK HAMMER
 - [ ] ACE OF CITRA
 - [ ] CHILI HAMMER
 - [ ] ACE OF EQUINOX
