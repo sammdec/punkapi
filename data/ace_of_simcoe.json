@@ -1,0 +1,111 @@
+{
+  "name": "Ace Of Simcoe",
+  "tagline": "Single-Hopped Session IPA.",
+  "first_brewed": "01/2016",
+  "description": "We love hops. We adore and worship their profile ability to transform beer. You could say that we have a terminal addiction. To celebrate this fetish we’re heroing our favourites in single hopped limited releases. No also starring, no extras, no compromise. The Hop is the Hero. A biscuity malty backbone builds to resinous pine with explosive citrus notes, culminating in a mango hit and a long bitter finish. This is pure Hop fusion, imploding with sensory overload. Our Ace in the hole, devastatingly singular, deliciously bitter. Serving up an Ace each and every time.",
+  "abv": 4.5,
+  "ibu": 40,
+  "target_fg": 1011,
+  "target_og": 1045,
+  "ebc": 18,
+  "srm": 9,
+  "ph": 4.2,
+  "attenuation_level": 75.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 2.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 1.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 3.75,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 187.5,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Reuben sandwich",
+    "Halloumi and sweet chili burger",
+    "Passionfruit meringue pie"
+  ],
+  "brewers_tips": "Try adding a small portion of the hops to the kettle before you boil, as first wort hops.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

@@ -2,7 +2,7 @@
   "name": "Restorative Beverage For Invalids And Convalescents",
   "tagline": "An Extract Taken From \"A Treatise on Food and Diet\" By Dr Jonathan Pereira, 1843.",
   "first_brewed": "02/2015",
-  "description": "Brewed to 8.5%, light as a mass market Pilsner in colour, fermented to be as dry as a Lambic, but as bitter as any double IPA and loaded with as much hop aroma as we can get into a beer. The fermentables in this beer were Marris Otter Extra Pale along with plenty of sugar as we mashed at a very low temperature to ensure maximum fermentability and attenuation. This beer is fermented within an inch of its life making it dry, sheer and bright. Citra, Amarillo & Centennial were all used in abundance in the kettle and also fired extremely liberally at this beer with our high tech hop cannon.",
+  "description": "Brewed to 8.5%, light as a mass market Pilsner in colour, fermented to be as dry as a Lambic, but as bitter as any double IPA and loaded with as much hop aroma as we can get into a beer. The fermentables in this beer were Maris Otter Extra Pale along with plenty of sugar as we mashed at a very low temperature to ensure maximum fermentability and attenuation. This beer is fermented within an inch of its life making it dry, sheer and bright. Citra, Amarillo & Centennial were all used in abundance in the kettle and also fired extremely liberally at this beer with our high tech hop cannon.",
   "abv": 8.5,
   "ibu": 100,
   "target_fg": 1003,
@@ -40,7 +40,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Extra Pale - Marris Otter",
+        "name": "Extra Pale - Maris Otter",
         "amount": {
           "value": 5.25,
           "unit": "kilograms"
