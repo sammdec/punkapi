@@ -1,0 +1,109 @@
+{
+  "name": "Prototype Pils 2.0",
+  "tagline": "Revamped German Pils.",
+  "first_brewed": "06/2016",
+  "description": "Our spin on a light, dry and bitter German lager. Hop driven with malt taking a back seat, Pils 2.0 is lined up to become a regular brew.",
+  "abv": 4.7,
+  "ibu": 25,
+  "target_fg": 1044,
+  "target_og": 1008,
+  "ebc": 25,
+  "srm": 5,
+  "ph": 4.2,
+  "attenuation_level": 75.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 12,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 1.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.12,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 1.2,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Tuna & salmon sushi (with plenty of wasabi!)",
+    "Chipotle chicken burrito",
+    "Rhubarb fool with shortbread"
+  ],
+  "brewers_tips": "Allow plenty of time for lagering with this brew to make sure you get the clean and crisp flavour profile.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
