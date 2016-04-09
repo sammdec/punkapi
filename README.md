@@ -237,6 +237,25 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
 - [x] B-SIDES – SINGLE HOP ENIGMA IPA
 - [x] JET BLACK HEART
+- [ ] ACE OF SIMCOE
+- [ ] SHIP WRECK
+- [ ] MONK HAMMER
+- [ ] PROTOTYPE PILS 2.0
+- [ ] BLITZSERIES
+- [ ] DOG E
+- [ ] BARRELAGEDHINTERLAND
+- [ ] AB:20
+- [ ] BARREL AGED ALBINO SQUID ASSASSIN
+- [ ] PARADOXISLAY
+- [ ] ACE OF CHINOOK
+- [ ] NEONOVERLORD
+- [ ] BLACKHAMMER
+- [ ] ACE OF CITRA
+- [ ] CHILIHAMMER
+- [ ] ACE OF EQUINOX
+- [ ] RYEHAMMER
+- [ ] BREWDOG VS BEAVERTOWN
+- [ ] PROTOTYPEHELLES
 
 ## License
 Please see [License](LICENSE.md)
