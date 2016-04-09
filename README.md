@@ -251,7 +251,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [ ] NEON OVERLORD
 - [x] BLACK HAMMER
 - [ ] ACE OF CITRA
-- [ ] CHILI HAMMER
+- [x] CHILI HAMMER
 - [ ] ACE OF EQUINOX
 - [ ] RYE HAMMER
 - [ ] BREWDOG VS BEAVERTOWN
