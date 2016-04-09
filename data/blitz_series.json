@@ -1,0 +1,92 @@
+{
+  "name": "Blitz Series",
+  "tagline": "Fruit Infused Berlinerweisse.",
+  "first_brewed": "06/2016",
+  "description": "We are bringing back our Blitz Series to 2016. Every Blitz we brew is different, due to the spontaneous souring process, and each version has a great blend of all the different flavours we look for in a Berlinerwiesse.",
+  "abv": 3.2,
+  "ibu": 8,
+  "target_fg": 1032,
+  "target_og": 1007,
+  "ebc": 8,
+  "srm": 3,
+  "ph": 3.2,
+  "attenuation_level": 78,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 49,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 59,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 15
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Conversion check 78°C run off."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Malt",
+        "amount": {
+          "value": 1.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1.6,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Cheese boards",
+    "Sashimi sushi",
+    "French fries dressed in good oil and salt",
+    "Mac and Cheese"
+  ],
+  "brewers_tips": "When you have a good lactobacillus culture grown take half of an fv of it and add some fresh wort. This will keep the culture alive as long as you keep it warm, oxygen free and keep releasing the pressure. You can then use this liquid culture on the next brew and reuse it over and over and over and over and over...like sourdough starter!",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
