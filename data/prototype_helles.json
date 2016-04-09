@@ -1,0 +1,86 @@
+{
+  "name": "Prototype Helles",
+  "tagline": "Laid-Back Bavarian Classic.",
+  "first_brewed": "06/2016",
+  "description": "Our spin on one-of the most popular beer styles ever conceived. A celebration of light, bready malt, with toasty hints and soft bitterness.",
+  "abv": 4.9,
+  "ibu": 18,
+  "target_fg": 1047,
+  "target_og": 1010,
+  "ebc": 13,
+  "srm": 6.6,
+  "ph": 4.2,
+  "attenuation_level": 78.7,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 12,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.8,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Salt beef bagel with mustard & pickles",
+    "Pork belly ramen",
+    "Beetroot and goats cheese salad"
+  ],
+  "brewers_tips": "Lagering is key to traditional German styles. A Helles lives or dies on its light, bready & toasty malt flavours – give them months to develop (at cold temperatures) for an outstanding Helles.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

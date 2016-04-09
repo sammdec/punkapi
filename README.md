@@ -7,7 +7,7 @@ These are user contributed wrappers for the API
 - C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
 - Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 
-**Status: 215 of 215 completed**
+**Status: 230 of 234 completed**
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
@@ -255,7 +255,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [ ] ACE OF EQUINOX
 - [x] RYE HAMMER
 - [x] BREWDOG VS BEAVERTOWN
-- [ ] PROTOTYPE HELLES
+- [x] PROTOTYPE HELLES
 
 ## License
 Please see [License](LICENSE.md)
