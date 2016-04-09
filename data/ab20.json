@@ -1,0 +1,100 @@
+{
+  "name": "AB:20",
+  "tagline": "Tiramisu Barley Wine.",
+  "first_brewed": "06/2016",
+  "description": "An English Barley Wine brewed with coffee and milk, with rich toasty & caramel flavours. To complete the tiramisu effect, we’ve blended this with a 3 year rum cask aged Imperial Stout.",
+  "abv": 14.2,
+  "ibu": 20,
+  "target_fg": 1120,
+  "target_og": 1025,
+  "ebc": 67,
+  "srm": 34,
+  "ph": 4.0,
+  "attenuation_level": 75.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Premium Eng Caramalt",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "DRC",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.2,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10.2,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Cornish Yarg",
+    "Vanilla & raspberry panna cotta",
+    "Wild boar salami"
+  ],
+  "brewers_tips": "Use only very dry coffee beans like Sumatran ones. This way your head retention will not be affected by the oils from the beans.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

@@ -244,7 +244,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] BLITZ SERIES
 - [x] DOG E
 - [x] BARREL AGED HINTERLAND
-- [ ] AB:20
+- [x] AB:20
 - [ ] BARREL AGED ALBINO SQUID ASSASSIN
 - [ ] PARADOX ISLAY
 - [ ] ACE OF CHINOOK
