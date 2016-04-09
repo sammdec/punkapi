@@ -246,7 +246,7 @@ Once this is all done I will create a fully searchable API from the data and of 
 - [x] BARREL AGED HINTERLAND
 - [x] AB:20
 - [x] BARREL AGED ALBINO SQUID ASSASSIN
-- [ ] PARADOX ISLAY
+- [x] PARADOX ISLAY
 - [ ] ACE OF CHINOOK
 - [ ] NEON OVERLORD
 - [ ] BLACK HAMMER
