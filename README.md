@@ -17,7 +17,7 @@ These are user contributed wrappers for the API
 ## What's the deal?
 If you head to the [`data`](data/) folder you will see all the recipes. If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
 
-**Status: 230 of 234 completed**
+**Status: 231 of 234 completed**
 
 ## The Beers
 
@@ -247,7 +247,7 @@ If you head to the [`data`](data/) folder you will see all the recipes. If you f
 - [x] BARREL AGED ALBINO SQUID ASSASSIN
 - [x] PARADOX ISLAY
 - [ ] ACE OF CHINOOK
-- [ ] NEON OVERLORD
+- [x] NEON OVERLORD
 - [x] BLACK HAMMER
 - [ ] ACE OF CITRA
 - [x] CHILI HAMMER
