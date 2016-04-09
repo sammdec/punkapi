@@ -3,9 +3,9 @@
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it! 
 
-You can find the API at punkapi.com and it's completely free!
+You can find the API at https://punkapi.com and it's completely free!
 
-If you are looking for the source code for the server that powers punkapi.com head over to samjbmason/punkapi-server
+If you are looking for the source code for the server that powers https://punkapi.com head over to samjbmason/punkapi-server
 
 ## Libraries
 These are user contributed wrappers for the API
