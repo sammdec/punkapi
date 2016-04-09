@@ -5,7 +5,7 @@ In the spirit of DIY & giving back I thought I would attempt to collect all the 
 
 You can find the API at https://punkapi.com and it's completely free!
 
-If you are looking for the source code for the server that powers https://punkapi.com head over to [samjbmason/punkapi-server](https://github.com/samjbmason/punkappi-server)
+If you are looking for the source code for the server that powers https://punkapi.com head over to [samjbmason/punkapi-server](https://github.com/samjbmason/punkapi-server)
 
 ## Libraries
 These are user contributed wrappers for the API
