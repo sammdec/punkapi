@@ -1,0 +1,131 @@
+{
+  "name": "Neon Overlord",
+  "tagline": "Mango And Chilli IPA",
+  "first_brewed": "01/2016",
+  "description": "The Overlord of mango and chili IPA’s packs a fruity punch and then some. Pours a slightly hazy orange. A tropical fruit assault on the nose, with mango, pineapple, apricots and citrus. Hints of chili and sweet malts follow. Fruit dissipates to a chili kick, not hot but definitely there, followed by a long bitter finish. All hail to the hot tempered sweet toothed Lord.",
+  "abv": 7.6,
+  "ibu": 70,
+  "target_fg": 1012,
+  "target_og": 1067,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.4,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "250g mango puree in FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cane Sugar",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "start",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 13,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 13,
+          "unit": "grams"
+        },
+        "add": "middle",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 38,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Habanero powder",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Coriander seed",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "end",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Baja fish tacos",
+    "Green mango salad",
+    "Salted butterscotch oatmeal cookies"
+  ],
+  "brewers_tips": "This fermentation is going to be wild. Use a blow off rather than an airlock to cope with the extra activity.",
+  "contributed_by": "Matt Ball <GeordieMatt>"
+}
