@@ -54,7 +54,7 @@
         }
       },
       {
-        "name": "Cara Aroma",
+        "name": "CaraAroma",
         "amount": {
           "value": 0.04,
           "unit": "kilograms"
