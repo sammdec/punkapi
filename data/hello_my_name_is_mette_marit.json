@@ -83,7 +83,7 @@
         "attribute": "flavour"
       },
       {
-        "name": "Mt Hood",
+        "name": "Mt.Hood",
         "amount": {
           "value": 2.5,
           "unit": "grams"

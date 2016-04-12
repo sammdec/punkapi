@@ -72,7 +72,7 @@
         "attribute": "bitter"
       },
       {
-        "name": "Nelson",
+        "name": "Nelson Sauvin",
         "amount": {
           "value": 5,
           "unit": "grams"
@@ -99,7 +99,7 @@
         "attribute": "flavour"
       },
       {
-        "name": "Nelson",
+        "name": "Nelson Sauvin",
         "amount": {
           "value": 20,
           "unit": "grams"
