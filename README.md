@@ -12,6 +12,7 @@ These are user contributed wrappers for the API
 
 - C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
 - Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
+- PHP - [billythekid/PunkApi](https://github.com/billythekid/PunkApi)
 
 
 ## What's the deal?
