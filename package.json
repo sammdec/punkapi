@@ -1,8 +1,13 @@
 {
   "name": "punkapi-db",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Raw data in JSON format from Brewdog's DIY Dog",
-  "keywords": ["api", "beer", "brewdog", "diy dog"],
+  "keywords": [
+    "api",
+    "beer",
+    "brewdog",
+    "diy dog"
+  ],
   "repository": "https://github.com/samjbmason/punkapi-db.git",
   "scripts": {
     "test": "ajv validate -s spec/schema.json -d 'data/*.json'",
