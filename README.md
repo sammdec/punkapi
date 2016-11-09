@@ -10,7 +10,12 @@ If you are looking for the source code for the server that powers https://punkap
 ## What's the deal?
 This repo contains all the individual files for each recipe in the DIY Dog pdf ([`data`](data/)). It also contains a singular JSON file [`data.json`](data.json) that contains all the recipes in one single file.
 
-It's the `data.json` file that actually powers the punkapi API. This file is also available as an npm package, available at  
+It's the `data.json` file that actually powers the punkapi API.
+
+## Install
+```
+npm i --save punkapi-db
+```
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
 
