@@ -34,12 +34,13 @@ const mergeJSONFiles = (fileNamesArray) => {
 // We need to get the data out of the file an easy way is to use require
 const getFileData = (fileName) => {
   const dataFilePath = path.join(DATA_DIR, fileName);
-  return JSON.stringify(require(dataFilePath));
+  return require(dataFilePath);
 };
 
 // Pass all data to filseystem to write the file
 const createDataFile = (data) => {
-  fs.writeFile(DATA_FILE_NAME, data, (err) => {
+  const jsonData = JSON.stringify(data)
+  fs.writeFile(DATA_FILE_NAME, jsonData, (err) => {
     if (err) throw err;
     console.log('File Saved!');
   })
