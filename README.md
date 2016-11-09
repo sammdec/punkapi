@@ -1,11 +1,18 @@
-# Punk API [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
+# punkapi-db [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
-In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it! 
+In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
 
 You can find the API at https://punkapi.com and it's completely free!
 
 If you are looking for the source code for the server that powers https://punkapi.com head over to [samjbmason/punkapi-server](https://github.com/samjbmason/punkapi-server)
+
+## What's the deal?
+This repo contains all the individual files for each recipe in the DIY Dog pdf ([`data`](data/)). It also contains a singular JSON file [`data.json`](data.json) that contains all the recipes in one single file.
+
+It's the `data.json` file that actually powers the punkapi API. This file is also available as an npm package, available at  
+
+If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
 
 ## Libraries
 These are user contributed wrappers for the API
@@ -13,10 +20,6 @@ These are user contributed wrappers for the API
 - C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
 - Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 - PHP - [billythekid/PunkApi](https://github.com/billythekid/PunkApi)
-
-
-## What's the deal?
-If you head to the [`data`](data/) folder you will see all the recipes. If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
 
 **Status: 234 of 234 completed**
 
