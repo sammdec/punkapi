@@ -1,79 +1,66 @@
 {
+  "title": "Punk API Schema",
   "type": "object",
   "properties": {
     "name": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "tagline": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "first_brewed": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "description": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "abv": {
-      "type": "number",
-      "required": true
+      "type": "number"
     },
     "ibu": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "target_fg": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "target_og": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "ebc": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "srm": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "ph": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "attenuation_level": {
-      "type": ["number", "null"],
-      "required": true
+      "type": ["number", "null"]
     },
     "volume": {
       "type": "object",
       "properties": {
         "value": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
         },
         "unit": {
-          "type": "string",
-          "required": true
+          "type": "string"
         }
-      }
+      },
+      "required": ["value", "unit"]
     },
     "boil_volume": {
       "type": "object",
       "properties": {
         "value": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
         },
         "unit": {
-          "type": "string",
-          "required": true
+          "type": "string"
         }
-      }
+      },
+      "required": ["value", "unit"]
     },
     "method": {
       "type": "object",
@@ -87,19 +74,19 @@
                 "type": "object",
                 "properties": {
                   "value": {
-                    "type": ["number", "null"],
-                    "required": true
+                    "type": ["number", "null"]
                   },
                   "unit": {
-                    "type": "string",
-                    "required": true
+                    "type": "string"
                   }
-                }
+                },
+                "required": ["value", "unit"]
               },
               "duration": {
                 "type": ["number", "null"]
               }
-            }
+            },
+            "required": ["temp", "duration"]
           }
         },
         "fermentation": {
@@ -111,22 +98,21 @@
               "properties": {
 
                 "value": {
-                  "type": ["number", "null"],
-                  "required": true
+                  "type": ["number", "null"]
                 },
                 "unit": {
-                  "type": "string",
-                  "required": true
+                  "type": "string"
                 }
-              }
+              },
+              "required": ["value", "unit"]
             }
           }
         },
         "twist": {
-          "type": ["string", "null"],
-          "required": true
+          "type": ["string", "null"]
         }
-      }
+      },
+      "required": ["mash_temp", "fermentation", "twist"]
     },
     "ingredients": {
       "type": "object",
@@ -137,23 +123,22 @@
             "type": "object",
             "properties": {
               "name": {
-                "type": "string",
-                "required": true
+                "type": "string"
               },
               "amount": {
                 "type": "object",
                 "properties": {
                   "value": {
-                    "type": "number",
-                    "required": true
+                    "type": "number"
                   },
                   "unit": {
-                    "type": "string",
-                    "required": true
+                    "type": "string"
                   }
-                }
+                },
+                "required": ["value", "unit"]
               }
-            }
+            },
+            "required": ["name", "amount"]
           }
         },
         "hops": {
@@ -162,54 +147,60 @@
             "type": "object",
             "properties": {
               "name": {
-                "type": "string",
-                "required": true
+                "type": "string"
               },
               "amount": {
                 "type": "object",
                 "properties": {
                   "value": {
-                    "type": "number",
-                    "required": true
+                    "type": "number"
                   },
                   "unit": {
-                    "type": "string",
-                    "required": true
+                    "type": "string"
                   }
                 }
               },
               "add": {
-                "type": "string",
-                "required": true
+                "type": "string"
               },
               "attribute": {
-                "type": "string",
-                "required": true
+                "type": "string"
               }
             }
           }
         },
         "yeast": {
-          "type": ["string", "null"],
-          "required": true
+          "type": ["string", "null"]
         }
-      }
+      },
+      "required": ["malt", "hops", "yeast"]
     },
     "food_pairing": {
       "id": "food_pairing",
       "type": "array",
       "items": {
-        "type": "string",
-        "required": true
+        "type": "string"
       }
     },
     "brewers_tips": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "contributed_by": {
-      "type": "string",
-      "required": true
+      "type": "string"
     }
-  }
+  },
+  "required": [
+    "name",
+    "tagline",
+    "first_brewed",
+    "description",
+    "abv",
+    "ibu",
+    "target_fg",
+    "target_og",
+    "ebc",
+    "srm",
+    "ph",
+    "attenuation_level"
+  ]
 }

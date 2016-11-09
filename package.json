@@ -1,13 +1,17 @@
 {
-  "name": "punkapi",
+  "name": "punkapi-data",
   "version": "0.1.0",
-  "description": "Testing for punkapi",
+  "description": "Raw data in JSON format from Brewdog's DIY Dog",
   "scripts": {
-    "test": "jsonlint ./data/*.json -V ./test/schema.json"
+    "test": "ajv validate -s spec/schema.json -d 'data/*.json'",
+    "build": "node ./build",
+    "prepublish": "npm run build"
   },
   "author": "Sam Mason <sam.jbmason@gmail.com>",
   "license": "MIT",
+  "main": "data.json",
   "devDependencies": {
-    "jsonlint": "ginman86/jsonlint#c95cda5"
+    "ajv-cli": "^1.1.1",
+    "lodash": "^4.16.6"
   }
 }
