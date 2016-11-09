@@ -12,9 +12,14 @@ This repo contains all the individual files for each recipe in the DIY Dog pdf (
 
 It's the `data.json` file that actually powers the punkapi API.
 
-## Install
+## Installation
 ```
-npm i --save punkapi-db
+$ npm i --save punkapi-db
+```
+
+## Usage
+```
+var punkapi = require('punkapi-db');
 ```
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
