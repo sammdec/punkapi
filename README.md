@@ -1,4 +1,4 @@
-# punkapi-db [![Build Status](https://travis-ci.org/samjbmason/punkapi.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi)
+# punkapi-db [![Build Status](https://travis-ci.org/samjbmason/punkapi-db.svg?branch=master)](https://travis-ci.org/samjbmason/punkapi-db)
 > Crowd Sourcing an API from BrewDog's hugely generous [DIY Dog](https://www.brewdog.com/diydog)
 
 In the spirit of DIY & giving back I thought I would attempt to collect all the BrewDog Recipes from their DIY Dog pdf and create an api from it!
