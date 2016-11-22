@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/samjbmason/punkapi-db.git",
   "scripts": {
-    "test": "ajv validate -s spec/schema.json -d 'data/*.json'",
+    "test": "ajv validate -s spec/schema.json -d 'data/*.json' && node ./spec/test.js",
     "build": "node ./build",
     "prepublish": "npm run build"
   },
