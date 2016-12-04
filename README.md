@@ -19,10 +19,14 @@ $ npm i --save punkapi-db
 
 ## Usage
 ```
-var punkapi = require('punkapi-db');
+var punkapi = require('punkapi-db')
+
+or
+
+import punkapi from 'punkapi-db'
 ```
 
-If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi/issues)
+If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
 ## Libraries
 These are user contributed wrappers for the API
