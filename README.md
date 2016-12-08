@@ -19,11 +19,7 @@ $ npm i --save punkapi-db
 
 ## Usage
 ```
-var punkapi = require('punkapi-db')
-
-or
-
-import punkapi from 'punkapi-db'
+const punkapi = require('punkapi-db')
 ```
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
@@ -275,4 +271,4 @@ These are user contributed wrappers for the API
 - [x] PROTOTYPE HELLES
 
 ## License
-Please see [License](LICENSE.md)
+Please see [License](LICENSE)
