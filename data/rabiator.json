@@ -4,6 +4,7 @@
   "tagline": "Imperial Wheat Beer",
   "first_brewed": "03/2011",
   "description": "Imperial Wheat beer / Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 10.27,
   "ibu": 26,
   "target_fg": 1014,

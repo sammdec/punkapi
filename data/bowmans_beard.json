@@ -4,6 +4,7 @@
   "tagline": "English Barley Wine.",
   "first_brewed": "03/2015",
   "description": "Ice-distilled double barley wine brewed by Chris from Stone Brewing Co. (see Sunmaid Stout) and BrewDog's own brewers. As robust, resinous and badass as its eponymic beard.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 18.3,
   "ibu": 50,
   "target_fg": 1011,

@@ -4,6 +4,7 @@
   "tagline": "Fresh Melon IPA.",
   "first_brewed": "03/2015",
   "description": "A Pilot Brew with 200Kg of fresh melon and 5Kg fresh cucumber added after fermentation to produce the perfect summer refreshment.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 6,
   "ibu": 50,
   "target_fg": 1010,

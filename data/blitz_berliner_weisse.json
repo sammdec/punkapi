@@ -4,6 +4,7 @@
   "tagline": "Berliner Fruit Beer.",
   "first_brewed": "07/2013",
   "description": "Our sour recipe for all fruit Blitz beers uses a process called kettle souring. In this we steep a bag of malt in the wort to allow the bacteria to grow in it.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 3,
   "ibu": 8,
   "target_fg": 1040,

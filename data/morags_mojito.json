@@ -4,6 +4,7 @@
   "tagline": "Cocktail Meets Beer.",
   "first_brewed": "08/2015",
   "description": "A cunning cocktail blend of grapefruit hops, ginger spice and refreshing mint.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 6.7,
   "ibu": 40,
   "target_fg": 1010,
