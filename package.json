@@ -1,6 +1,6 @@
 {
   "name": "punkapi-db",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Raw data in JSON format from Brewdog's DIY Dog",
   "keywords": [
     "api",
