@@ -17,6 +17,9 @@
     "description": {
       "type": "string"
     },
+    "image_url": {
+      "type": "string"
+    },
     "abv": {
       "type": "number"
     },
