@@ -3,7 +3,8 @@
   "name": "No Label",
   "tagline": "Dry Hopped Kölsch.",
   "first_brewed": "10/2015",
-  "description": "No Label is a postmodern, postgender non-binary brew; the world’s first beer made with transgender hops. Brewed with whole hop bines that have spontaneously changed from female to male, no label goes its own way. No Label balances a light, biscuity dryness from the malt base with delicate hints of fruity esters gifted by the fermentation. Finally, dry- hopping adds a layer of new world tropical & pine flavours that add a unique twist to this classic Kölsch style beer. All profits from the sales of this beer were donated to LGBTQI+ events organisers Queerest of the Queer.",
+  "description":
+    "No Label is a postmodern, postgender non-binary brew; the world’s first beer made with transgender hops. Brewed with whole hop bines that have spontaneously changed from female to male, no label goes its own way. No Label balances a light, biscuity dryness from the malt base with delicate hints of fruity esters gifted by the fermentation. Finally, dry- hopping adds a layer of new world tropical & pine flavours that add a unique twist to this classic Kölsch style beer. All profits from the sales of this beer were donated to LGBTQI+ events organisers Queerest of the Queer.",
   "image_url": "https://images.punkapi.com/v2/154.png",
   "abv": 4.5,
   "ibu": 25,
@@ -110,13 +111,14 @@
         "attribute": "aroma"
       }
     ],
-    "yeast": "Wyeast 1056 - American Ale"
+    "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": [
     "Strawberry and basil salad with feta",
     "Lemon baked monkfish",
     "Peach cobbler"
   ],
-  "brewers_tips": "Dry hop using a muslin bag in order to give you the best chance at getting the signature Kölsch clarity.",
+  "brewers_tips":
+    "Dry hop using a muslin bag in order to give you the best chance at getting the signature Kölsch clarity.",
   "contributed_by": "Sam Mason <samjbmason>"
 }
