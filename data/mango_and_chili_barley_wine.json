@@ -1,0 +1,155 @@
+{
+  "id": 229,
+  "name": "Mango And Chili Barley Wine",
+  "tagline": "Spicy Chewy Sweet",
+  "first_brewed": "2016",
+  "description":
+    "A huge, chewy barley wine, loaded with bitterness and balanced with a sweet and spicy combo of mango and chili. A concept brew which was so well received, we tweaked it and it became Neon Overlord.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 12,
+  "ibu": null,
+  "target_fg": 1015,
+  "target_og": 1110,
+  "ebc": 20,
+  "srm": 40,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 15
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 10
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 7,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 3,
+          "unit": "grams"
+        },
+        "add": "whirlpool",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "whirlpool",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Coriander Seed",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "whirlpool",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Mango",
+        "amount": {
+          "value": 500,
+          "unit": "grams"
+        },
+        "add": "secondary",
+        "attribute": "flavour"
+      },
+      {
+        "name": "1 lemon drop chilli",
+        "amount": 1,
+        "add": "maturation",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Vegetable Samosas",
+    "Thai Green Chicken Curry",
+    "Vanilla Panna Cotta"
+  ],
+  "brewers_tips":
+    "Crack open the chili and add it in a muslin bag so you can take it out when the chilli heat suits you",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
