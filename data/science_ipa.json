@@ -1,0 +1,134 @@
+{
+  "id": 230,
+  "name": "Science IPA",
+  "tagline": "India Pale Ale",
+  "first_brewed": "2016",
+  "description":
+    "A beer brewed specifically for the British Science Festival, held in Swansea.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 5,
+  "ibu": null,
+  "target_fg": 1011,
+  "target_og": 1050,
+  "ebc": 24,
+  "srm": 47,
+  "ph": 4.4,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 15
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 10
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal Malt",
+        "amount": {
+          "value": 0.35,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "flavour"
+      },
+      {
+        "name": "Amarilo",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "whirlpool",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "dry hop",
+        "attribute": "aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": ["Chicken Katsu", "Cheese and Ham Omelette", "Pumpkin Pie"],
+  "brewers_tips":
+    "This beer is all about the balance between the malty backbone of the beer and the fresh hop aroma. The fresher the hops the better.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}

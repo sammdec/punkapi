@@ -278,7 +278,7 @@ These are user contributed wrappers for the API
 * [x] BREWDOG VS BEAVERTOWN
 * [x] PROTOTYPE HELLES
 * [x] MANGO AND CHILI BARLEY WINE
-* [ ] SCIENCE IPA
+* [x] SCIENCE IPA
 * [ ] HONEY AND LEMON BLITZ
 * [ ] BLITZ SAISON
 * [ ] HELLO MY NAME IS INGRID
