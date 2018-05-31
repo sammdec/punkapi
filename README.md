@@ -279,7 +279,7 @@ These are user contributed wrappers for the API
 * [x] PROTOTYPE HELLES
 * [x] MANGO AND CHILI BARLEY WINE
 * [x] SCIENCE IPA
-* [ ] HONEY AND LEMON BLITZ
+* [x] HONEY AND LEMON BLITZ
 * [ ] BLITZ SAISON
 * [ ] HELLO MY NAME IS INGRID
 * [ ] CREW BREW

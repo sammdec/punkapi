@@ -1,0 +1,141 @@
+{
+  "id": 231,
+  "name": "Honey And Lemon Blitz",
+  "tagline": "Honey & Lemon Infused Berliner Weisse.",
+  "first_brewed": "2016",
+  "description":
+    "Honey & Lemon Blitz sees tart Berliner Weisse character multiplied by lemony acidity; light bready malt and a hint of warming honey hold this back from the brink of palate- destroying sourness.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 3.2,
+  "ibu": null,
+  "target_fg": 1008,
+  "target_og": 1039,
+  "ebc": 8,
+  "srm": 4,
+  "ph": 3.2,
+  "attenuation_level": 75,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 15
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 10
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Following souring steps outlined in Blitz Series recipes"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oats",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked Malt",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "bitter"
+      },
+      {
+        "name": "Lemon Peel",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "aroma"
+      },
+      {
+        "name": "Honey",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Herb-Crusted Baked Cod",
+    "Berry and Cream Meringue",
+    "Lemon Drizzle Cake"
+  ],
+  "brewers_tips":
+    "Be careful not to over do the smoked malt as it's just a background flavour and you don’t want it to be prominent in the finished beer.",
+  "contributed_by": "Sam Mason <samjbmason>"
+}
