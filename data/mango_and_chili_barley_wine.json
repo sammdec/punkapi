@@ -137,7 +137,10 @@
       },
       {
         "name": "1 lemon drop chilli",
-        "amount": 1,
+        "amount": {
+          "value": 1,
+          "unit": "total"
+        },
         "add": "maturation",
         "attribute": "flavour"
       }
