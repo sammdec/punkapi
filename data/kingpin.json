@@ -1,0 +1,111 @@
+{
+  "id": 225,
+  "name": "Kingpin",
+  "tagline": "21st century lager.",
+  "first_brewed": "2016",
+  "description": "A 4.7% German Pils with light, biscuit and toasty malt character, upon which is built a hop bitterness that provides complexity and a long, dry finish.",
+  "image_url": "",
+  "abv": 4.7,
+  "ibu": 40,
+  "target_fg": 1008,
+  "target_og": 1044,
+  "ebc": 14,
+  "srm": 7,
+  "ph": 4.2,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 1.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.16,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.63,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Malt",
+        "amount": {
+          "value": 1.50,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 12.5,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 2007 – Pilsen Lager™"
+  },
+  "food_pairing": [
+    "Jamaican jerk chicken wings",
+    "Corn dogs",
+    "Strawberry ice cream sundae"
+  ],
+  "brewers_tips": "Keep an eye on your fermentation temperature to ensure you get the crisp notes that are the hallmark of a good pilsner.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
