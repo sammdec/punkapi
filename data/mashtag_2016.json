@@ -4,7 +4,7 @@
   "tagline": "Sour cherry triple IPA.",
   "first_brewed": "2016",
   "description": "We gave our customers the keys to the brewery and let them choose every aspect of this beer. Sour cherry combines with fruity hop character against a biscuit malt backbone with a hint of alcohol warmth, and an oaky undercurrent.",
-  "image_url": null,
+  "image_url": "",
   "abv": 10.5,
   "ibu": 100,
   "target_fg": 1010,
@@ -37,7 +37,7 @@
         "unit": "celsius"
       }
     },
-    "twist": "250g Sour Cherries, 5g Oak Chips",
+    "twist": "250g Sour Cherries, 5g Oak Chips"
   },
   "ingredients": {
     "malt": [
