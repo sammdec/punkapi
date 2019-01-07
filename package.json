@@ -19,6 +19,6 @@
   "main": "data.json",
   "devDependencies": {
     "ajv-cli": "^1.1.1",
-    "lodash": "^4.16.6"
+    "lodash": "^4.17.11"
   }
 }
