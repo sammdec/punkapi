@@ -12,7 +12,7 @@
   "scripts": {
     "test": "ajv validate -s spec/schema.json -d 'data/*.json' && node ./spec/test.js",
     "build": "node ./build",
-    "prepare": "npm run build"
+    "prepublish": "npm run build"
   },
   "author": "Sam Mason <sam.jbmason@gmail.com>",
   "license": "MIT",
