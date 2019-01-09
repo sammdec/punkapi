@@ -39,7 +39,7 @@
       },
       {
         "temp": {
-          "value": 72
+          "value": 72,
           "unit": "celsius"
         },
         "duration": 15
