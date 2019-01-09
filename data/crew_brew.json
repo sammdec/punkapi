@@ -1,0 +1,163 @@
+{
+  "id": 242,
+  "name": "Crew Brew",
+  "tagline": "Democratic Amber Ale",
+  "first_brewed": "2016",
+  "description": "Our crew designed it, and we bottled it just for ourselves! We chose an 8% red ale, mash hopped and first wort hopped with New Zealand origin hops.",
+  "image_url": "",
+  "abv": 8,
+  "ibu": 100,
+  "target_fg": 1011,
+  "target_og": 1072,
+  "ebc": 28,
+  "srm": 14.2,
+  "ph": 5.2,
+  "attenuation_level": 84.62,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Marris Otter",
+        "amount": {
+          "value": 4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carahell",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Mash",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Mash",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Panko-coated Chicken Katsu",
+    "Classic Cheddar Ploughmans",
+    "Pecan Pie"
+  ],
+  "brewers_tips": "",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

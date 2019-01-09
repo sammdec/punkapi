@@ -1,0 +1,144 @@
+{
+  "id": 249,
+  "name": "Hop Shot",
+  "tagline": "Quadruple India Pale Ale",
+  "first_brewed": "2016",
+  "description": "Hop Shot is a high-velocity hop hit. Our latest experiment in ice-distillation is a west coast IPA, subjected to Antarctic temperatures and concentrated by removing the ice that forms. The result is a 22% ABV hop grenade in a 110ml bottle.",
+  "image_url": "",
+  "abv": 7,
+  "ibu": 250,
+  "target_fg": 1010,
+  "target_og": 1065,
+  "ebc": 15,
+  "srm": 7.5,
+  "ph": 4.4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.8,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Columbus Extract",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 18.75,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Phall Curry",
+    "Pork Burrito with a Habanero and Mango Chili Salsa",
+    "Ginger and Grapefruit Poundcake"
+  ],
+  "brewers_tips": "This level of alcohol can be achieved using a domestic freezer. Use a container with a tap close to the bottom so you can run the un-frozen, concentrated beer from under the ice on top. You may have to do this three or four times. The colder you freeze it the boozier it gets. Be careful to not dilute it too much when draining off the concentrated liquid after freezing so you don’t dilute it too much.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

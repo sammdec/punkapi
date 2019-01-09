@@ -1,0 +1,154 @@
+{
+  "id": 250,
+  "name": "Small Batch: Rye IPA",
+  "tagline": "Rye India Pale Ale.",
+  "first_brewed": "2016",
+  "description": "A 7.2% rye IPA loaded with grapefruit notes, pithy citrus, and huge resinous bitterness, with rye character. The Centennial and Columbus flavours are amplified by the spicy, dry rye.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 7.2,
+  "ibu": 100,
+  "target_fg": 1010,
+  "target_og": 1065,
+  "ebc": 8,
+  "srm": 16,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72
+          "unit": "celsius"
+        },
+        "duration": 15
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 10
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Marris Otter",
+        "amount": {
+          "value": 4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.8,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Whirlpool",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Whirlpool",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Salmon Fishcakes with Rocket Salad",
+    "Baked Goat's Cheese",
+    "Classic Victoria Sponge"
+  ],
+  "brewers_tips": "Be prepared for a long sparge as the rye content is really high.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

@@ -1,0 +1,113 @@
+{
+  "id": 246,
+  "name": "Casino Rye Ale",
+  "tagline": "Life's a Gamble",
+  "first_brewed": "2016",
+  "description": "We’ve split our bets with Casino Rye Ale and doubled up on the malt front, with barley and rye on the grain bill.",
+  "image_url": "",
+  "abv": 5.1,
+  "ibu": 40,
+  "target_fg": 1009,
+  "target_og": 1049,
+  "ebc": 25,
+  "srm": 12.7,
+  "ph": 5.2,
+  "attenuation_level": 81.6,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 2.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Simpsons Rye",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.15,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Equinox",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Equinox",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Equinox",
+        "amount": {
+          "value": 150,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Equinox",
+        "amount": {
+          "value": 150,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 – American Ale™"
+  },
+  "food_pairing": [
+    "Crab Cakes",
+    "Spicy Bean Burrito",
+    "Dundee Fruit Cake"
+  ],
+  "brewers_tips": "We don't recommend roulette as a way to design beer. Spin the bottle is a much more sensible option. Make this beer with the freshest ingredients you can. Try to arrange brewday as close to delivery day as possible and throw 10 brewbucks on black 17 for us.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
