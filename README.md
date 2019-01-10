@@ -41,333 +41,333 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 239 of 325 completed
+> Status: 245 of 325 completed
 
-* [x] 001 - PUNK IPA 2007 – 2010
-* [x] 002 - PUNK IPA 2010 – CURRENT
-* [x] 003 - THE PHYSICS
-* [x] 004 - RIPTIDE
-* [x] 005 - HOP ROCKER
-* [x] 006 - PARADOX ISLAY
-* [x] 007 - PARADOX JURA
-* [x] 008 - PEROXIDE PUNK
-* [x] 009 - HYPE
-* [x] 010 - BUZZ
-* [x] 011 - EDGE
-* [x] 012 - STORM
-* [x] 013 - CULT LAGER
-* [x] 014 - TRASHY BLONDE
-* [x] 015 - ORIGINAL DOGMA (NÉE SPEEDBALL)
+* [x] 001 - Punk IPA 2007 – 2010
+* [x] 002 - Punk IPA 2010 – current
+* [x] 003 - The Physics
+* [x] 004 - Riptide
+* [x] 005 - Hop Rocker
+* [x] 006 - Paradox Islay
+* [x] 007 - Paradox Jura
+* [x] 008 - Peroxide Punk
+* [x] 009 - Hype
+* [x] 010 - Buzz
+* [x] 011 - Edge
+* [x] 012 - Storm
+* [x] 013 - Cult Lager
+* [x] 014 - Trashy Blonde
+* [x] 015 - Original Dogma (Née Speedball)
 * [x] 016 - AB:03
-* [x] 017 - ZEITGEIST
-* [x] 018 - BAD PIXIE
-* [x] 019 - CHAOS THEORY
-* [x] 020 - ZEPHYR
-* [x] 021 - COFFEE IMPERIAL STOUT
-* [x] 022 - DEVINE REBEL (W/MIKKELLER)
-* [x] 023 - 77 LAGER
-* [x] 024 - ATLANTIC IPA ALE
-* [x] 025 - HOW TO DISAPPEAR COMPLETELY
-* [x] 026 - 5AM SAINT
-* [x] 027 - TOKYO RISING SUN – HIGHLAND
-* [x] 028 - TOKYO RISING SUN – LOWLAND
-* [x] 029 - TOKYO*
-* [x] 030 - PUNK MONK
-* [x] 031 - BASHAH (W/STONE BREWING CO)
-* [x] 032 - NANNY STATE
-* [x] 033 - TACTICAL NUCLEAR PENGUIN
-* [x] 034 - EUROTRASH
-* [x] 035 - MOVEMBER
-* [x] 036 - BLACK DOG
-* [x] 037 - HARDCORE IPA
-* [x] 038 - SINK THE BISMARCK!
-* [x] 039 - ALPHA DOG
-* [x] 040 - SKULL CANDY
+* [x] 017 - Zeitgeist
+* [x] 018 - Bad Pixie
+* [x] 019 - Chaos Theory
+* [x] 020 - Zephyr
+* [x] 021 - Coffee Imperial Stout
+* [x] 022 - Devine Rebel
+* [x] 023 - 77 Lager
+* [x] 024 - Atlantic IPA
+* [x] 025 - How To Disappear Completely
+* [x] 026 - 5AM Saint
+* [x] 027 - Tokyo Rising Sun Highland
+* [x] 028 - Tokyo Rising Sun Lowland
+* [x] 029 - Tokyo*
+* [x] 030 - Punk Monk
+* [x] 031 - Bashah
+* [x] 032 - Nanny State
+* [x] 033 - Tactical Nuclear Penguin
+* [x] 034 - Eurotrash
+* [x] 035 - Movember
+* [x] 036 - Black Dog
+* [x] 037 - Hardcore IPA
+* [x] 038 - Sink The Bismarck!
+* [x] 039 - Alpha Dog
+* [x] 040 - Skull Candy
 * [x] 041 - AB:01
 * [x] 042 - AB:07
-* [x] 043 - PROTOTYPE 27
+* [x] 043 - Prototype 27
 * [x] 044 - TM10
 * [x] 045 - AB:02
-* [x] 046 - HARDKOGT IPA
+* [x] 046 - Hardkogt IPA
 * [x] 047 - AB:04
-* [x] 048 - ALICE PORTER
-* [x] 049 - SANTA PAWS
+* [x] 048 - Alice Porter
+* [x] 049 - Santa Paws
 * [x] 050 - AB:09
-* [x] 051 - BLACK TOKYO HORIZON (W/ NØGNE Ø & MIKKELLER)
+* [x] 051 - Black Tokyo Horizon
 * [x] 052 - AB:05
-* [x] 053 - HELLO MY NAME IS INGRID
-* [x] 054 - BRAMLING X
-* [x] 055 - CITRA
-* [x] 056 - NELSON SAUVIN
-* [x] 057 - SORACHI ACE
-* [x] 058 - AVERY BROWN DREDGE
-* [x] 059 - GROWLER
-* [x] 060 - RABIATOR
+* [x] 053 - Hello My Name Is Ingrid
+* [x] 054 - IPA Is Dead: Bramling X
+* [x] 055 - IPA Is Dead: Citra
+* [x] 056 - IPA Is Dead: Nelson Sauvin
+* [x] 057 - IPA Is Dead: Sorachi Ace
+* [x] 058 - Avery Brown Dredge
+* [x] 059 - Growler
+* [x] 060 - Rabiator
 * [x] 061 - AB:06
-* [x] 062 - JUNIPER WHEAT BEER
-* [x] 063 - THE END OF HISTORY
-* [x] 064 - HOPS KILL NAZIS
-* [x] 065 - MR. MIYAGI'S WASABI STOUT
-* [x] 066 - SUNK PUNK
+* [x] 062 - Juniper Wheat Beer
+* [x] 063 - The End Of History
+* [x] 064 - Hops Kill Nazis
+* [x] 065 - Mr. Miyagi's Wasabi Stout
+* [x] 066 - Sunk Punk
 * [x] 067 - AB:10
 * [x] 068 - AB:18
-* [x] 069 - OLD WORLD INDIA PALE ALE
-* [x] 070 - OLD WORLD RUSSIAN IMPERIAL STOUT
-* [x] 071 - LOST DOG (W/LOST ABBEY)
+* [x] 069 - Old World India Pale Ale
+* [x] 070 - Old World Russian Imperial Stout
+* [x] 071 - Lost Dog
 * [x] 072 - AB:08
-* [x] 073 - SUNMAID STOUT
-* [x] 074 - SHAREHOLDER BLACK IPA 2011
+* [x] 073 - Sunmaid Stout
+* [x] 074 - Shareholder Brew: Black IPA
 * [x] 075 - AB:13
-* [x] 076 - SIMCOE
-* [x] 077 - LIBERTINE PORTER
-* [x] 078 - MIXTAPE 8
-* [x] 079 - BITCH PLEASE (W/3 FLOYDS)
-* [x] 080 - CHALLENGER
-* [x] 081 - GALAXY
-* [x] 082 - HBC 369
-* [x] 083 - MOTUEKA
-* [x] 084 - DEAD PONY CLUB
-* [x] 085 - LIBERTINE BLACK ALE
-* [x] 086 - ANARCHIST ALCHEMIST
-* [x] 087 - DOG A
-* [x] 088 - HUNTER FOUNDATION PALE ALE
+* [x] 076 - IPA Is Dead: Simcoe
+* [x] 077 - Libertine Porter
+* [x] 078 - Mixtape 8
+* [x] 079 - Bitch Please
+* [x] 080 - IPA Is Dead: Challenger
+* [x] 081 - IPA Is Dead: Galaxy
+* [x] 082 - IPA Is Dead: HBC 369
+* [x] 083 - IPA Is Dead: Motueka
+* [x] 084 - Dead Pony Club
+* [x] 085 - Libertine Black Ale
+* [x] 086 - Anarchist Alchemist
+* [x] 087 - Dog A
+* [x] 088 - Hunter Foundation Pale Ale
 * [x] 089 - AB:19
-* [x] 090 - JACK HAMMER
-* [x] 091 - NEVER MIND THE ANABOLICS
-* [x] 092 - SAN DIEGO SCOTCH ALE (W/ BALLAST POINT)
+* [x] 090 - Jack Hammer
+* [x] 091 - Never Mind The Anabolics
+* [x] 092 - San Diego Scotch Ale
 * [x] 093 - AB:12
-* [x] 094 - WHITE NOISE
-* [x] 095 - INTERNATIONAL ARMS RACE (W/ FLYING DOG)
+* [x] 094 - White Noise
+* [x] 095 - International Arms Race
 * [x] 096 - AB:11
-* [x] 097 - HELLO MY NAME IS BEASTIE
-* [x] 098 - DOG FIGHT (W/FLYING DOG)
-* [x] 099 - HOPPY CHRISTMAS
-* [x] 100 - BLACK EYED KING IMP
-* [x] 101 - COCOA PSYCHO
-* [x] 102 - NUNS WITH GUNS
-* [x] 103 - CATHERINE'S PONY (W/ BEAVERTOWN)
-* [x] 104 - AMARILLO
-* [x] 105 - LICHTENSTEIN PALE ALE
+* [x] 097 - Hello My Name Is Beastie
+* [x] 098 - Dog Fight
+* [x] 099 - Hoppy Christmas
+* [x] 100 - Black Eyed King Imp
+* [x] 101 - Cocoa Psycho
+* [x] 102 - Nuns With Guns
+* [x] 103 - Catherine's Pony
+* [x] 104 - IPA Is Dead: Amarillo
+* [x] 105 - Lichtenstein Pale Ale
 * [x] 106 - AB:14
-* [x] 107 - IPA IS DEAD – DANA
-* [x] 108 - IPA IS DEAD – EL DORADO
-* [x] 109 - IPA IS DEAD – GOLDINGS
-* [x] 110 - IPA IS DEAD – WAIMEA
-* [x] 111 - VAGABOND PILSNER
+* [x] 107 - IPA Is Dead: Dana
+* [x] 108 - IPA Is Dead: El Dorado
+* [x] 109 - IPA Is Dead: Goldings
+* [x] 110 - IPA Is Dead: Waimea
+* [x] 111 - Vagabond Pilsner
 * [x] 112 - AB:15
-* [x] 113 - BRACKEN'S PORTER
-* [x] 114 - FAKE LAGER
-* [x] 115 - 10 HEADS HIGH
-* [x] 116 - VICE BIER
-* [x] 117 - MISSPENT YOUTH
-* [x] 118 - #MASHTAG 2013
-* [x] 119 - DOG B
-* [x] 120 - ELECTRIC INDIA
-* [x] 121 - DOG WIRED (W/8 WIRED)
-* [x] 122 - HELLO MY NAME IS METTE-MARIT
-* [x] 123 - EVERYDAY ANARCHY
-* [x] 124 - BLACK JACQUES
-* [x] 125 - BLITZ BERLINER WEISSE
-* [x] 126 - DOGMA
-* [x] 127 - HELLO MY NAME IS SONJA (W/EVIL TWIN)
-* [x] 128 - SHIPWRECKER CIRCUS (W/OSKAR BLUES)
-* [x] 129 - DEAD METAPHOR
-* [x] 130 - BABY DOGMA
-* [x] 131 - UNLEASH THE YEAST – AMERICAN ALE
-* [x] 132 - UNLEASH THE YEAST – BAVARIAN WEIZEN
-* [x] 133 - UNLEASH THE YEAST – BELGIAN TRAPPIST
-* [x] 134 - UNLEASH THE YEAST – PILSEN LAGER
-* [x] 135 - VIC SECRET
-* [x] 136 - BRIXTON PORTER
-* [x] 137 - PROTOTYPE CHALLENGE – HOBO POP
-* [x] 138 - PROTOTYPE CHALLENGE – INTERSTELLAR
-* [x] 139 - PROTOTYPE CHALLENGE – MOSHI MOSHI 15
-* [x] 140 - BLACK EYE JOE (W/STONE BREWING CO)
-* [x] 141 - LUMBERJACK STOUT
-* [x] 142 - CLOWN KING
-* [x] 143 - HELLO MY NAME IS VLADIMIR
-* [x] 144 - BOURBON BABY
+* [x] 113 - Bracken's Porter
+* [x] 114 - Fake Lager
+* [x] 115 - 10 Heads High
+* [x] 116 - Vice Bier
+* [x] 117 - Misspent Youth
+* [x] 118 - #Mashtag 2013
+* [x] 119 - Dog B
+* [x] 120 - Electric India
+* [x] 121 - Dog Wired
+* [x] 122 - Hello My Name Is Mette-Marit
+* [x] 123 - Everyday Anarchy
+* [x] 124 - Black Jacques
+* [x] 125 - Blitz Berliner Weisse
+* [x] 126 - Dogma
+* [x] 127 - Hello My Name Is Sonja
+* [x] 128 - Shipwrecker Circus
+* [x] 129 - Dead Metaphor
+* [x] 130 - Baby Dogma
+* [x] 131 - Unleash The Yeast: American Ale
+* [x] 132 - Unleash The Yeast: Bavarian Weizen
+* [x] 133 - Unleash The Yeast: Belgian Trappist
+* [x] 134 - Unleash The Yeast: Pilsen Lager
+* [x] 135 - IPA Is Dead: Vic Secret
+* [x] 136 - Brixton Porter
+* [x] 137 - Prototype Challenge: Hobo Pop
+* [x] 138 - Prototype Challenge: Interstellar
+* [x] 139 - Prototype Challenge: Moshi Moshi 15
+* [x] 140 - Black Eye Joe
+* [x] 141 - Lumberjack Stout
+* [x] 142 - Clown King
+* [x] 143 - Hello My Name Is Vladimir
+* [x] 144 - Bourbon Baby
 * [x] 145 - AB:16
-* [x] 146 - COMET
+* [x] 146 - Comet
 * [x] 147 - HBC 366 IPA
-* [x] 148 - KOHATU
-* [x] 149 - HELLO MY NAME IS ZÉ (W/2CABEÇAS)
-* [x] 150 - ALPHA POP
-* [x] 151 - JASMINE IPA
-* [x] 152 - #MASHTAG 2014
-* [x] 153 - DOG C
-* [x] 154 - HELLO MY NAME IS PÄIVI
-* [x] 155 - VOTE SEPP
-* [x] 156 - MAGIC STONE DOG (W/MAGIC ROCK & STONE BREWING CO.)
-* [x] 157 - RUSSIAN DOLL – BARLEY WINE
-* [x] 158 - SUB HOP
-* [x] 159 - U-BOAT (W/VICTORY BREWING)
-* [x] 160 - AMERICAN WHEAT
-* [x] 161 - CAP DOG (W/CAP BREWERY)
-* [x] 162 - RUSSIAN DOLL – DOUBLE IPA
-* [x] 163 - RUSSIAN DOLL – INDIA PALE ALE
-* [x] 164 - RUSSIAN DOLL – PALE
-* [x] 165 - THIS.IS.LAGER.
-* [x] 166 - INDIA PALE WEIZEN (W/ WEIHENSTEPHAN)
+* [x] 148 - Kohatu
+* [x] 149 - Hello My Name Is Zé
+* [x] 150 - Alpha Pop
+* [x] 151 - Jasmine IPA
+* [x] 152 - #Mashtag 2014
+* [x] 153 - Dog C
+* [x] 154 - Hello My Name Is Päivi
+* [x] 155 - Vote Sepp
+* [x] 156 - Magic Stone Dog
+* [x] 157 - Russian Doll: Barley Wine
+* [x] 158 - Sub Hop
+* [x] 159 - U-Boat
+* [x] 160 - American Wheat
+* [x] 161 - Cap Dog
+* [x] 162 - Russian Doll: Double IPA
+* [x] 163 - Russian Doll: India Pale Ale
+* [x] 164 - Russian Doll: Pale
+* [x] 165 - This.Is.Lager.
+* [x] 166 - India Pale Weizen
 * [x] 167 - AB:17
-* [x] 168 - KONNICHIWA KITSUNE
-* [x] 169 - PROTOTYPE CHALLENGE – ALL DAY LONG
-* [x] 170 - PROTOTYPE CHALLENGE – HOP FICTION
-* [x] 171 - PROTOTYPE CHALLENGE – VAGABOND PALE ALE
-* [x] 172 - BLACK EYED KING IMP – VIETNAMESE COFFEE EDITION
-* [x] 173 - SHAREHOLDER BREW – BOUNTY
-* [x] 174 - RESTORATIVE BEVERAGE FOR INVALIDS AND CONVALESCENTS
-* [x] 175 - STEREO WOLF STOUT
-* [x] 176 - B-SIDES – SUNSHINE ON RYE
-* [x] 177 - B-SIDES – BOWMAN’S BEARD
-* [x] 178 - HELLO MY NAME IS LITTLE INGRID
-* [x] 179 - IPA IS DEAD – CHINOOK
-* [x] 180 - IPA IS DEAD – ELLA
-* [x] 181 - IPA IS DEAD – MANDARINA BAVARIA
-* [x] 182 - IPA IS DEAD – PIONEER
-* [x] 183 - BORN TO DIE
-* [x] 184 - B-SIDES – MELON AND CUCUMBER
-* [x] 185 - B-SIDES – SORACHI BITTER
-* [x] 186 - B-SIDES – TRUFFLE AND CHOCOLATE STOUT
-* [x] 187 - B-SIDES – HOPPY SAISON
-* [x] 188 - B-SIDES – WHISKY SOUR
-* [x] 189 - B-SIDES – SPICED CHERRY SOUR
-* [x] 190 - B-SIDES – DEAF MERMAID
-* [x] 191 - #MASHTAG 2015
-* [x] 192 - DOG D
-* [x] 193 - HINTERLAND
-* [x] 194 - PEACH THERAPY
-* [x] 195 - HELLO MY NAME IS HOLY MOOSE
-* [x] 196 - LIZARD BRIDE
-* [x] 197 - B-SIDES – MANGO GOSE
-* [x] 198 - CANDY KAISER
-* [x] 199 - PUMPKIN KING
-* [x] 200 - B-SIDES – BABY SAISON
-* [x] 201 - B-SIDES – MORAG'S MOJITO
-* [x] 202 - B-SIDES – ORANGE BLOSSOM
-* [x] 203 - DOODLEBUG
-* [x] 204 - NO LABEL
-* [x] 205 - B-SIDES – RHUBARB SAISON
-* [x] 206 - PROTOTYPE CHALLENGE – INDIA SESSION LAGER
-* [x] 207 - PROTOTYPE CHALLENGE – HOPPED- UP BROWN ALE
-* [x] 208 - ALBINO SQUID ASSASSIN
-* [x] 209 - B-SIDES – BERLINER WEISSE WITH RASPBERRIES AND RHUBARB
-* [x] 210 - ARCADE NATION
-* [x] 211 - ELVIS JUICE
-* [x] 212 - B-SIDES – BERLINER WEISSE WITH HUNTER YUZU
-* [x] 213 - B-SIDES – CASCADE, CENTENNIAL & WILLAMETTE IPA
-* [x] 214 - B-SIDES – SINGLE HOP ENIGMA IPA
-* [x] 215 - JET BLACK HEART
-* [x] 216 - ACE OF SIMCOE
-* [x] 217 - SHIP WRECK
-* [x] 218 - MONK HAMMER
-* [x] 219 - PROTOTYPE PILS 2.0
-* [x] 220 - BLITZSERIES
-* [x] 221 - DOG E
-* [x] 222 - BARRELAGEDHINTERLAND
+* [x] 168 - Konnichiwa Kitsune
+* [x] 169 - Prototype Challenge: All Day Long
+* [x] 170 - Prototype Challenge: Hop Fiction
+* [x] 171 - Prototype Challenge: Vagabond Pale Ale
+* [x] 172 - Black Eyed King Imp Vietnamese Coffee Edition
+* [x] 173 - Shareholder Brew: Bounty
+* [x] 174 - Restorative Beverage For Invalids And Convalescents
+* [x] 175 - Stereo Wolf Stout
+* [x] 176 - B-Sides: Sunshine On Rye
+* [x] 177 - B-Sides: Bowman’s Beard
+* [x] 178 - Hello My Name Is Little Ingrid
+* [x] 179 - IPA Is Dead: Chinook
+* [x] 180 - IPA Is Dead: Ella
+* [x] 181 - IPA Is Dead: Mandarina Bavaria
+* [x] 182 - IPA Is Dead: Pioneer
+* [x] 183 - Born To Die
+* [x] 184 - B-Sides: Melon And Cucumber
+* [x] 185 - B-Sides: Sorachi Bitter
+* [x] 186 - B-Sides: Truffle And Chocolate Stout
+* [x] 187 - B-Sides: Hoppy Saison
+* [x] 188 - B-Sides: Whisky Sour
+* [x] 189 - B-Sides: Spiced Cherry Sour
+* [x] 190 - B-Sides: Deaf Mermaid
+* [x] 191 - #Mashtag 2015
+* [x] 192 - Dog D
+* [x] 193 - Hinterland
+* [x] 194 - Peach Therapy
+* [x] 195 - Hello My Name Is Holy Moose
+* [x] 196 - Lizard Bride
+* [x] 197 - B-Sides: Mango Gose
+* [x] 198 - Candy Kaiser
+* [x] 199 - Pumpkin King
+* [x] 200 - B-Sides: Baby Saison
+* [x] 201 - B-Sides: Morag's Mojito
+* [x] 202 - B-Sides: Orange Blossom
+* [x] 203 - Doodlebug
+* [x] 204 - No Label
+* [x] 205 - B-Sides: Rhubarb Saison
+* [x] 206 - Prototype Challenge: India Session Lager
+* [x] 207 - Prototype Challenge: Hopped-Up Brown Ale
+* [x] 208 - Albino Squid Assassin
+* [x] 209 - B-Sides: Berliner Weisse With Raspberries And Rhubarb
+* [x] 210 - Arcade Nation
+* [x] 211 - Elvis Juice
+* [x] 212 - B-Sides: Berliner Weisse With Hunter Yuzu
+* [x] 213 - B-Sides: Cascade, Centennial & Willamette IPA
+* [x] 214 - B-Sides: Single Hop Enigma IPA
+* [x] 215 - Jet Black Heart
+* [x] 216 - Ace Of Simcoe
+* [x] 217 - Ship Wreck
+* [x] 218 - Monk Hammer
+* [x] 219 - Prototype Pils 2.0
+* [x] 220 - Blitz Series
+* [x] 221 - Dog E
+* [x] 222 - Barrel Aged Hinterland
 * [x] 223 - AB:20
-* [x] 224 - BARREL AGED ALBINO SQUID ASSASSIN
-* [x] 225 - KINGPIN
-* [x] 226 - PARADOXISLAY
-* [x] 227 - ACE OF CHINOOK
-* [x] 228 - MASHTAG2016
-* [x] 229 - NEONOVERLORD
-* [x] 230 - BLACKHAMMER
-* [x] 231 - ACE OF CITRA
-* [x] 232 - CHILIHAMMER
-* [x] 233 - ACE OF EQUINOX
-* [x] 234 - RYE HAMMER
-* [x] 235 - BREWDOG VS BEAVERTOWN
-* [x] 236 - PROTOTYPEHELLES
-* [x] 237 - MANGO AND CHILI BARLEY WINE
-* [x] 238 - SCIENCEIPA
-* [x] 239 - HONEY AND LEMON BLITZ
-* [ ] 240 - BLITZ SAISON
-* [ ] 241 - HELLO MY NAME IS INGRID
-* [ ] 242 - CREW BREW
-* [ ] 243 - GIN BLITZ
-* [ ] 244 - AB:21
-* [ ] 245 - BEATNIK
-* [ ] 246 - CASINO RYE ALE
-* [ ] 247 - SELFASSEMBLYPOPE
-* [ ] 248 - TWINATLANTIC
-* [ ] 249 - HOPSHOT
-* [ ] 250 - RYE IPA
-* [ ] 251 - SORACHI ACE SESSION
-* [ ] 252 - DORTMUNDER
-* [ ] 253 - 90 SHILLING
-* [ ] 254 - KELLERBIER
-* [ ] 255 - TRIPEL
-* [ ] 256 - VERMONT IPA
-* [ ] 257 - SEMI SKIMMED OCCULTIST
-* [ ] 258 - PARADOX RYE
-* [ ] 259 - TROPIC THUNDER
-* [ ] 260 - NEW ENGLAND IPA (W/CLOUDWATER)
-* [ ] 261 - NITRO BREAKFAST STOUT
-* [ ] 262 - VERMONT IPA V2.0
-* [ ] 263 - MANDARINA LAGER: SMALL BATCH
-* [ ] 264 - EAST COAST CRUSH
-* [ ] 265 - PUMP ACTION POET
-* [ ] 266 - LEMON MERINGUE PIE: SMALL BATCH 
+* [x] 224 - Barrel Aged Albino Squid Assassin
+* [x] 225 - Kingpin
+* [x] 226 - Paradox Islay
+* [x] 227 - Ace Of Chinook
+* [x] 228 - Mashtag 2016
+* [x] 229 - Neon Overlord
+* [x] 230 - Black Hammer
+* [x] 231 - Ace Of Citra
+* [x] 232 - Chili Hammer
+* [x] 233 - Ace Of Equinox
+* [x] 234 - Rye Hammer
+* [x] 235 - BrewDog Vs Beavertown
+* [x] 236 - Prototype Helles
+* [x] 237 - Mango And Chili Barley Wine
+* [x] 238 - Science IPA
+* [x] 239 - Honey And Lemon Blitz
+* [x] 240 - Blitz Saison
+* [x] 241 - Hello My Name Is Ingrid 2016
+* [x] 242 - Crew Brew
+* [x] 243 - Gin Blitz
+* [x] 244 - AB:21
+* [x] 245 - Beatnik
+* [x] 246 - Casino Rye Ale
+* [x] 247 - Self Assembly Pope
+* [x] 248 - Twin Atlantic
+* [x] 249 - Hop Shot
+* [x] 250 - Small Batch: Rye IPA
+* [x] 251 - Small Batch: Sorachi Ace Session
+* [x] 252 - Small Batch: Dortmunder
+* [x] 253 - Small Batch: 90 Shilling
+* [x] 254 - Small Batch: Kellerbier
+* [x] 255 - Small Batch: Tripel
+* [x] 256 - Small Batch: Vermont IPA
+* [x] 257 - Semi Skimmed Occultist
+* [x] 258 - Paradox Rye
+* [x] 259 - Tropic Thunder
+* [x] 260 - New England IPA
+* [ ] 261 - Nitro Breakfast Stout
+* [ ] 262 - Vermont IPA V2.0
+* [ ] 263 - Small Batch: Mandarina Lager 
+* [ ] 264 - East Coast Crush
+* [ ] 265 - Pump Action Poet
+* [ ] 266 - Small Batch: Lemon Meringue Pie 
 * [ ] 267 - AB:22
-* [ ] 268 - HAZY JANE
-* [ ] 269 - IMPERIAL PALE WEIZEN: SMALL BATCH
-* [ ] 270 - BLONDE EXPORT STOUT
-* [ ] 271 - CRANACHAN CREAM ALE: SMALL BATCH
-* [ ] 272 - SPELT & HONEY SAISON: SMALL BATCH
-* [ ] 273 - PROTOTYPE DOUBLE IPA
-* [ ] 274 - PROTOTYPE BLACK RYE IPA
-* [ ] 275 - SIDEWALK SHARK
-* [ ] 276 - NINE TO FIVE WIZARD
-* [ ] 277 - PROTOTYPE BLONDE ALE
+* [ ] 268 - Hazy Jane
+* [ ] 269 - Small Batch: Imperial Pale Weizen
+* [ ] 270 - Blonde Export Stout
+* [ ] 271 - Small Batch: Cranachan Cream Ale
+* [ ] 272 - Small Batch: Spelt & Honey Saison
+* [ ] 273 - Prototype Double IPA
+* [ ] 274 - Prototype Black Rye IPA
+* [ ] 275 - Sidewalk Shark
+* [ ] 276 - Nine To Five Wizard
+* [ ] 277 - Prototype Blonde Ale
 * [ ] 278 - AB:23
-* [ ] 279 - SLOTMACHINE
-* [ ] 280 - MAKEEARTHGREATAGAIN
-* [ ] 281 - HOMICIDAL PUPPET HELP DESK
-* [ ] 282 - PINA COLADA SIDEWALK SHARK
+* [ ] 279 - Slot Machine
+* [ ] 280 - Make Earth Great Again
+* [ ] 281 - Homicidal Puppet Help Desk
+* [ ] 282 - Pina Colada Sidewalk Shark
 * [ ] 283 - AB:24
-* [ ] 284 - HELLO MY NAME IS HELGA
-* [ ] 285 - HELLO MY NAME IS SARI
-* [ ] 286 - HELLO MY NAME IS AUNE
-* [ ] 287 - HELLO MY NAME IS MARIANNE
-* [ ] 288 - HELLO MY NAME IS AGNETHA
-* [ ] 289 - HELLO MY NAME IS LIEKE
-* [ ] 290 - HELLO MY NAME IS NIAMH
-* [ ] 291 - HELLO MY NAME IS SOFIA
-* [ ] 292 - HELLO MY NAME IS MARIA
-* [ ] 293 - I WANNA BE YOUR DOG
-* [ ] 294 - OPAQUE JAKE
-* [ ] 295 - CHOCO LIBRE
-* [ ] 296 - OFF-DUTY ALIEN
-* [ ] 297 - EAST OF VERMONT
-* [ ] 298 - DECLASSIFIED DEMI-GOD
-* [ ] 299 - RASPBERRY POPSICLE PARADE
-* [ ] 300 - INDIE PALE ALE
-* [ ] 301 - DRY-HOPPED PILSNER: SMALL BATCH
-* [ ] 302 - HAZY JANE (BOURBON BARREL- AGED)
-* [ ] 303 - HAZY JANE (RYE BARREL-AGED)
-* [ ] 304 - KARMA CLOUD
-* [ ] 305 - NATIVE SON
+* [ ] 284 - Hello My Name Is Helga
+* [ ] 285 - Hello My Name Is Sari
+* [ ] 286 - Hello My Name Is Aune
+* [ ] 287 - Hello My Name Is Marianne
+* [ ] 288 - Hello My Name Is Agnetha
+* [ ] 289 - Hello My Name Is Lieke
+* [ ] 290 - Hello My Name Is Niamh
+* [ ] 291 - Hello My Name Is Sofia
+* [ ] 292 - Hello My Name Is Maria
+* [ ] 293 - I Wanna Be Your Dog
+* [ ] 294 - Opaque Jake
+* [ ] 295 - Choco Libre
+* [ ] 296 - Off-Duty Alien
+* [ ] 297 - East Of Vermont
+* [ ] 298 - Declassified Demi-God
+* [ ] 299 - Raspberry Popsicle Parade
+* [ ] 300 - Indie Pale Ale
+* [ ] 301 - Small Batch: Dry-Hopped Pilsner
+* [ ] 302 - Hazy Jane Bourbon Barrel Aged
+* [ ] 303 - Hazy Jane Rye Barrel Aged
+* [ ] 304 - Karma Cloud
+* [ ] 305 - Native Son
 * [ ] 306 - AB:25
-* [ ] 307 - KAMIKAZE KNITTING CLUB
-* [ ] 308 - VERY BIG MOOSE (BREWDOG VS FIERCE BEER)
-* [ ] 309 - PAR ADOX GR AIN 2018
-* [ ] 310 - CLOCKWORK TANGERINE
-* [ ] 311 - SONIC BOOM
-* [ ] 312 - DOG G
-* [ ] 313 - MALLOW MAFIA BREWDOG VS AMUNDSEN
-* [ ] 314 - MANIC MANGO BREWDOG VS BREWSKI
-* [ ] 315 - BALTIC FLEET BREWDOG VS BEVOG
-* [ ] 316 - SOS (MAY DAY!) BREWDOG VS BRLO
-* [ ] 317 - AL ADJORE! BREWDOG VS LAPIR ATA
-* [ ] 318 - NEVERLAND BREWDOG VS OEDIPUS
-* [ ] 319 - GRANO GIUSTO BREWDOG VS BIRRIFICIO ITALIANO
-* [ ] 320 - KING OF EIGHTS
-* [ ] 321 - JINX PALE ALE
-* [ ] 322 - JET TRASH
-* [ ] 323 - INTERSTATE VIENNA LAGER
-* [ ] 324 - FOOLS GOLD DORTMUNDER LAGER
-* [ ] 325 - ZIPCODE
+* [ ] 307 - Kamikaze Knitting Club
+* [ ] 308 - Very Big Moose
+* [ ] 309 - Paradox Grain 2018
+* [ ] 310 - Clockwork Tangerine
+* [ ] 311 - Sonic Boom
+* [ ] 312 - Dog G
+* [ ] 313 - Mallow Mafia BrewDog Vs Amundsen
+* [ ] 314 - Manic Mango BrewDog Vs Brewski
+* [ ] 315 - Baltic Fleet BrewDog Vs Bevog
+* [ ] 316 - SOS (May Day!) BrewDog Vs Brlo
+* [ ] 317 - Al Adjore! BrewDog Vs Lapir Ata
+* [ ] 318 - Neverland BrewDog Vs Oedipus
+* [ ] 319 - Grano Giusto BrewDog Vs Birrificio Italiano
+* [ ] 320 - King Of Eights
+* [ ] 321 - Jinx Pale Ale
+* [ ] 322 - Jet Trash
+* [ ] 323 - Interstate Vienna Lager
+* [ ] 324 - Fools Gold Dortmunder Lager
+* [ ] 325 - Zipcode
 
 ## License
 

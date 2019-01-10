@@ -1,0 +1,111 @@
+{
+  "id": 254,
+  "name": "Small Batch: Kellerbier",
+  "tagline": "Crisp Unfiltered Goodness.",
+  "first_brewed": "2017",
+  "description": "A pale lager, with toasty biscuit malt balances against a robust spicy bitterness.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 4.5,
+  "ibu": 25,
+  "target_fg": 1011,
+  "target_og": 1043,
+  "ebc": 17,
+  "srm": 8.6,
+  "ph": 5.3,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 56,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Propino",
+        "amount": {
+          "value": 1.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 1.35,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 7,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 2124 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "Bratwurst and Mustard",
+    "Caraway Roast Pork",
+    "Gingerbread Cake"
+  ],
+  "brewers_tips": "Kellerbier translates to cellar beer, if you don’t have a cellar just make sure to keep the fermentation temperature as close as possible to what you'd expect in a bavarian basement.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

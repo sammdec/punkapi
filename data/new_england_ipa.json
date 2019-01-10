@@ -1,0 +1,104 @@
+{
+  "id": 260,
+  "name": "New England IPA",
+  "tagline": "Vermont IPA",
+  "first_brewed": "2017",
+  "description": "BrewDog vs Cloudwater is a 6.8% Vermont-style India Pale Ale, hopped with Mosaic in the whirlpool only. Without any big- hitting additions of hops in the boil, we carried the flavour by heavily dry-hopping the brew with Citra and Mosaic. We also used oats in the recipe to deliver the trademark smooth mouthfeel – and made it truly authentic by propagating a one-off culture of Vermont yeast, specifically for the brew.",
+  "image_url": "",
+  "abv": 6.8,
+  "ibu": 45,
+  "target_fg": 1012,
+  "target_og": 1065,
+  "ebc": 17,
+  "srm": 9,
+  "ph": 4.2,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 68,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Propino",
+        "amount": {
+          "value": 3.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrefied Wheat",
+        "amount": {
+          "value": 0.39,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.56,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 33,
+          "unit": "grams"
+        },
+        "add": "Whirlpool",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 83,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 83,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "WLP4000 - Vermont Ale"
+  },
+  "food_pairing": [
+    "Goat's Cheese Bruschetta",
+    "Pan-Fried Lemon Sole",
+    "Baked Peaches with Citrus Fruit Reduction"
+  ],
+  "brewers_tips": "Skip the arrageenan (Irish Moss), all haze is good haze in this beer.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
