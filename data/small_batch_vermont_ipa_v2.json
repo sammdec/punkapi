@@ -1,16 +1,16 @@
 {
-  "id": 256,
-  "name": "Small Batch: Vermont IPA",
-  "tagline": "Juicy, Tropical, Citrusy.",
+  "id": 262,
+  "name": "Small Batch: Vermont IPA V2.0",
+  "tagline": "Juicy, Citrusy, Tropical.",
   "first_brewed": "2017",
-  "description": "A vermont style IPA, with low background bitterness, loaded with intense juicy fruit character.",
+  "description": "A second trial of our previous Small Batch Vermont IPA using a different yeast strain. A vermont style IPA, with low background bitterness, loaded with intense juicy fruit characters.",
   "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 6.9,
   "ibu": 35,
   "target_fg": 1012,
   "target_og": 1066,
   "ebc": 15,
-  "srm": 7.62,
+  "srm": 7.6,
   "ph": 4.2,
   "attenuation_level": 79,
   "volume": {
@@ -25,7 +25,7 @@
     "mash_temp": [
       {
         "temp": {
-          "value": 65,
+          "value": 68,
           "unit": "celsius"
         },
         "duration": 75
@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Ale",
+        "name": "Pale Ale Propino",
         "amount": {
           "value": 3.3,
           "unit": "kilograms"
@@ -144,13 +144,13 @@
         "attribute": "Aroma"
       }
     ],
-    "yeast": "Wyeast 1056 - American Ale™"
+    "yeast": "WLP4000 - Vermont Ale"
   },
   "food_pairing": [
     "Chicken Korma",
-    "Lobster Tail Salad",
-    "Chickpea and Apricot Tagine"
+    "Lobster Salad",
+    "Chicken and Apricot Tagine"
   ],
-  "brewers_tips": "Add the dry hops in separate muslin bags to increase surface area contact and reduce the amount of hop matter in the beer after dry hopping without reducing the characteristic hazy look of the beer.",
+  "brewers_tips": "",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

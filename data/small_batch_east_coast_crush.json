@@ -1,16 +1,16 @@
 {
-  "id": 256,
-  "name": "Small Batch: Vermont IPA",
-  "tagline": "Juicy, Tropical, Citrusy.",
+  "id": 264,
+  "name": "Small Batch: East Coast Crush",
+  "tagline": "Session Vermont IPA.",
   "first_brewed": "2017",
-  "description": "A vermont style IPA, with low background bitterness, loaded with intense juicy fruit character.",
+  "description": "East Coast Crush is a Vermont style pale ale, packaged and served using our custom LIVE beer dispense. A session Vermont IPA, with low background bitterness, loaded with intense juicy mango, pineapple, peach and pine.",
   "image_url": "https://images.punkapi.com/v2/keg.png",
-  "abv": 6.9,
-  "ibu": 35,
-  "target_fg": 1012,
-  "target_og": 1066,
+  "abv": 4.8,
+  "ibu": 25,
+  "target_fg": 1010,
+  "target_og": 1047,
   "ebc": 15,
-  "srm": 7.62,
+  "srm": 8,
   "ph": 4.2,
   "attenuation_level": 79,
   "volume": {
@@ -25,10 +25,10 @@
     "mash_temp": [
       {
         "temp": {
-          "value": 65,
+          "value": 64,
           "unit": "celsius"
         },
-        "duration": 75
+        "duration": 30
       }
     ],
     "fermentation": {
@@ -44,59 +44,44 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 3.3,
+          "value": 3.24,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Marris Otter",
+        "name": "Uncrushed Wheat",
         "amount": {
-          "value": 0.8,
-          "unit": "kilograms"
-        }
-      },
-      {
-        "name": "Wheat",
-        "amount": {
-          "value": 0.5,
+          "value": 0.6,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.2,
+          "value": 0.24,
           "unit": "kilograms"
         }
       }
+
     ],
     "hops": [
-      {
-        "name": "Chinook",
-        "amount": {
-          "value": 1,
-          "unit": "grams"
-        },
-        "add": "Middle",
-        "attribute": "Aroma"
-      },
       {
         "name": "Chinook",
         "amount": {
           "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "Start",
+        "attribute": "Aroma"
       },
       {
-        "name": "Amarillo",
+        "name": "Mandarina Bavaria",
         "amount": {
-          "value": 30,
+          "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "Start",
+        "attribute": "Aroma"
       },
       {
         "name": "Simcoe",
@@ -104,8 +89,8 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "Start",
+        "attribute": "Aroma"
       },
       {
         "name": "Citra",
@@ -117,7 +102,7 @@
         "attribute": "Aroma"
       },
       {
-        "name": "Amarillo",
+        "name": "Mandarina Bavaria",
         "amount": {
           "value": 50,
           "unit": "grams"
@@ -147,10 +132,10 @@
     "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": [
-    "Chicken Korma",
-    "Lobster Tail Salad",
-    "Chickpea and Apricot Tagine"
+    "Chickpea and Apricot Tagine",
+    "Pan-fried Lemon Sole",
+    "Lobster Salad"
   ],
-  "brewers_tips": "Add the dry hops in separate muslin bags to increase surface area contact and reduce the amount of hop matter in the beer after dry hopping without reducing the characteristic hazy look of the beer.",
+  "brewers_tips": "Vermont Yeast, whilst desirable for this style of beer, is not absolutely necessary. The murk of a NEIPA can be achieved by malt selection and your process.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

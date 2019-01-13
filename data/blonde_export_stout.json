@@ -1,0 +1,147 @@
+{
+  "id": 270,
+  "name": "Blonde Export Stout",
+  "tagline": "Beatnik Brewing Collective 2017.",
+  "first_brewed": "2017",
+  "description": "Our Equity Punk gypsy brewery - Beatnik Brewing Collective - voted for this recipe as their 2017 annual brew. A blonde stout brewed to export strength, the stout character comes from extra ingredients instead of dark malts.",
+  "image_url": "",
+  "abv": 7,
+  "ibu": 55,
+  "target_fg": 1020,
+  "target_og": 1075,
+  "ebc": 16,
+  "srm": 8,
+  "ph": 4.4,
+  "attenuation_level": 73,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 30
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.300,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.800,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.800,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked",
+        "amount": {
+          "value": 0.200,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnun",
+        "amount": {
+          "value": 7,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 33,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Callista",
+        "amount": {
+          "value": 33,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Ground Coffee",
+        "amount": {
+          "value": 33,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Cocoa Nibs",
+        "amount": {
+          "value": 33,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Oak Chips",
+        "amount": {
+          "value": 33,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Vanilla",
+        "amount": {
+          "value": 3,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Duck Crackling",
+    "Coq Au Vin",
+    "Oreo Cheesecake"
+  ],
+  "brewers_tips": "An oxymoron of a beer. The cocoa nibs are vital in providing that stout like flavour without the associated colour.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

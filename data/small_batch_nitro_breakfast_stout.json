@@ -1,0 +1,143 @@
+{
+  "id": 261,
+  "name": "Small Batch: Nitro Breakfast Stout",
+  "tagline": "Boozy Chocolate Milkshake.",
+  "first_brewed": "2017",
+  "description": "An utterly indulgent, smooth as hell Stout. With opulent flavours of chocolate milkshake, roasty espresso coffee, and mellow vanilla, this beer has a full-bodied and creamy mouthfeel.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 8,
+  "ibu": 80,
+  "target_fg": 1027,
+  "target_og": 1092,
+  "ebc": 88,
+  "srm": 44.7,
+  "ph": 5.2,
+  "attenuation_level": 70,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 4.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oats",
+        "amount": {
+          "value": 0.62,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.62,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Type I",
+        "amount": {
+          "value": 0.19,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 37.5,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Lactose",
+        "amount": {
+          "value": 262.5,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Vanilla Extract",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cacao Nibs",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Habanero Pulled Pork",
+    "Choc Chip Cookies,",
+    "Black Pudding Croquettes"
+  ],
+  "brewers_tips": "* Not a suitable replacement for an actual breakfast. Nitroing at home is, well, not impossible but unlikely. Luckily this beer tastes great when lightly carbonated too! Be prepared for a slow runoff and don’t skimp on the cacao!",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

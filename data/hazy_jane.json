@@ -1,18 +1,18 @@
 {
-  "id": 256,
-  "name": "Small Batch: Vermont IPA",
-  "tagline": "Juicy, Tropical, Citrusy.",
+  "id": 268,
+  "name": "Hazy Jane",
+  "tagline": "New England IPA.",
   "first_brewed": "2017",
-  "description": "A vermont style IPA, with low background bitterness, loaded with intense juicy fruit character.",
-  "image_url": "https://images.punkapi.com/v2/keg.png",
-  "abv": 6.9,
-  "ibu": 35,
-  "target_fg": 1012,
-  "target_og": 1066,
+  "description": "A Vermont style IPA, with low background bitterness, loaded with juicy fruit character. Pine, stonefruit, mango, light resin and hints of lime peel - this juicy IPA is low in bitterness, full-bodied and smooth, enhancing the soft ripe fruit flavours.",
+  "image_url": "",
+  "abv": 7.2,
+  "ibu": 30,
+  "target_fg": 1009,
+  "target_og": 1065,
   "ebc": 15,
-  "srm": 7.62,
+  "srm": 8,
   "ph": 4.2,
-  "attenuation_level": 79,
+  "attenuation_level": 86,
   "volume": {
     "value": 20,
     "unit": "liters"
@@ -25,15 +25,15 @@
     "mash_temp": [
       {
         "temp": {
-          "value": 65,
+          "value": 66,
           "unit": "celsius"
         },
-        "duration": 75
+        "duration": 25
       }
     ],
     "fermentation": {
       "temp": {
-        "value": 19,
+        "value": 21,
         "unit": "celsius"
       }
     },
@@ -44,28 +44,28 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 3.3,
+          "value": 3.960,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Marris Otter",
+        "name": "Maris Otter",
         "amount": {
-          "value": 0.8,
+          "value": 0.960,
           "unit": "kilograms"
         }
       },
       {
         "name": "Wheat",
         "amount": {
-          "value": 0.5,
+          "value": 0.600,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.2,
+          "value": 0.240,
           "unit": "kilograms"
         }
       }
@@ -77,8 +77,8 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Aroma"
+        "add": "10",
+        "attribute": "Flavour"
       },
       {
         "name": "Chinook",
@@ -86,29 +86,38 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "0",
+        "attribute": "Aroma"
       },
       {
         "name": "Amarillo",
         "amount": {
-          "value": 30,
+          "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "0",
+        "attribute": "Aroma"
       },
       {
         "name": "Simcoe",
         "amount": {
-          "value": 30,
+          "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "0",
+        "attribute": "Aroma"
       },
       {
         "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
         "amount": {
           "value": 50,
           "unit": "grams"
@@ -133,24 +142,15 @@
         },
         "add": "Dry Hop",
         "attribute": "Aroma"
-      },
-      {
-        "name": "Simcoe",
-        "amount": {
-          "value": 50,
-          "unit": "grams"
-        },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": [
-    "Chicken Korma",
-    "Lobster Tail Salad",
-    "Chickpea and Apricot Tagine"
+    "Goat's Cheese Bruschetta",
+    "Pan-Fried Lemon Sole",
+    "Baked Peaches With Citrus Fruit"
   ],
-  "brewers_tips": "Add the dry hops in separate muslin bags to increase surface area contact and reduce the amount of hop matter in the beer after dry hopping without reducing the characteristic hazy look of the beer.",
+  "brewers_tips": "This beer is supposed to be very cloudy. Don’t be shy to get a good bit of the hot break into the fermenter.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

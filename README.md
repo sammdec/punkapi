@@ -41,7 +41,7 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 245 of 325 completed
+> Status: 270 of 325 completed
 
 * [x] 001 - Punk IPA 2007 – 2010
 * [x] 002 - Punk IPA 2010 – current
@@ -303,16 +303,16 @@ These are user contributed wrappers for the API
 * [x] 258 - Paradox Rye
 * [x] 259 - Tropic Thunder
 * [x] 260 - New England IPA
-* [ ] 261 - Nitro Breakfast Stout
-* [ ] 262 - Vermont IPA V2.0
-* [ ] 263 - Small Batch: Mandarina Lager 
-* [ ] 264 - East Coast Crush
-* [ ] 265 - Pump Action Poet
-* [ ] 266 - Small Batch: Lemon Meringue Pie 
-* [ ] 267 - AB:22
-* [ ] 268 - Hazy Jane
-* [ ] 269 - Small Batch: Imperial Pale Weizen
-* [ ] 270 - Blonde Export Stout
+* [x] 261 - Small Batch: Nitro Breakfast Stout
+* [x] 262 - Small Batch: Vermont IPA V2.0
+* [x] 263 - Small Batch: Mandarina Lager 
+* [x] 264 - Small Batch: East Coast Crush
+* [x] 265 - Pump Action Poet
+* [x] 266 - Small Batch: Lemon Meringue Pie 
+* [x] 267 - AB:22
+* [x] 268 - Hazy Jane
+* [x] 269 - Small Batch: Imperial Pale Weizen
+* [x] 270 - Blonde Export Stout
 * [ ] 271 - Small Batch: Cranachan Cream Ale
 * [ ] 272 - Small Batch: Spelt & Honey Saison
 * [ ] 273 - Prototype Double IPA
