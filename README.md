@@ -26,8 +26,6 @@ $ npm i --save punkapi-db
 const punkapi = require('punkapi-db')
 ```
 
-If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
-
 ## Libraries
 
 These are user contributed wrappers for the API
@@ -41,7 +39,9 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 270 of 325 completed
+> Status: 280 of 325 completed
+
+If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
 * [x] 001 - Punk IPA 2007 – 2010
 * [x] 002 - Punk IPA 2010 – current
@@ -313,16 +313,16 @@ These are user contributed wrappers for the API
 * [x] 268 - Hazy Jane
 * [x] 269 - Small Batch: Imperial Pale Weizen
 * [x] 270 - Blonde Export Stout
-* [ ] 271 - Small Batch: Cranachan Cream Ale
-* [ ] 272 - Small Batch: Spelt & Honey Saison
-* [ ] 273 - Prototype Double IPA
-* [ ] 274 - Prototype Black Rye IPA
-* [ ] 275 - Sidewalk Shark
-* [ ] 276 - Nine To Five Wizard
-* [ ] 277 - Prototype Blonde Ale
-* [ ] 278 - AB:23
-* [ ] 279 - Slot Machine
-* [ ] 280 - Make Earth Great Again
+* [x] 271 - Small Batch: Cranachan Cream Ale
+* [x] 272 - Small Batch: Spelt & Honey Saison
+* [x] 273 - Prototype Double IPA
+* [x] 274 - Prototype Black Rye IPA
+* [x] 275 - Sidewalk Shark
+* [x] 276 - Nine To Five Wizard
+* [x] 277 - Prototype Blonde Ale
+* [x] 278 - AB:23
+* [x] 279 - Slot Machine
+* [x] 280 - Make Earth Great Again
 * [ ] 281 - Homicidal Puppet Help Desk
 * [ ] 282 - Pina Colada Sidewalk Shark
 * [ ] 283 - AB:24

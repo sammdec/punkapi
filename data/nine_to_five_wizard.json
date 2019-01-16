@@ -1,0 +1,140 @@
+{
+  "id": 276,
+  "name": "Nine To Five Wizard",
+  "tagline": "India Pale Weizen.",
+  "first_brewed": "2017",
+  "description": "A classic German weissbeir with aromas of banana and clove, layered with New World hop aromas of orange.",
+  "image_url": "",
+  "abv": 7.5,
+  "ibu": 35,
+  "target_fg": 1012,
+  "target_og": 1069,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.3,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 24,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 2.340,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roast Crystal",
+        "amount": {
+          "value": 0.120,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 8,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 3638 Bavarian Wheat"
+  },
+  "food_pairing": [
+    "Grilled Portobello Mushroom Burger",
+    "Citrus Salad With Balsamic Dressing",
+    "Ginger And Orange Cookies"
+  ],
+  "brewers_tips": "If you want more phenolic (Banana & Spice) flavours, ferment at a higher temperature. If you want more fruit esters, keep the fermentation lower and under control.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

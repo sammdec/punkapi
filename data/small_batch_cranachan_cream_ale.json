@@ -1,0 +1,149 @@
+{
+  "id": 271,
+  "name": "Small Batch: Cranachan Cream Ale",
+  "tagline": "Raspberry Cream Ale.",
+  "first_brewed": "2017",
+  "description": "A cream ale, brewed with raspberry and milk sugars, balancing sweet and tart summer berry with soft bitterness and a full bodied smooth mouthfeel.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 6.5,
+  "ibu": 8,
+  "target_fg": 1019,
+  "target_og": 1069,
+  "ebc": 10,
+  "srm": 5,
+  "ph": 4.3,
+  "attenuation_level": 72,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 4.533,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrified Wheat",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Milk Sugars",
+        "amount": {
+          "value": 500,
+          "unit": "grams"
+        },
+        "add": "Flame out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Raspberry Juice",
+        "amount": {
+          "value": 3000,
+          "unit": "grams"
+        },
+        "add": "Flame out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Gingerbread Man",
+    "Feta And Tomato Salad With Balsamic Dressing",
+    "Raspberry Parfait"
+  ],
+  "brewers_tips": "Add heather honey to your boil to make this beer even better!!!",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

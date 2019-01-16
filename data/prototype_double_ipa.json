@@ -1,0 +1,151 @@
+{
+  "id": 273,
+  "name": "Prototype Double IPA",
+  "tagline": "American Hop Overload.",
+  "first_brewed": "2017",
+  "description": "Our Prototype Challenge sees us pit three new trial beers against each other. This Double IPA is packed with a blend of our favourite American hops and has a huge dry- hop aroma.",
+  "image_url": "",
+  "abv": 8.5,
+  "ibu": 60,
+  "target_fg": 1007,
+  "target_og": 1073,
+  "ebc": 15,
+  "srm": 8,
+  "ph": 4.2,
+  "attenuation_level": 90,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 65
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.920,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 0.720,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 66,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 66,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 66,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Hot Wings And Blue Cheese Dip",
+    "Black Pudding Burger",
+    "Sticky Toffee Pudding And Salted Caramel Ice Cream"
+  ],
+  "brewers_tips": "The hopping rate should leave a light residual haze in your beer after maturation. Don’t worry, this comes from the hop compounds, haze is taste.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

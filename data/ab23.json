@@ -1,0 +1,134 @@
+{
+  "id": 278,
+  "name": "AB:23",
+  "tagline": "Bourbon Barrel-Aged Barley Wine.",
+  "first_brewed": "2017",
+  "description": "Our Abstrakt series showcases one-off beers, brewed or blended to the peak of our abilities. Each release is unique and never to be repeated.",
+  "image_url": "",
+  "abv": 11.5,
+  "ibu": 80,
+  "target_fg": 1020,
+  "target_og": 1110,
+  "ebc": 80,
+  "srm": 41,
+  "ph": 4.1,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 9.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roasted Crystal",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Honey",
+        "amount": {
+          "value": 400,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "American Oak Chips Medium Toast Soaked in Bourbon",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Wood Ageing",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Stilton and Walnut Welsh Rarebit.",
+    "Cherry Chocolate Cake With Chocolate Whipped Mousse",
+    "Simnel Cake"
+  ],
+  "brewers_tips": "Never put honey into your beer without pasteurising it. It is full of wild yeasts that are waiting to spoil your hard work.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

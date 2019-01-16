@@ -1,0 +1,111 @@
+{
+  "id": 272,
+  "name": "Small Batch: Spelt & Honey Saison",
+  "tagline": "Honey & Spelt Saison",
+  "first_brewed": "2017",
+  "description": "A pilot kit Small Batch, experimenting with weizen yeast, honey and spelt.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 5.2,
+  "ibu": 22,
+  "target_fg": 1008,
+  "target_og": 1046,
+  "ebc": 8,
+  "srm": 4,
+  "ph": 4.1,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 1.700,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Spelt",
+        "amount": {
+          "value": 1.133,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "White Wheat",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Golden Honey",
+        "amount": {
+          "value": 200,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "WLP351 - Bavarian Weizen"
+  },
+  "food_pairing": [
+    "Pancakes",
+    "Honey Mustard Chicken",
+    "Crème Brûlée"
+  ],
+  "brewers_tips": "Spelt malt can slow your run off, similar to Rye. Take your time or add some extra malt to compensate for lower efficiency.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
