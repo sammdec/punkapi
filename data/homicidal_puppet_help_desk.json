@@ -1,0 +1,104 @@
+{
+  "id": 281,
+  "name": "Homicidal Puppet Help Desk",
+  "tagline": "Barrel-Aged Rye Barley Wine.",
+  "first_brewed": "2017",
+  "description": "Indulgent, complex, and endlessly rewarding; packed with flavours of toffee, coconut, red berry, burnt sugar, marzipan, orange, cherry - American oak adds structure and depth to this chewy and warming barley wine brewed with rye and aged in rye whiskey cask.",
+  "image_url": "",
+  "abv": 11.5,
+  "ibu": 132,
+  "target_fg": 1020,
+  "target_og": 1105,
+  "ebc": 45,
+  "srm": 23,
+  "ph": 4.1,
+  "attenuation_level": 81,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 60
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 8.160,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 1.440,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.120,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "American Oak Chips Heavy Toast Soaked in Bourbon",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Wood Ageing",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Stilton and Walnut Welsh Rarebit.",
+    "Cherry Chocolate Cake With Chocolate Whipped Mousse",
+    "Simnel Cake"
+  ],
+  "brewers_tips": "Be careful with brown malt. If you put too much in, it can very easily turn a fantastic tasting beer into a beer that tastes like someone has poured a pint into an ash tray, swirled it around and put it back into your pint.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

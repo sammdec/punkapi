@@ -1,0 +1,154 @@
+{
+  "id": 282,
+  "name": "Pina Colada Sidewalk",
+  "tagline": "Pineapple & Coconut Gose.",
+  "first_brewed": "2017",
+  "description": "After the success of the first version of Sidewalk Shark (a BrewDog bar exclusive), we decided to brew a second version, this time infused with tropical flavours of pineapple, coconut and lime.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 5.2,
+  "ibu": 10,
+  "target_fg": 1008,
+  "target_og": 1055,
+  "ebc": 15,
+  "srm": 7,
+  "ph": 3.8,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 60
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.627,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrified Wheat",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Acidulated",
+        "amount": {
+          "value": 0.287,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.136,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.287,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Lemon Peel",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Coriander Seed",
+        "amount": {
+          "value": 0.5,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Coconut Extract",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Pineapple Juice",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "White Chocolate and Pistachio Cheesecake",
+    "Baked Tilapia With Lemon and Cream Sauce",
+    "Vegan Mac and ‘Cheese’"
+  ],
+  "brewers_tips": "Be careful with your salt additions. A very light saltiness aids the refreshing character. It should not overpower or drive you to seek another different beer to refresh your palate.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
