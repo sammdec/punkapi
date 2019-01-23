@@ -1,0 +1,102 @@
+{
+  "id": 299,
+  "name": "Raspberry Popsicle Parade",
+  "tagline": "Raspberry Berliner Weisse.",
+  "first_brewed": "2018",
+  "description": "A draft-only kettle-soured raspberry ale, brewed to just 0.5% ABV, using our knowledge from brewing both Blitz and Nanny State. Aromas of fresh raspberry juice, soft red berries, and a blast of lemon zest, with a juicy palate encompassing zingy acidity and the smooth velvety note of oats, rounding out this low-ABV juicebox.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 0.5,
+  "ibu": 8,
+  "target_fg": 1005,
+  "target_og": 1009,
+  "ebc": 8,
+  "srm": 4,
+  "ph": 3.5,
+  "attenuation_level": 44,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 80
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 0.227,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrified Wheat",
+        "amount": {
+          "value": 0.227,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carapils",
+        "amount": {
+          "value": 0.113,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.113,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "45",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Raspberry Juice",
+        "amount": {
+          "value": 800,
+          "unit": "grams"
+        },
+        "add": "Kettle",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Walnut and goat's cheese salad with pomegranate dressing",
+    "Cranachan pudding",
+    "Panna cotta"
+  ],
+  "brewers_tips": "If you don’t need it to be low ABV, try tripling the amount of malt to get more body. Experiment with different sources for lactic acid bacteria, like unpasteurised yogurt or sour dough.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

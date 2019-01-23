@@ -1,0 +1,142 @@
+{
+  "id": 291,
+  "name": "Hello My Name Is Sofia",
+  "tagline": "Lemon Infused Double IPA.",
+  "first_brewed": "2017",
+  "description": "Brewed exclusively for the Italian market, this Hello My Name brew features a twist of flavours inspired by Italy.",
+  "image_url": "",
+  "abv": 8.2,
+  "ibu": 70,
+  "target_fg": 1009,
+  "target_og": 1070,
+  "ebc": 15,
+  "srm": 8,
+  "ph": 4.4,
+  "attenuation_level": 87,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 65
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.52,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.12,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 24,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": {
+          "value": 200,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Deep-fried calamari",
+    "Paneer skewers with cardamom",
+    "Plum cobbler"
+  ],
+  "brewers_tips": "Keep an eye on your pH as you are adding your lemon juice. Yeast can tolerate low pH conditions but the length of fermentation may take longer than normal.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

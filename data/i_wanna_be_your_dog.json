@@ -1,0 +1,146 @@
+{
+  "id": 293,
+  "name": "I Wanna Be Your Dog",
+  "tagline": "Omnipollo X BrewDog - Barrel Aged Imperial Stout.",
+  "first_brewed": "2017",
+  "description": "A collaboration with Omnipollo, known for their uncanny ability to repilcate dessert flavours in indulgent beers. This caramel and pecan flavoured imperial stout has been barrel aged for almost a year in whisky casks, to add an extra level of depth to the pecan mud pie concept.",
+  "image_url": "",
+  "abv": 12,
+  "ibu": 55,
+  "target_fg": 1035,
+  "target_og": 1125,
+  "ebc": 600,
+  "srm": 305,
+  "ph": 4.1,
+  "attenuation_level": 72,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 5.760,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.200,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 1.080,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.720,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Dark Crystal",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dextrin",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dpouble Roasted Crystal",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "American Oak Chips Medium Toast soaked in Speyside Whisky",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Wood Ageing",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "American Oak Chips Heavy Toast soaked in Speyside Whisky",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Wood Ageing",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Pecan muffins with chocolate ganache",
+    "Salted caramels",
+    "Hazelnut truffles"
+  ],
+  "brewers_tips": "Don’t be too quick to rack the beer off the yeast once your final gravity is reached. The stressed yeast will be absorbing a number of undesirable fermentation by-products such as acetaldehyde and diacetyl. Give them a minimum of 10 days at fermentation temperature to do this before cooling it down.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

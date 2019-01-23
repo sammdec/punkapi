@@ -1,0 +1,120 @@
+{
+  "id": 300,
+  "name": "Indie Pale Ale",
+  "tagline": "True Independent Craft.",
+  "first_brewed": "2018",
+  "description": "A non-dry-hopped pale ale, using new hopping technqiues and in- depth fermentation know-how.",
+  "image_url": "",
+  "abv": 4.2,
+  "ibu": 30,
+  "target_fg": 1008,
+  "target_og": 1044,
+  "ebc": 16.6,
+  "srm": 8,
+  "ph": 4.6,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.120,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.300,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.300,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.300,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 11,
+          "unit": "grams"
+        },
+        "add": "65",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 3,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 28,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Tempura seafood",
+    "Ham and cheese toastie",
+    "Lemon custard tart"
+  ],
+  "brewers_tips": "This beer is charactised by the subtle aromas derived from yeast. Ensure you have fresh healthy yeast and good temperature control to replicate these flavours.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
