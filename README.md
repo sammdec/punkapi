@@ -39,7 +39,7 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 280 of 325 completed
+> Status: 300 of 325 completed
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
@@ -323,26 +323,26 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 278 - AB:23
 * [x] 279 - Slot Machine
 * [x] 280 - Make Earth Great Again
-* [ ] 281 - Homicidal Puppet Help Desk
-* [ ] 282 - Pina Colada Sidewalk Shark
-* [ ] 283 - AB:24
-* [ ] 284 - Hello My Name Is Helga
-* [ ] 285 - Hello My Name Is Sari
-* [ ] 286 - Hello My Name Is Aune
-* [ ] 287 - Hello My Name Is Marianne
-* [ ] 288 - Hello My Name Is Agnetha
-* [ ] 289 - Hello My Name Is Lieke
-* [ ] 290 - Hello My Name Is Niamh
-* [ ] 291 - Hello My Name Is Sofia
-* [ ] 292 - Hello My Name Is Maria
-* [ ] 293 - I Wanna Be Your Dog
-* [ ] 294 - Opaque Jake
-* [ ] 295 - Choco Libre
-* [ ] 296 - Off-Duty Alien
-* [ ] 297 - East Of Vermont
-* [ ] 298 - Declassified Demi-God
-* [ ] 299 - Raspberry Popsicle Parade
-* [ ] 300 - Indie Pale Ale
+* [x] 281 - Homicidal Puppet Help Desk
+* [x] 282 - Pina Colada Sidewalk Shark
+* [x] 283 - AB:24
+* [x] 284 - Hello My Name Is Helga
+* [x] 285 - Hello My Name Is Sari
+* [x] 286 - Hello My Name Is Aune
+* [x] 287 - Hello My Name Is Marianne
+* [x] 288 - Hello My Name Is Agnetha
+* [x] 289 - Hello My Name Is Lieke
+* [x] 290 - Hello My Name Is Niamh
+* [x] 291 - Hello My Name Is Sofia
+* [x] 292 - Hello My Name Is Maria
+* [x] 293 - I Wanna Be Your Dog
+* [x] 294 - Opaque Jake
+* [x] 295 - Choco Libre
+* [x] 296 - Off-Duty Alien
+* [x] 297 - East Of Vermont
+* [x] 298 - Declassified Demi-God
+* [x] 299 - Raspberry Popsicle Parade
+* [x] 300 - Indie Pale Ale
 * [ ] 301 - Small Batch: Dry-Hopped Pilsner
 * [ ] 302 - Hazy Jane Bourbon Barrel Aged
 * [ ] 303 - Hazy Jane Rye Barrel Aged
