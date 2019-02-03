@@ -39,7 +39,7 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 300 of 325 completed
+> Status: 305 of 325 completed
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
@@ -343,11 +343,11 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 298 - Declassified Demi-God
 * [x] 299 - Raspberry Popsicle Parade
 * [x] 300 - Indie Pale Ale
-* [ ] 301 - Small Batch: Dry-Hopped Pilsner
-* [ ] 302 - Hazy Jane Bourbon Barrel Aged
-* [ ] 303 - Hazy Jane Rye Barrel Aged
-* [ ] 304 - Karma Cloud
-* [ ] 305 - Native Son
+* [x] 301 - Small Batch: Dry-Hopped Pilsner
+* [x] 302 - Hazy Jane Bourbon Barrel Aged
+* [x] 303 - Hazy Jane Rye Barrel Aged
+* [x] 304 - Karma Cloud
+* [x] 305 - Native Son
 * [ ] 306 - AB:25
 * [ ] 307 - Kamikaze Knitting Club
 * [ ] 308 - Very Big Moose
