@@ -348,11 +348,11 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 303 - Hazy Jane Rye Barrel Aged
 * [x] 304 - Karma Cloud
 * [x] 305 - Native Son
-* [ ] 306 - AB:25
-* [ ] 307 - Kamikaze Knitting Club
-* [ ] 308 - Very Big Moose
-* [ ] 309 - Paradox Grain 2018
-* [ ] 310 - Clockwork Tangerine
+* [x] 306 - AB:25
+* [x] 307 - Kamikaze Knitting Club
+* [x] 308 - Very Big Moose
+* [x] 309 - Paradox Grain 2018
+* [x] 310 - Clockwork Tangerine
 * [ ] 311 - Sonic Boom
 * [ ] 312 - Dog G
 * [ ] 313 - Mallow Mafia BrewDog Vs Amundsen

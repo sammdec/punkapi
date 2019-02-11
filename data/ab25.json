@@ -1,0 +1,116 @@
+{
+  "id": 306,
+  "name": "AB:25",
+  "tagline": "Bourbon Barrel-Aged Barley Wine.",
+  "first_brewed": "2018",
+  "description": "A super-smooth, full-bodied chewy- as-hell barley wine. Our latest concept brew spent 6 months drawing flavour from bourbon barrels.",
+  "image_url": "",
+  "abv": 13.3,
+  "ibu": 35,
+  "target_fg": 1020,
+  "target_og": 1113,
+  "ebc": 90,
+  "srm": 46,
+  "ph": 4.2,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 100
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 8.400,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 1.200,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.960,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.720,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roasted Crystal",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Darl Crystal",
+        "amount": {
+          "value": 0.360,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Coarse pork pate with fresh crusty bread",
+    "Pecan pie",
+    "Beef burger topped with red onions and wasabi"
+  ],
+  "brewers_tips": "Waxing the bottle/cap helps to exclude oxygen ingress through the cap if you are looking to cellar the beer for a long time.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

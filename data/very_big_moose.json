@@ -1,0 +1,113 @@
+{
+  "id": 308,
+  "name": "Very Big Moose",
+  "tagline": "Chocolate Imperial Stout.",
+  "first_brewed": "2018",
+  "description": "A rebrew of the Fierce Beer & Flagship bar Collabfest 2017 winning beer, Very Big Moose is being scaled up to our Ellon brewhouse.",
+  "image_url": "",
+  "abv": 12,
+  "ibu": 25,
+  "target_fg": 1038,
+  "target_og": 1128,
+  "ebc": 100,
+  "srm": 50,
+  "ph": 4.4,
+  "attenuation_level": 70,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 40
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 7.38,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Weyermann Special III",
+        "amount": {
+          "value": 1.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.462,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Cocoa Nibs",
+        "amount": {
+          "value": 115,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Sodium Chloride",
+        "amount": {
+          "value": 8,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cinnamon Powder",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Rich vanilla ice cream. Neat (or make a float)",
+    "Roast venison with a chocolate sauce",
+    "The biggest darkest chocolate cake you can find"
+  ],
+  "brewers_tips": "Its probably best to parti-gyle this beer as this will have a run off time of 6 hours+!!! Set up the mash and see what is collected overnight, then add more hot water to do your second mash and make a low (3%) beer from your residual extract.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
