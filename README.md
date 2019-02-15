@@ -39,7 +39,7 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 305 of 325 completed
+> Status: 310 of 325 completed
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
@@ -47,7 +47,7 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 002 - Punk IPA 2010 – current
 * [x] 003 - The Physics
 * [x] 004 - Riptide
-* [x] 005 - Hop Rocker
+* [x] 005 - Hop Rocker  
 * [x] 006 - Paradox Islay
 * [x] 007 - Paradox Jura
 * [x] 008 - Peroxide Punk
@@ -353,11 +353,11 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 308 - Very Big Moose
 * [x] 309 - Paradox Grain 2018
 * [x] 310 - Clockwork Tangerine
-* [ ] 311 - Sonic Boom
-* [ ] 312 - Dog G
-* [ ] 313 - Mallow Mafia BrewDog Vs Amundsen
-* [ ] 314 - Manic Mango BrewDog Vs Brewski
-* [ ] 315 - Baltic Fleet BrewDog Vs Bevog
+* [x] 311 - Sonic Boom
+* [x] 312 - Dog G
+* [x] 313 - Mallow Mafia BrewDog Vs Amundsen
+* [x] 314 - Manic Mango BrewDog Vs Brewski
+* [x] 315 - Baltic Fleet BrewDog Vs Bevog
 * [ ] 316 - SOS (May Day!) BrewDog Vs Brlo
 * [ ] 317 - Al Adjore! BrewDog Vs Lapir Ata
 * [ ] 318 - Neverland BrewDog Vs Oedipus
