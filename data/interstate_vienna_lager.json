@@ -1,0 +1,118 @@
+{
+  "id": 323,
+  "name": "Interstate Vienna Lager.",
+  "tagline": "Vienna Lager.",
+  "first_brewed": "2018",
+  "description": "A new 5% ABV Vienna Lager, that features in Fanzine, our new subscription model.",
+  "image_url": "",
+  "abv": 5,
+  "ibu": 25,
+  "target_fg": 1007,
+  "target_og": 1045,
+  "ebc": 14,
+  "srm": 7,
+  "ph": 4.2,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 67,
+          "unit": "celsius"
+        },
+        "duration": 70
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 1.560,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Vienna",
+        "amount": {
+          "value": 1.560,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carahell",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "CaraRed",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "65",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Hallertauer Mittelfruh",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 2126 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "Grilled chicken and steamed vegetables",
+    "Pork sausages",
+    "Almond biscotti"
+  ],
+  "brewers_tips": "Instead of using Pilsner, try to substitute this out for more Vienna malt. This is more traditional but you should calculate your diastatic power for your new mash. Ideally it should be a minimum of 30 to 50 Lintner.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

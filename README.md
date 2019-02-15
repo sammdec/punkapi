@@ -39,7 +39,7 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 320 of 325 completed
+> Status: 325 of 325 completed
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
@@ -363,11 +363,11 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 318 - Neverland BrewDog Vs Oedipus
 * [x] 319 - Grano Giusto BrewDog Vs Birrificio Italiano
 * [x] 320 - King Of Eights
-* [ ] 321 - Jinx Pale Ale
-* [ ] 322 - Jet Trash
-* [ ] 323 - Interstate Vienna Lager
-* [ ] 324 - Fools Gold Dortmunder Lager
-* [ ] 325 - Zipcode
+* [x] 321 - Jinx Pale Ale
+* [x] 322 - Jet Trash
+* [x] 323 - Interstate Vienna Lager
+* [x] 324 - Fools Gold Dortmunder Lager
+* [x] 325 - Zipcode
 
 ## License
 

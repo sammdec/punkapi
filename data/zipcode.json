@@ -1,0 +1,115 @@
+{
+  "id": 325,
+  "name": "Zipcode",
+  "tagline": "Pilsner.",
+  "first_brewed": "2018",
+  "description": "A new 5% Pilsner, that feaures in Fanzine, our new subscription model.",
+  "image_url": "",
+  "abv": 5,
+  "ibu": 37,
+  "target_fg": 1006,
+  "target_og": 1044,
+  "ebc": 5,
+  "srm": 3,
+  "ph": 4.4,
+  "attenuation_level": 86,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 50,
+          "unit": "celsius"
+        },
+        "duration": 50
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 11,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.540,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carapils",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Spalter",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Spalter",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Saphire",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Saphire",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "]Saflager W-34/70"
+  },
+  "food_pairing": [
+    "Goat's cheese salad",
+    "Pesto pasta",
+    "Lemon cookies"
+  ],
+  "brewers_tips": "Saphir hops are not widespread at the moment if you cannot get hold of any, a good batch of Mittlefruh is a fair substitute.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

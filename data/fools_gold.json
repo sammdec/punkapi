@@ -1,0 +1,97 @@
+{
+  "id": 324,
+  "name": "Fools Gold Dortmunder Lager",
+  "tagline": "Lager.",
+  "first_brewed": "2018",
+  "description": "A new 5.6% Dortmunder Lager, that featues in Fanzine, our new subscription model.",
+  "image_url": "",
+  "abv": 5.6,
+  "ibu": 32,
+  "target_fg": 1009,
+  "target_og": 1052,
+  "ebc": 11,
+  "srm": 6,
+  "ph": 4.2,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 45
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 14,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.360,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 1.200,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bitering"
+      },
+      {
+        "name": "Sterling",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Sterling",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Saflager W-34/70"
+  },
+  "food_pairing": [
+    "Seafood salad",
+    "Sweet and sour pork",
+    "Lemon drizzle cake"
+  ],
+  "brewers_tips": "Make sure you burtonise your water as Dortmund's water contains a fairly high amount of sulphates. Carbonate this to approximately 2.6 volumes",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
