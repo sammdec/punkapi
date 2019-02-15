@@ -1,0 +1,104 @@
+{
+  "id": 320,
+  "name": "King of Eights",
+  "tagline": "East Coast IPA",
+  "first_brewed": "2018",
+  "description": "A new 7.4% ABV East Coast IPA, King of Eights is one of the core Fanzine beers, and will feature evolving editions as part of our new subscription model.",
+  "image_url": "",
+  "abv": 7.4,
+  "ibu": 20,
+  "target_fg": 1009,
+  "target_og": 1065,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.4,
+  "attenuation_level": 86,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 20
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.800,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.360,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 160,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Grilled lemon sole",
+    "Fish tacos",
+    "Crème brûlée"
+  ],
+  "brewers_tips": "Pectin powder can easily be sourced and is an easy alternative for a homebrewer to produce murky beer if you don’t have access to a low flocculating yeast.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

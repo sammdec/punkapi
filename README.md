@@ -39,7 +39,7 @@ These are user contributed wrappers for the API
 
 ## The Beers
 
-> Status: 310 of 325 completed
+> Status: 320 of 325 completed
 
 If you find an issue with a recipe, please feel free to submit an [issue](https://github.com/samjbmason/punkapi-db/issues)
 
@@ -358,11 +358,11 @@ If you find an issue with a recipe, please feel free to submit an [issue](https:
 * [x] 313 - Mallow Mafia BrewDog Vs Amundsen
 * [x] 314 - Manic Mango BrewDog Vs Brewski
 * [x] 315 - Baltic Fleet BrewDog Vs Bevog
-* [ ] 316 - SOS (May Day!) BrewDog Vs Brlo
-* [ ] 317 - Al Adjore! BrewDog Vs Lapir Ata
-* [ ] 318 - Neverland BrewDog Vs Oedipus
-* [ ] 319 - Grano Giusto BrewDog Vs Birrificio Italiano
-* [ ] 320 - King Of Eights
+* [x] 316 - SOS (May Day!) BrewDog Vs Brlo
+* [x] 317 - Al Adjore! BrewDog Vs Lapir Ata
+* [x] 318 - Neverland BrewDog Vs Oedipus
+* [x] 319 - Grano Giusto BrewDog Vs Birrificio Italiano
+* [x] 320 - King Of Eights
 * [ ] 321 - Jinx Pale Ale
 * [ ] 322 - Jet Trash
 * [ ] 323 - Interstate Vienna Lager

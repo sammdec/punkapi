@@ -1,0 +1,126 @@
+{
+  "id": 317,
+  "name": "Al Adjore!",
+  "tagline": "Barley Wine",
+  "first_brewed": "2018",
+  "description": "BrewDog vs La Pirata. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. Our collab with Spanish brewes La Pirata features a barley wine, inspired by Muscatel.",
+  "image_url": "",
+  "abv": 9,
+  "ibu": 65,
+  "target_fg": 1018,
+  "target_og": 1085,
+  "ebc": 35,
+  "srm": 18,
+  "ph": 79,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 35
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": ""
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 7.080,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Light Crystal",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.120,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Sweet Orange Peel",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Hallertauer Blanc",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "French Oak Chips Medium Toast",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Wood Ageing",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Stilton and walnut salad",
+    "Toffee caramel cheesecake"
+  ],
+  "brewers_tips": "Sanitise the oak chips before adding them to the fermenter. Vodka is ideal as it’s a neutral spirit and can be drained off. If you don’t want to affect the ABV, try steaming them.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
