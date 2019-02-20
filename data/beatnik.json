@@ -37,7 +37,7 @@
         "unit": "celsius"
       }
     },
-    "twist": ""
+    "twist": "null"
   },
   "ingredients": {
     "malt": [
@@ -126,6 +126,6 @@
     "Warm Banana Bread",
     "Pineapple Sponge Cake"
   ],
-  "brewers_tips": "",
+  "brewers_tips": "Lightly toast the coconut chips to allow better interaction with the hot wort.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

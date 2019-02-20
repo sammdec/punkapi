@@ -37,7 +37,7 @@
         "unit": "celsius"
       }
     },
-    "twist": ""
+    "twist": "null"
   },
   "ingredients": {
     "malt": [
@@ -158,6 +158,6 @@
     "Classic Cheddar Ploughmans",
     "Pecan Pie"
   ],
-  "brewers_tips": "",
+  "brewers_tips": "Bring a few bottles to your local BrewDog bar when it's done and ask the staff if you got it right, they're the only ones who can tell you for sure! They'll also probably know of other homebrewers and beer enthusiasts nearby that you can link in with to share your experiences and get awesome first hand advice from.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }
