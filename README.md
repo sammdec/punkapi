@@ -36,6 +36,7 @@ These are user contributed wrappers for the API
 * Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 * PHP - [billythekid/PunkApi](https://github.com/billythekid/PunkApi)
 * JavaScript - [mikefrancis/brewdog.js](https://github.com/mikefrancis/brewdog.js)
+* Swift/iOS - [Oni-zerone/PunkAPI](https://github.com/Oni-zerone/PunkAPI)
 * Vue.JS - [yoohahn/VueDogs-API](https://github.com/yoohahn/VueDogs-API)
 * Docker - [yoohahn/brewdog-recipe](https://hub.docker.com/r/yoohahn/brewdog-recipe/)
 
@@ -57,7 +58,7 @@ These are user contributed wrappers for the API
 * [x] 012 - STORM
 * [x] 013 - CULT LAGER
 * [x] 014 - TRASHY BLONDE
-* [x] 015 - ORIGINAL DOGMA (NÉE SPEEDBALL)
+* [x] 015 - ORIGINAL DOGMA (NÉE SPEEDBALL)
 * [x] 016 - AB:03
 * [x] 017 - ZEITGEIST
 * [x] 018 - BAD PIXIE
@@ -191,12 +192,12 @@ These are user contributed wrappers for the API
 * [x] 146 - COMET
 * [x] 147 - HBC 366 IPA
 * [x] 148 - KOHATU
-* [x] 149 - HELLO MY NAME IS ZÉ (W/2CABEÇAS)
+* [x] 149 - HELLO MY NAME IS ZÉ (W/2CABEÇAS)
 * [x] 150 - ALPHA POP
 * [x] 151 - JASMINE IPA
 * [x] 152 - #MASHTAG 2014
 * [x] 153 - DOG C
-* [x] 154 - HELLO MY NAME IS PÄIVI
+* [x] 154 - HELLO MY NAME IS PÄIVI
 * [x] 155 - VOTE SEPP
 * [x] 156 - MAGIC STONE DOG (W/MAGIC ROCK & STONE BREWING CO.)
 * [x] 157 - RUSSIAN DOLL – BARLEY WINE
