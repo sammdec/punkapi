@@ -34,6 +34,7 @@ These are user contributed wrappers for the API
 * Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 * PHP - [billythekid/PunkApi](https://github.com/billythekid/PunkApi)
 * JavaScript - [mikefrancis/brewdog.js](https://github.com/mikefrancis/brewdog.js)
+* Swift/iOS - [Oni-zerone/PunkAPI](https://github.com/Oni-zerone/PunkAPI)
 * Vue.JS - [yoohahn/VueDogs-API](https://github.com/yoohahn/VueDogs-API)
 * Docker - [yoohahn/brewdog-recipe](https://hub.docker.com/r/yoohahn/brewdog-recipe/)
 
