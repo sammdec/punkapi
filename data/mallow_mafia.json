@@ -1,0 +1,172 @@
+{
+  "id": 313,
+  "name": "Mallow Mafia",
+  "tagline": "Russian Imperial Stout.",
+  "first_brewed": "2018",
+  "description": "BrewDog vs Amundsen. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. With Norwegian craft brewers Amundsen, we are creating a mash-up of two existing beers, resulting in a coffee, chocolate and marshmallow Russian Imperial Stout.",
+  "image_url": null,
+  "abv": 12,
+  "ibu": 75,
+  "target_fg": 1025,
+  "target_og": 1116,
+  "ebc": 390,
+  "srm": 198,
+  "ph": 4.4,
+  "attenuation_level": 78,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 135
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 5.880,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 1.680,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.960,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.960,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Black",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Dark Crystal",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oat Husks",
+        "amount": {
+          "value": 0.048,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Demerara Sugar",
+        "amount": {
+          "value": 750,
+          "unit": "grams"
+        },
+        "add": "Kettle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Marshmallows",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Kettle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Ground Coffee",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cocoa Nibs",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Affogato with ice cream",
+    "Chocolate cake"
+  ],
+  "brewers_tips": "If your mash run off takes a long time, increase the temperature of your sparge water to keep the mash bed warm and permeable.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

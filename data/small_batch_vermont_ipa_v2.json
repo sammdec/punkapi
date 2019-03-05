@@ -1,18 +1,18 @@
 {
-  "id": 239,
-  "name": "#Mashtag 2016",
-  "tagline": "Sour cherry triple IPA.",
-  "first_brewed": "2016",
-  "description": "We gave our customers the keys to the brewery and let them choose every aspect of this beer. Sour cherry combines with fruity hop character against a biscuit malt backbone with a hint of alcohol warmth, and an oaky undercurrent.",
-  "image_url": null,
-  "abv": 10.5,
-  "ibu": 100,
-  "target_fg": 1010,
-  "target_og": 1090,
+  "id": 262,
+  "name": "Small Batch: Vermont IPA V2.0",
+  "tagline": "Juicy, Citrusy, Tropical.",
+  "first_brewed": "2017",
+  "description": "A second trial of our previous Small Batch Vermont IPA using a different yeast strain. A vermont style IPA, with low background bitterness, loaded with intense juicy fruit characters.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 6.9,
+  "ibu": 35,
+  "target_fg": 1012,
+  "target_og": 1066,
   "ebc": 15,
-  "srm": 8,
-  "ph": 4.4,
-  "attenuation_level": 89.04,
+  "srm": 7.6,
+  "ph": 4.2,
+  "attenuation_level": 79,
   "volume": {
     "value": 20,
     "unit": "liters"
@@ -25,7 +25,7 @@
     "mash_temp": [
       {
         "temp": {
-          "value": 65,
+          "value": 68,
           "unit": "celsius"
         },
         "duration": 75
@@ -33,61 +33,57 @@
     ],
     "fermentation": {
       "temp": {
-        "value": 21,
+        "value": 19,
         "unit": "celsius"
       }
     },
-    "twist": "250g Sour Cherries, 5g Oak Chips"
+    "twist": null
   },
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Ale",
+        "name": "Pale Ale Propino",
         "amount": {
-          "value": 6.3,
+          "value": 3.3,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Dextrose",
+        "name": "Marris Otter",
         "amount": {
-          "value": 1.0,
+          "value": 0.8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.2,
           "unit": "kilograms"
         }
       }
     ],
     "hops": [
       {
-        "name": "Columbus",
+        "name": "Chinook",
         "amount": {
-          "value": 10,
+          "value": 1,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "Middle",
+        "attribute": "Aroma"
       },
       {
-        "name": "Simcoe",
+        "name": "Chinook",
         "amount": {
-          "value": 25,
-          "unit": "grams"
-        },
-        "add": "End",
-        "attribute": "Flavour"
-      },
-      {
-        "name": "Mosaic",
-        "amount": {
-          "value": 25,
-          "unit": "grams"
-        },
-        "add": "End",
-        "attribute": "Flavour"
-      },
-      {
-        "name": "Citra",
-        "amount": {
-          "value": 25,
+          "value": 20,
           "unit": "grams"
         },
         "add": "End",
@@ -96,7 +92,7 @@
       {
         "name": "Amarillo",
         "amount": {
-          "value": 25,
+          "value": 30,
           "unit": "grams"
         },
         "add": "End",
@@ -105,20 +101,11 @@
       {
         "name": "Simcoe",
         "amount": {
-          "value": 50,
+          "value": 30,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
-      },
-      {
-        "name": "Mosaic",
-        "amount": {
-          "value": 50,
-          "unit": "grams"
-        },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "End",
+        "attribute": "Flavour"
       },
       {
         "name": "Citra",
@@ -131,6 +118,24 @@
       },
       {
         "name": "Amarillo",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
         "amount": {
           "value": 50,
           "unit": "grams"
@@ -139,13 +144,13 @@
         "attribute": "Aroma"
       }
     ],
-    "yeast": "Wyeast 1272 - American Ale™"
+    "yeast": "WLP4000 - Vermont Ale"
   },
   "food_pairing": [
-    "Confit duck with cherry sauce",
-    "Cajun ribs",
-    "Buttermilk waffles"
+    "Chicken Korma",
+    "Lobster Salad",
+    "Chicken and Apricot Tagine"
   ],
-  "brewers_tips": "Rope in as many friends as you can to make it a truly democratic brew.",
+  "brewers_tips": "DON’T add flour. This “tip” has been floating around for the style and it’s bad advice. Any and all murk should accompany something that enhances the beer. This little juice-box is dry hopped at a rate of 10g per litre. Wonder what would happen if you doubled that...",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

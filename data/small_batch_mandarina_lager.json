@@ -1,0 +1,97 @@
+{
+  "id": 263,
+  "name": "Small Batch: Mandarina Lager",
+  "tagline": "Pithy Pale Pilsner.",
+  "first_brewed": "2017",
+  "description": "A bitter pils-style lager which is packed with aromas of citrus and a dry, refreshing biscuit malt backbone. Light floral notes add to the complexity.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 5.3,
+  "ibu": 40,
+  "target_fg": 1008,
+  "target_og": 1049,
+  "ebc": 7,
+  "srm": 4,
+  "ph": 4.3,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 35
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 10,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.096,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 1.032,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 2126 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "Green Thai Curry",
+    "Fish Tacos",
+    "Goat's Cheese Salad With Walnuts, Radish And Blood Orange"
+  ],
+  "brewers_tips": "After boiling your wort, chill the wort down quickly to avoid the compound DMS forming. DMS gives beer a tinned sweetcorn like aroma.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

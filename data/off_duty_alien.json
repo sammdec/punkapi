@@ -1,0 +1,181 @@
+{
+  "id": 296,
+  "name": "Off-Duty Alien",
+  "tagline": "Citrus IPA",
+  "first_brewed": "2018",
+  "description": "Off-Duty Alien is a citrus IPA, brewed with blood orange and grapefruit to enhance the citurs characteristics of the hops.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 6.5,
+  "ibu": 50,
+  "target_fg": 1010,
+  "target_og": 1060,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.4,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.320,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.840,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Bitter Orange",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        }
+      },
+      {
+        "name": "Sweet Orange Peel",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        }
+      },
+      {
+        "name": "Grapefruit Peel",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Roasted halibut with grapefruit salsa",
+    "Butternut squash bisque",
+    "+80% Dark chocolate"
+  ],
+  "brewers_tips": "Adding the orange and grapefruit peels to the mash gently extracts the essential oils from the peel but leaves the bitter pith behind in the spent grain.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

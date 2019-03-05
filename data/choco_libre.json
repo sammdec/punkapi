@@ -1,0 +1,159 @@
+{
+  "id": 295,
+  "name": "Choco Libre",
+  "tagline": "Mexican Hot Chocolate Imperial Stout.",
+  "first_brewed": "2017",
+  "description": "This one-off brew showcases the flavours of a Mexican spiced hot chocolate, infused with an imperial stout.",
+  "image_url": null,
+  "abv": 9,
+  "ibu": 25,
+  "target_fg": 1020,
+  "target_og": 1086,
+  "ebc": 190,
+  "srm": 96,
+  "ph": 4.2,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 30
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.1690,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.738,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.738,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.738,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.554,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate Wheat",
+        "amount": {
+          "value": 0.369,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special I",
+        "amount": {
+          "value": 0.369,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Cinnamon Powder",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cocoa Nibs",
+        "amount": {
+          "value": 15.4,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Vanilla Extract",
+        "amount": {
+          "value": 108,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Ground Coffee",
+        "amount": {
+          "value": 31,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Habenero Powder",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "™"
+  },
+  "food_pairing": [
+    "Habanero pulled pork",
+    "Gouda cheese",
+    "Dark chocolate and coffee torte"
+  ],
+  "brewers_tips": "Add virgin white oak chips soaked in a Reposado Tequila to give it a \"South of the Wall\" kick.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

@@ -1,0 +1,120 @@
+{
+  "id": 266,
+  "name": "Small Batch: Lemon Meringue Pie",
+  "tagline": "Experimental Dessert Beer.",
+  "first_brewed": "2017",
+  "description": "Brewed to a concept voted on at Craft Beer Rising, this one-off beer is an experimental brew which emulates the flavour of lemon meringue pie.",
+  "image_url": null,
+  "abv": 6.5,
+  "ibu": 5,
+  "target_fg": 1015,
+  "target_og": 1066,
+  "ebc": 7,
+  "srm": 4,
+  "ph": 4.0,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Marris Otter",
+        "amount": {
+          "value": 4.533,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dextrin Malt",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.567,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Lemon Peel",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Coriander Seeds",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Lemon Concentrate",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Lemon Tart"
+  ],
+  "brewers_tips": "Dextrin Malt adds sugars to your wort that the yeast are unable to ferment. If you want a sweetness remaining in your beer, add a little of this but not too much!!!",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

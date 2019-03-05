@@ -1,0 +1,113 @@
+{
+  "id": 265,
+  "name": "Pump Action Poet",
+  "tagline": "Stone Fruit IPA.",
+  "first_brewed": "2017",
+  "description": "A one-off beer which combines the sweet and juicy flavour of stonefruit with tropical hop aromas. This can features exclusive artwork by Tracie Ching.",
+  "image_url": null,
+  "abv": 7.5,
+  "ibu": 40,
+  "target_fg": 1013,
+  "target_og": 1070,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 5.2,
+  "attenuation_level": 81,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 40
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.86,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.54,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.54,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Apricot Juice",
+        "amount": {
+          "value": 1,
+          "unit": "kilogram"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Peach Juice",
+        "amount": {
+          "value": 1,
+          "unit": "kilogram"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Citrus Salad",
+    "Spicy Chilli Prawns",
+    "Orange Zest Tart"
+  ],
+  "brewers_tips": "Adding the fruit at the end of the boil effectively pasteurises it. If you plan to add fruit after primary fermentation, buy aseptic puree or have a plan to pasteurise it before adding it.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

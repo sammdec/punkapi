@@ -1,0 +1,134 @@
+{
+  "id": 315,
+  "name": "Baltic Fleet",
+  "tagline": "Baltic Porter.",
+  "first_brewed": "2018",
+  "description": "BrewDog vs Bevog. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. Our Austrian collaboration is with Bevog, and incorporates plum into a Baltic porter.",
+  "image_url": null,
+  "abv": 7.2,
+  "ibu": 45,
+  "target_fg": 1016,
+  "target_og": 1071,
+  "ebc": 120,
+  "srm": 61,
+  "ph": 4.2,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 45
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 12,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.320,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich Type 1 Light",
+        "amount": {
+          "value": 0.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roasted Crystal",
+        "amount": {
+          "value": 0.420,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate Wheat",
+        "amount": {
+          "value": 0.300,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Type III",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 8,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Saphire",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Plum Concentrate",
+        "amount": {
+          "value": 400,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 2126 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "Chilli covered burgers",
+    "Roasted garlic Camembert",
+    "Chocolate and walnut brownies"
+  ],
+  "brewers_tips": "Double Roasted Crystal is used when the astringency and bitterness inherent to roast malts is not desired. This means that it can be used at a higher rate in the grist to add complex caramel and dried fruit notes with a beautiful red-brown hue.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

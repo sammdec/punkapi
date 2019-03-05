@@ -1,0 +1,136 @@
+{
+  "id": 319,
+  "name": "Grano Giusto",
+  "tagline": "Dark Lager.",
+  "first_brewed": "2018",
+  "description": "BrewDog vs Birrificiano Italiano. One of a series of collaborations with European craft breweries, aimed at promoting engagement\nand market growth. Our Italian collaboration is with Birrificiano Italiano, and the beer is a dark lager brewed with a unique dark malt from an Italian micro-maltster.",
+  "image_url": null,
+  "abv": 5.5,
+  "ibu": 28,
+  "target_fg": 1009,
+  "target_og": 1052,
+  "ebc": 55,
+  "srm": 28,
+  "ph": 4.3,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 63,
+          "unit": "celsius"
+        },
+        "duration": 60
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 12,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich Type 1 Light",
+        "amount": {
+          "value": 0.960,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Grano Dei Miracoli",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate Wheat",
+        "amount": {
+          "value": 0.120,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "East Kent Golding",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "East Kent Golding",
+        "amount": {
+          "value": 24,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Fuggles",
+        "amount": {
+          "value": 24,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 2126 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "BBQ hot wings",
+    "Pomegranate tart with walnuts",
+    "Candied ginger pear cake"
+  ],
+  "brewers_tips": "Grano dei Miracoli is a unique ancient grain and shouldn't be substituted, this beer is focused on what this ingredient offers when paired with modern malts.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

@@ -1,0 +1,130 @@
+{
+  "id": 321,
+  "name": "Jinx Pale Ale",
+  "tagline": "American Pale Ale.",
+  "first_brewed": "2018",
+  "description": "A new 4.7% ABV American pale ale, Jinx Pale Ale is one of the core Fanzine beers, and will feature evolving editions as part of our new subscription model.",
+  "image_url": null,
+  "abv": 4.7,
+  "ibu": 35,
+  "target_fg": 1008,
+  "target_og": 1043,
+  "ebc": 13,
+  "srm": 7,
+  "ph": 4.6,
+  "attenuation_level": 81,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 63,
+          "unit": "celsius"
+        },
+        "duration": 35
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.120,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dextrin",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "65",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Monterey Jack stuffed grilled jalapeños",
+    "Apple pie"
+  ],
+  "brewers_tips": "Rack this into a corny keg, cool it down and carbonate it with 10 PSI of top pressure for 10 days. Should be super drinkable.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

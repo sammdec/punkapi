@@ -1,0 +1,133 @@
+{
+  "id": 304,
+  "name": "Karma Cloud",
+  "tagline": "Tropical IPA.",
+  "first_brewed": "2018",
+  "description": "A draft-only exclusive beer for International markets as part of\nthe DogDealers programme. Karma Cloud is a tropical IPA, designed to cram as much fruit flavour in as possible using only hops to recreate those flavours.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 6.5,
+  "ibu": 50,
+  "target_fg": 1010,
+  "target_og": 1060,
+  "ebc": 35,
+  "srm": 18,
+  "ph": 4.4,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 40
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.440,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.720,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 18,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Roasted pork loin with tropical fruit",
+    "Nachos",
+    "Cheddar cheese board"
+  ],
+  "brewers_tips": "Using the latest year's hops is a must. Leave the beer conditioning on the hops for a maximum of 5 days, otherwise there is a risk of a green vegetal like character being extracted.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

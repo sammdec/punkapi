@@ -1,0 +1,124 @@
+{
+  "id": 255,
+  "name": "Small Batch: Tripel",
+  "tagline": "Spiced Belgium Ale.",
+  "first_brewed": "2017",
+  "description": "Intense spicy and citrusy notes backed up with a bitter edge and a warming but dry malt biscuit backbone. This beer comes into its own after cellaring cool for a few weeks.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 13,
+  "ibu": 50,
+  "target_fg": 1008,
+  "target_og": 1110,
+  "ebc": 23,
+  "srm": 11.6,
+  "ph": 5.1,
+  "attenuation_level": 93,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 7.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Ginger Powder",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Pink Peppercorns",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Bitter Orange Peel",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Oat Husks",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1388 - Belgian Strong Ale™"
+  },
+  "food_pairing": [
+    "Coriander & Chilli Crab Cakes",
+    "Basil Pasta",
+    "Caramelised Orange Cheesecake"
+  ],
+  "brewers_tips": "Brew twice as much Belgian Tripel as you were planning on ageing - it's awesome on its own too!",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

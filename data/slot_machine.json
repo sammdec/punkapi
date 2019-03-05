@@ -1,0 +1,156 @@
+{
+  "id": 279,
+  "name": "Slot Machine",
+  "tagline": "Red Rye IPA.",
+  "first_brewed": "2017",
+  "description": "Our Q4 Seasonal is a red rye IPA. This twist on an American IPA involves a more complex malt base, with the careful addition of rye - a grain known for its trickiness when brewing with anything above a tiny percentage.",
+  "image_url": null,
+  "abv": 5.2,
+  "ibu": 50,
+  "target_fg": 1011,
+  "target_og": 1051,
+  "ebc": 50,
+  "srm": 25,
+  "ph": 4.3,
+  "attenuation_level": 78,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 30
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.420,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special III",
+        "amount": {
+          "value": 0.120,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Hallertauer Blanc",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Hallertauer Blanc",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale"
+  },
+  "food_pairing": [
+    "Barbeque and Mustard Beef on Rye Bread",
+    "Gooseberry and Plum Compote",
+    "Mature Wensleydale"
+  ],
+  "brewers_tips": "Rye can cause run off problems. Try to reach a temperature of 78 degrees Celsius if possible, and sparge at the same temperature.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

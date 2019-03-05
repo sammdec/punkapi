@@ -1,0 +1,159 @@
+{
+  "id": 283,
+  "name": "AB:24",
+  "tagline": "Coffee & Brown Sugar Baltic Porter.",
+  "first_brewed": "2017",
+  "description": "Our latest concept beer, AB:24 is a huge Baltic Porter, brewed with coffee and muscovado sugar.",
+  "image_url": null,
+  "abv": 11.5,
+  "ibu": 50,
+  "target_fg": 1019,
+  "target_og": 1110,
+  "ebc": 220,
+  "srm": 112,
+  "ph": 4.4,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 6.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 1.44,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roast Crystal",
+        "amount": {
+          "value": 0.72,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate Wheat",
+        "amount": {
+          "value": 0.72,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.72,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Crystal Medium",
+        "amount": {
+          "value": 0.48,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oat Husks",
+        "amount": {
+          "value": 0.048,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bitering"
+      },
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Muscovado Sugar",
+        "amount": {
+          "value": 900,
+          "unit": "grams"
+        },
+        "add": "Kettle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Ground Coffee",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cold Brew Coffee",
+        "amount": {
+          "value": 160,
+          "unit": "ml"
+        },
+        "add": "FV Addition",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "S’mores with smoked marshmallows",
+    "Braised rabbit stew",
+    "Espresso brownies with burnt sugar ice cream"
+  ],
+  "brewers_tips": "Do not substitute the muscovado sugar with white sugar. It lacks the molasses (black treacle) component that comes from only being partially refined.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

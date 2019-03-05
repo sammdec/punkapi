@@ -1,0 +1,175 @@
+{
+  "id": 312,
+  "name": "Dog G",
+  "tagline": "11th Anniversary Imperial Stout.",
+  "first_brewed": "2018",
+  "description": "Dog G is a benchmark in liquid form; our 11th anniversary beer. A 17% imperial stout brewed with a compelling mix of dark malts, chillies, cacao and coffee - to make it a true milestone we then decided to age Dog G in rye whiskey barrels.",
+  "image_url": null,
+  "abv": 17,
+  "ibu": 100,
+  "target_fg": 1015,
+  "target_og": 1125,
+  "ebc": 500,
+  "srm": 254,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 63,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 7.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.75,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type I",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Malt Type III",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Ginger Powder",
+        "amount": {
+          "value": 1.25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cold infused coffee",
+        "amount": {
+          "value": 25,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Honey",
+        "amount": {
+          "value": 1250,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Habanero",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Lemon drop chili",
+        "amount": {
+          "value": 3,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Ginger and chocolate biscuits",
+    "Spicy chorizo and prawn Jambalaya",
+    "Jamaican Curry Goat"
+  ],
+  "brewers_tips": "Age this beer!!! Often it will pick up new incredible flavours after an extended cellaring. Think 2 years plus.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

@@ -1,0 +1,150 @@
+{
+  "id": 257,
+  "name": "Semi Skimmed Occultist",
+  "tagline": "Oatmeal Milk Stout.",
+  "first_brewed": "2017",
+  "description": "This one-off brew is packed with all the decadent flavours and textures associated with Imperial Stouts. This can features exclusive artwork by The Red Dress.",
+  "image_url": null,
+  "abv": 8,
+  "ibu": 70,
+  "target_fg": 1014,
+  "target_og": 1080,
+  "ebc": 160,
+  "srm": 81.28,
+  "ph": 4.1,
+  "attenuation_level": 73,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 18,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 7.8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Dark Crystal",
+        "amount": {
+          "value": 0.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special I",
+        "amount": {
+          "value": 0.4,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Lactose",
+        "amount": {
+          "value": 600,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Coffee",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cacoa Nibs",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Vanilla",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Pan-Seared Venison with Blackberries",
+    "Fig Tart",
+    "Dark Chocolate and Coffee Torte"
+  ],
+  "brewers_tips": "Surface area contact is key in dry additions. Make sure your coffee and cacao nibs are weighed down with something and spread them out between multiple muslin bags if you can. This is not an exact science so taste as you go and swap out for fresh coffee and/or cacao if you haven't gotten the flavour you want after five days or so. You will not have this problem with the vanilla.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

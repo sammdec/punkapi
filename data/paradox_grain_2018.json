@@ -1,0 +1,141 @@
+{
+  "id": 309,
+  "name": "Paradox Islay 2018",
+  "tagline": "Whisky Cask Aged Imperial Stout.",
+  "first_brewed": "2018",
+  "description": "Our longest running beer series, Paradox sees us ageing an Imperial Stout in different types of cask. This one showcases grain whisky.",
+  "image_url": null,
+  "abv": 13.5,
+  "ibu": 100,
+  "target_fg": 1015,
+  "target_og": 1112,
+  "ebc": 300,
+  "srm": 152,
+  "ph": 4.4,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Age this beer in Rye Whisky Casks."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 6.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.875,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.875,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Type III",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special Type I",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Saaz",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale 11™"
+  },
+  "food_pairing": [
+    "PB&J sandwich",
+    "Roast beef with a herb and malt crust",
+    "Seriously sharp hard Cheddar"
+  ],
+  "brewers_tips": "Brew this as part of a parti gyle mash, making this beer from your first runnings. It will take a long time to run off and be prepared to add dextrose to reach your target OG.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
