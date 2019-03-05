@@ -1,0 +1,133 @@
+{
+  "id": 284,
+  "name": "Hello My Name Is Helga",
+  "tagline": "Cherry Double IPA.",
+  "first_brewed": "2017",
+  "description": "Brewed exclusively for the German market, this Hello My Name brew features a twist of flavour inspired by Germany.",
+  "image_url": null,
+  "abv": 8.2,
+  "ibu": 70,
+  "target_fg": 1009,
+  "target_og": 1070,
+  "ebc": 15,
+  "srm": 8,
+  "ph": 4.4,
+  "attenuation_level": 87,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 65
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.52,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.12,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 24,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Roast pork chops",
+    "Beef in port stew",
+    "Cherry frangipane tart"
+  ],
+  "brewers_tips": "Morello Cherries are the go to cherry variety for this beer (and Krieks), the sour compliments the residual sweetness of the malt. Works well if you reduce your IBU to the 20 to 30 range too.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

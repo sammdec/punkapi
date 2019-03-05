@@ -1,0 +1,97 @@
+{
+  "id": 252,
+  "name": "Small Batch: Dortmunder",
+  "tagline": "Pale Lager.",
+  "first_brewed": "2017",
+  "description": "A pale lager, with toasty biscuit malt balanced against a robust spicy bitterness.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 4.9,
+  "ibu": 32,
+  "target_fg": 1009,
+  "target_og": 1049,
+  "ebc": 15,
+  "srm": 7.62,
+  "ph": 5.2,
+  "attenuation_level": 81.5,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 14,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 5.16,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 1.72,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Sterling",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Sterling",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 2124 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "Cajun Chicken Burger",
+    "Baked Brie",
+    "Tomato and Herb Bruschetta"
+  ],
+  "brewers_tips": "To really nail this style you need to get the water right. Do a bit of research on water profiles and ask a local brewery if they can help you out with some water treatments.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

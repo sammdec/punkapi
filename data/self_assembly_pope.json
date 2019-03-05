@@ -1,0 +1,109 @@
+{
+  "id": 247,
+  "name": "Self Assembly Pope",
+  "tagline": "Coconut Vanilla Porter",
+  "first_brewed": "2016",
+  "description": "A dark and decadent beer brewed with coconut, vanilla, cacao.",
+  "image_url": null,
+  "abv": 7.4,
+  "ibu": 75,
+  "target_fg": 1016,
+  "target_og": 1072,
+  "ebc": 200,
+  "srm": 101.6,
+  "ph": 5.1,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Toasted Coconut Chips – 40g FV & Vanilla Extract – FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dextrin",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.35,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roasted Crystal",
+        "amount": {
+          "value": 0.3,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Dark Muscavado",
+        "amount": {
+          "value": 400,
+          "unit": "grams"
+        },
+        "add": "Additions",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Beef Rendang",
+    "Coconut Macaroons",
+    "Profiteroles with Chantilly Cream"
+  ],
+  "brewers_tips": "Don't be shy with the roasted coconut, it's a delicate flavour compared to the rest of the beer, so go nuts! If it grows wild near you, go grab some Gorse and chuck it in too for a local natural boost to the coconut flavours.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

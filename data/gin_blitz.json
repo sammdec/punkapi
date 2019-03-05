@@ -1,0 +1,127 @@
+{
+  "id": 243,
+  "name": "Gin Blitz",
+  "tagline": "Botanical Berliner Weisse",
+  "first_brewed": "2016",
+  "description": "Our Blitz series sees us brew up low abv, super tart Berliner Weisse, and generally infuse them with bags of sour fruit flavour – but this batch uses gin botanicals instead.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 3.2,
+  "ibu": 8,
+  "target_fg": 1008,
+  "target_og": 1038,
+  "ebc": 8,
+  "srm": 4,
+  "ph": 3.2,
+  "attenuation_level": 75,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 15
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 10
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Kettle Soured"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Marris Otter",
+        "amount": {
+          "value": 1.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 1.5,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Juniper Berry",
+        "amount": {
+          "value": 400,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Coriander",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Orange Peel",
+        "amount": {
+          "value": 155,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 – American Ale™"
+  },
+  "food_pairing": [
+    "Game Terrine with Pickles",
+    "Fish Tacos",
+    "Peach Melba"
+  ],
+  "brewers_tips": "Crack open/mash up the Juniper berries to get the most flavour and aroma from them.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

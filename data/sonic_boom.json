@@ -1,0 +1,140 @@
+{
+  "id": 311,
+  "name": "Sonic Boom",
+  "tagline": "New German Hop IPA.",
+  "first_brewed": "2018",
+  "description": "Welcome aboard our experimental range of tuned IPAs. Buckle up for an explosive sensory bombardment. Tropical fruit and resinous pine are primed. The first wave of pineapple, melon and mango quickly accelerate into a afterburner of candied citrus fruit and sweet caramel. Sonic Boom - IPA turning at the speed of sound.",
+  "image_url": null,
+  "abv": 6.5,
+  "ibu": 60,
+  "target_fg": 1008,
+  "target_og": 1058,
+  "ebc": 11,
+  "srm": 6,
+  "ph": 4.6,
+  "attenuation_level": 86,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 55
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.380,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.360,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carapils",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "German Cascade",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Huell Melon",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "German Comet",
+        "amount": {
+          "value": 60,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Spicy Thai peanut satay",
+    "Pizza with chili flakes",
+    "Lemon tart"
+  ],
+  "brewers_tips": "This IPA features German hops in the dry hop. Why not try a Slovenian only version using: Dana, Bobek, Aurora & Cascade.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

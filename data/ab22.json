@@ -1,0 +1,163 @@
+{
+  "id": 267,
+  "name": "AB:22",
+  "tagline": "Speyside Barrel-Aged Coffee Chocolate Stout.",
+  "first_brewed": "2017",
+  "description": "An imperial stout brewed with cacao and coffee, AB22 has spent two years in darkness, drawing complex and indulgent flavours from the Speyside whisky casks in which it resided.",
+  "image_url": null,
+  "abv": 12.5,
+  "ibu": 70,
+  "target_fg": 1020,
+  "target_og": 1115,
+  "ebc": 100,
+  "srm": 51,
+  "ph": 4.1,
+  "attenuation_level": 83,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 8.160,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Golden Naked Oats",
+        "amount": {
+          "value": 0.960,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special III",
+        "amount": {
+          "value": 0.120,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "First Wort Hops",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "American Oak Chips Medium Toast Soaked In Speyside Whisky",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Black Pepper",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cardamon",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Ginger",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Nutmeg",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cinnamon",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Star Anis",
+        "amount": {
+          "value": 1,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Roast Pheasant With Savoy Cabbage",
+    "Chilli Beer Tacos",
+    "Dark Chocolate Truffles"
+  ],
+  "brewers_tips": "Soak American oak (medium toasted) chips in your favourite Speyside tipple overnight and add them after primary fermentation",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

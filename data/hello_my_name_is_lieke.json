@@ -1,18 +1,18 @@
 {
-  "id": 239,
-  "name": "#Mashtag 2016",
-  "tagline": "Sour cherry triple IPA.",
-  "first_brewed": "2016",
-  "description": "We gave our customers the keys to the brewery and let them choose every aspect of this beer. Sour cherry combines with fruity hop character against a biscuit malt backbone with a hint of alcohol warmth, and an oaky undercurrent.",
+  "id": 289,
+  "name": "Hello My Name Is Lieke",
+  "tagline": "Orange Infused Double IPA.",
+  "first_brewed": "2017",
+  "description": "Brewed exclusively for the Dutch market, this Hello My Name brew features a twist of flavour inspired by the Netherlands.",
   "image_url": null,
-  "abv": 10.5,
-  "ibu": 100,
-  "target_fg": 1010,
-  "target_og": 1090,
+  "abv": 8.2,
+  "ibu": 70,
+  "target_fg": 1009,
+  "target_og": 1070,
   "ebc": 15,
   "srm": 8,
   "ph": 4.4,
-  "attenuation_level": 89.04,
+  "attenuation_level": 87,
   "volume": {
     "value": 20,
     "unit": "liters"
@@ -25,127 +25,118 @@
     "mash_temp": [
       {
         "temp": {
-          "value": 65,
+          "value": 66,
           "unit": "celsius"
         },
-        "duration": 75
+        "duration": 65
       }
     ],
     "fermentation": {
       "temp": {
-        "value": 21,
+        "value": 19,
         "unit": "celsius"
       }
     },
-    "twist": "250g Sour Cherries, 5g Oak Chips"
+    "twist": null
   },
   "ingredients": {
     "malt": [
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 6.3,
+          "value": 5.52,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Dextrose",
+        "name": "Caramalt",
         "amount": {
-          "value": 1.0,
+          "value": 0.12,
           "unit": "kilograms"
         }
       }
     ],
     "hops": [
       {
-        "name": "Columbus",
-        "amount": {
-          "value": 10,
-          "unit": "grams"
-        },
-        "add": "Start",
-        "attribute": "Bitter"
-      },
-      {
         "name": "Simcoe",
         "amount": {
-          "value": 25,
+          "value": 24,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "90",
+        "attribute": "Bittering"
       },
       {
-        "name": "Mosaic",
+        "name": "Chinook",
         "amount": {
-          "value": 25,
+          "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
-      },
-      {
-        "name": "Citra",
-        "amount": {
-          "value": 25,
-          "unit": "grams"
-        },
-        "add": "End",
-        "attribute": "Flavour"
-      },
-      {
-        "name": "Amarillo",
-        "amount": {
-          "value": 25,
-          "unit": "grams"
-        },
-        "add": "End",
+        "add": "30",
         "attribute": "Flavour"
       },
       {
         "name": "Simcoe",
         "amount": {
-          "value": 50,
+          "value": 30,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "0",
         "attribute": "Aroma"
       },
       {
-        "name": "Mosaic",
+        "name": "Seville Orange Juice",
         "amount": {
-          "value": 50,
+          "value": 200,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "Flame Out",
+        "attribute": "Flavour"
       },
       {
         "name": "Citra",
         "amount": {
-          "value": 50,
+          "value": 40,
           "unit": "grams"
         },
         "add": "Dry Hop",
         "attribute": "Aroma"
       },
       {
-        "name": "Amarillo",
+        "name": "Chinook",
         "amount": {
-          "value": 50,
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
           "unit": "grams"
         },
         "add": "Dry Hop",
         "attribute": "Aroma"
       }
     ],
-    "yeast": "Wyeast 1272 - American Ale™"
+    "yeast": "Wyeast 1272 American Ale II™"
   },
   "food_pairing": [
-    "Confit duck with cherry sauce",
-    "Cajun ribs",
-    "Buttermilk waffles"
+    "Peking duck",
+    "Pork and coriander stew",
+    "Almond pound cake"
   ],
-  "brewers_tips": "Rope in as many friends as you can to make it a truly democratic brew.",
+  "brewers_tips": "The Seville Orange is a bitter orange, so adjust your bittering hop addition down to account for the fact that there will be a contribution from them.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

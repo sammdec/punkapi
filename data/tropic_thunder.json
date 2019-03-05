@@ -1,0 +1,143 @@
+{
+  "id": 259,
+  "name": "Tropic Thunder",
+  "tagline": "Island-Hopping Stout.",
+  "first_brewed": "2016",
+  "description": "Tropic Thunder is the winner of the first ever #HomeBrewDog competition; the brainchild of Tom Doyle, this beer was the highest rated of the 307 beers that were tasted. A full-bodied and complex stout loaded with chocolate, mocha and roasty flavours, finishing with a vibrant burst of orange.",
+  "image_url": null,
+  "abv": 7,
+  "ibu": 25,
+  "target_fg": 1020,
+  "target_og": 1074,
+  "ebc": 170,
+  "srm": 86.36,
+  "ph": 4.2,
+  "attenuation_level": 73,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Propino",
+        "amount": {
+          "value": 3.8,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Medium Crystal",
+        "amount": {
+          "value": 0.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Dark Crystal",
+        "amount": {
+          "value": 0.05,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Premium English Cara",
+        "amount": {
+          "value": 0.3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.5,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 7,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Sweet Orange Peel",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Whirlpool",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Steak and Kidney Pie",
+    "Pork Carnitas",
+    "Chocolate Orange Brownies"
+  ],
+  "brewers_tips": "If you are feeling adventurous, and haven’t guzzled your whole batch upon first tasting it, try mulling this like you would a wine or cider. Cinnamon and clove will really lend themselves to the flavour of Tropic Thunder and mulled beer is definitely cooler than the usual offerings at a winter gathering.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

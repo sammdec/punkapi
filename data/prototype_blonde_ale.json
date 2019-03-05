@@ -1,0 +1,95 @@
+{
+  "id": 277,
+  "name": "Prototype Blonde Ale",
+  "tagline": "Mellow Golden Ale.",
+  "first_brewed": "2017",
+  "description": "This Blonde Ale is a new recipe and uses a new yeast - so it is a true Prototype. Originally lined up as part of the 2017 Prototype Challenge it was released shortly afterwards. but hey, these things happen.",
+  "image_url": null,
+  "abv": 4.5,
+  "ibu": 15,
+  "target_fg": 1009,
+  "target_og": 1044,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.6,
+  "attenuation_level": 80,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 67,
+          "unit": "celsius"
+        },
+        "duration": 60
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.300,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.300,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara Pils",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Perle",
+        "amount": {
+          "value": 70,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Hallertauer Mittelfrüh",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "WLP013 - London Ale"
+  },
+  "food_pairing": [
+    "Salmon Salad",
+    "Montery Jack Cheese",
+    "Mandarin Cake"
+  ],
+  "brewers_tips": "This yeast strain produces a marked sulphurous note in the beer. If that’s not your thing, don’t Burtonise your mash and see the difference!",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

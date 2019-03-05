@@ -1,0 +1,122 @@
+{
+  "id": 297,
+  "name": "East Of Vermont",
+  "tagline": "Mango & Peach Milkshake Vermont IPA.",
+  "first_brewed": "2018",
+  "description": "A Vermont IPA with fruit and milk sugars added - recreating fruity milkshake character in an IPA.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 7.8,
+  "ibu": 15,
+  "target_fg": 1018,
+  "target_og": 1077,
+  "ebc": 20,
+  "srm": 10,
+  "ph": 4.4,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 36
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.800,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.600,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Peach Concentrate",
+        "amount": {
+          "value": 150,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mango Concentrate",
+        "amount": {
+          "value": 150,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Milk Sugars",
+        "amount": {
+          "value": 400,
+          "unit": "grams"
+        },
+        "add": "Kettle",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Thai sweet potato and carrot soup",
+    "Carrot cake",
+    "Peaches and cream"
+  ],
+  "brewers_tips": "If you use mango pulp, extend the time that you whirlpool to let it settle out. Trying to clean mango pulp out of your heat exchanger or cooling coil is not a fun ending to a brewday.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

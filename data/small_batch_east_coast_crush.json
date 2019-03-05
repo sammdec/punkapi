@@ -1,0 +1,141 @@
+{
+  "id": 264,
+  "name": "Small Batch: East Coast Crush",
+  "tagline": "Session Vermont IPA.",
+  "first_brewed": "2017",
+  "description": "East Coast Crush is a Vermont style pale ale, packaged and served using our custom LIVE beer dispense. A session Vermont IPA, with low background bitterness, loaded with intense juicy mango, pineapple, peach and pine.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 4.8,
+  "ibu": 25,
+  "target_fg": 1010,
+  "target_og": 1047,
+  "ebc": 15,
+  "srm": 8,
+  "ph": 4.2,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 30
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3.24,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Uncrushed Wheat",
+        "amount": {
+          "value": 0.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 0.24,
+          "unit": "kilograms"
+        }
+      }
+
+    ],
+    "hops": [
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mosaic",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 - American Ale™"
+  },
+  "food_pairing": [
+    "Chickpea and Apricot Tagine",
+    "Pan-fried Lemon Sole",
+    "Lobster Salad"
+  ],
+  "brewers_tips": "Vermont Yeast, whilst desirable for this style of beer, is not absolutely necessary. The murk of a NEIPA can be achieved by malt selection and your process.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

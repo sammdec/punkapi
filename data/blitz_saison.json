@@ -1,0 +1,134 @@
+{
+  "id": 240,
+  "name": "Blitz Saison",
+  "tagline": "Lemon & coriander Berliner Weisse",
+  "first_brewed": "2016",
+  "description": "Belgium meets Berlin – incredible saison character with a bright and vibrant sour edge.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 3.2,
+  "ibu": 8,
+  "target_fg": 1007,
+  "target_og": 1040,
+  "ebc": 7,
+  "srm": 14,
+  "ph": 3.2,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 60,
+          "unit": "celsius"
+        },
+        "duration": 30
+      },
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 20
+      },
+      {
+        "temp": {
+          "value": 72,
+          "unit": "celsius"
+        },
+        "duration": 15
+      },
+      {
+        "temp": {
+          "value": 78,
+          "unit": "celsius"
+        },
+        "duration": 10
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Marris Otter",
+        "amount": {
+          "value": 3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Oats",
+        "amount": {
+          "value": 0.25,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 7,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Coriander",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Peppercorn",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "Whirlpool",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Taleggio and Spinach Tart",
+    "Chicken Adobo",
+    "Crème Caramel"
+  ],
+  "brewers_tips": "This will ferment out very dry due to the yeast.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

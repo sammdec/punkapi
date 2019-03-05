@@ -1,0 +1,102 @@
+{
+  "id": 244,
+  "name": "AB:21",
+  "tagline": "Liquorice Blackcurrant Stout.",
+  "first_brewed": "2016",
+  "description": "AB:21 is a liquorice and blackcurrant infused imperial stout. Rolling in at an imposing 12% abv, this huge and decadent dark beer dials down the charred roastiness and focuses instead on the rich, full-bodied chocolate and dark fruit character of the style.",
+  "image_url": null,
+  "abv": 12,
+  "ibu": 100,
+  "target_fg": 1015,
+  "target_og": 1130,
+  "ebc": 200,
+  "srm": 101.6,
+  "ph": 5.1,
+  "attenuation_level": 82,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Liquorice and 200g Blackcurrant Concentrate FV."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown Malt",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Double Roasted Crystal",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Galena",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 - American Ale II™"
+  },
+  "food_pairing": [
+    "Steak Pie and Winter Vegetables",
+    "Chocolate Torte",
+    "Blackcurrant Panna Cotta"
+  ],
+  "brewers_tips": "As with all of our Abstrakts this one is great for ageing. Be extra vigilant at all times as a small fault now will lead to disaster a few years down the line.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

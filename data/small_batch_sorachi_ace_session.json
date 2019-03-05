@@ -1,0 +1,109 @@
+{
+  "id": 251,
+  "name": "Small Batch: Sorachi Ace Session",
+  "tagline": "Sorachi Ace Belgian Pale.",
+  "first_brewed": "2016",
+  "description": "This brew is a pale ale fermented with Belgian yeast and spiced with coriander seed.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 4,
+  "ibu": 25,
+  "target_fg": 1005,
+  "target_og": 1035,
+  "ebc": 15,
+  "srm": 7.62,
+  "ph": 5.1,
+  "attenuation_level": 79,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Crushed Coridaner Seeds – FV"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye - Crisp",
+        "amount": {
+          "value": 0.22,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.11,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Wheat",
+        "amount": {
+          "value": 0.17,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Acidulated",
+        "amount": {
+          "value": 0.06,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 22,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 22,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1388 – Belgian Strong Ale™"
+  },
+  "food_pairing": [
+    "Californian Sushi Roll",
+    "Parmesan and Rocket Pizza",
+    "Coconut Cake"
+  ],
+  "brewers_tips": "If you dry hop with extra Sorachi Ace you'll end up with an awesome extra hit of lemony zing but be warned, it'll go through a lot of interesting variations on the way, including coconut and even bubblegum! Give it time though and it'll land back at that lovely lemon zest that will compliment the coriander seeds perfectly.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

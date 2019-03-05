@@ -1,0 +1,156 @@
+{
+  "id": 318,
+  "name": "Neverland",
+  "tagline": "India Pale Lager.",
+  "first_brewed": "2018",
+  "description": "BrewDog vs Oedipus. One of a series of collaborations with European craft breweries, aimed at promoting engagement and market growth. This India pale lager has been brewed with Dutch brewers Oedipus.",
+  "image_url": null,
+  "abv": 5,
+  "ibu": 40,
+  "target_fg": 1007,
+  "target_og": 1048,
+  "ebc": 12,
+  "srm": 6,
+  "ph": 4.2,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 64,
+          "unit": "celsius"
+        },
+        "duration": 35
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 11,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.600,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carapils",
+        "amount": {
+          "value": 0.360,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Viena",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Acidulated",
+        "amount": {
+          "value": 0.060,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 2,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 15,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 2126 - Bohemian Lager™"
+  },
+  "food_pairing": [
+    "Roast Chicken",
+    "Spicy jalapeño and seared steak fajitas",
+    "Peach cobbler"
+  ],
+  "brewers_tips": "Acidulated malt was first produced to circumvent the Reinheitsgebot in Germany where they could not acidify their brewing water. A weak organic acid such as lactic acid can be used in its place.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

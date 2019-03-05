@@ -1,0 +1,137 @@
+{
+  "id": 280,
+  "name": "Make Earth Great Again",
+  "tagline": "Cloudberry Saison.",
+  "first_brewed": "2017",
+  "description": "In protest against the potential withdrawal of the USA from the Paris agreement, we brewed a saison (which ferments at high temperatures) with melted ice caps (glacier water) and cloudberries (an Arctic berry).",
+  "image_url": null,
+  "abv": 7.5,
+  "ibu": 35,
+  "target_fg": 1004,
+  "target_og": 1065,
+  "ebc": 9,
+  "srm": 5,
+  "ph": 4.6,
+  "attenuation_level": 94,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 60
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 23,
+        "unit": "celsius"
+      }
+    },
+    "twist": "10kg of glacier water added to the mash."
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pilsner",
+        "amount": {
+          "value": 3.720,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dextrose",
+        "amount": {
+          "value": 0.840,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "White Wheat",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Torrified Wheat",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "70",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 4,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 6,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Amarillo",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Cloudberries",
+        "amount": {
+          "value": 100,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 3711 - French Saison™"
+  },
+  "food_pairing": [
+    "Oysters With a Chilli And Dill Sauce",
+    "Raspberry Souffle"
+  ],
+  "brewers_tips": "So your homebrew shop of choice may not stock all the ingredients here! You can buy cloudberry jam and add that instead. The pectin in the jam is not ideal and will form a haze but that can be forgiven in a saison.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

@@ -1,0 +1,177 @@
+{
+  "id": 298,
+  "name": "Declassified Demi-God",
+  "tagline": "Barrel-Aged Imperial Milk Stout.",
+  "first_brewed": "2018",
+  "description": "An exclusive barrel-aged blend, brought together to reward investors on Equity for Punks USA; two imperial stouts aged in grain whisky barrels for over a year.",
+  "image_url": null,
+  "abv": 14.1,
+  "ibu": 70,
+  "target_fg": 1020,
+  "target_og": 1127,
+  "ebc": 90,
+  "srm": 46,
+  "ph": 4.1,
+  "attenuation_level": 84,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Extra Pale",
+        "amount": {
+          "value": 7.440,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Flaked Oats",
+        "amount": {
+          "value": 1.440,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate",
+        "amount": {
+          "value": 0.720,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Roasted Barley",
+        "amount": {
+          "value": 0.720,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Smoked",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.480,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Columbus",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "10",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Sorachi Ace",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Nelson Sauvin",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Flame Out",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Mole Mexican chilli beef",
+    "BBQ pit beans",
+    "Chocolate ganache"
+  ],
+  "brewers_tips": "The lactose kettle addition is unfermentable by yeast. Target a pre-boil OG of between 90 and 100, then use the lactose to increase it to the target OG.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

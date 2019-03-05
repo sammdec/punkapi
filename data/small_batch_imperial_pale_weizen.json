@@ -1,0 +1,131 @@
+{
+  "id": 269,
+  "name": "Small Batch: Imperial Pale Weizen",
+  "tagline": "Dry-Hopped Wheat Beer.",
+  "first_brewed": "2017",
+  "description": "An amplified version of a style we first brewed with Weihenstephan. A full-on deluge of spice and citrus, the new world hops bring spiced orange, lemon peel and fresh grassy and floral notes while the weizen base adds pepper, clove and banana.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 7.5,
+  "ibu": 25,
+  "target_fg": 1010,
+  "target_og": 1067,
+  "ebc": 18,
+  "srm": 9,
+  "ph": 4.4,
+  "attenuation_level": 85,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 90
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 21,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Maris Otter",
+        "amount": {
+          "value": 3.740,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "White Wheat",
+        "amount": {
+          "value": 2.267,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Extra Dark Crystal",
+        "amount": {
+          "value": 0.091,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Magnum",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "60",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 12,
+          "unit": "grams"
+        },
+        "add": "15",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Ariana",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarina Bavaria",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "WLP351 Bavarian Weizen"
+  },
+  "food_pairing": [
+    "Soft pretzel with mustard",
+    "Hot Smoked Salmon Salad",
+    "Rum Fried Banana"
+  ],
+  "brewers_tips": "A German style wheat beer that is mostly defined by its yeast character. Yeast strain has a massive influence on the final perception of the beer.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

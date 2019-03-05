@@ -1,0 +1,125 @@
+{
+  "id": 253,
+  "name": "Small Batch: 90 Shilling",
+  "tagline": "Honeyed Spicy Malt.",
+  "first_brewed": "2017",
+  "description": "A malt-forward Scotch ale with a complex but mellow mix of toast crust, caramel, hints of cocoa, and a light hop spiciness.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 5.3,
+  "ibu": 25,
+  "target_fg": 1010,
+  "target_og": 1056,
+  "ebc": 40,
+  "srm": 20.32,
+  "ph": 4.2,
+  "attenuation_level": 73,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 54,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale Propino",
+        "amount": {
+          "value": 5.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Premium English Caramalt",
+        "amount": {
+          "value": 0.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Munich",
+        "amount": {
+          "value": 0.6,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Amber",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Dark Crystal",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Brown",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Bramling Cross",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 10,
+          "unit": "grams"
+        },
+        "add": "Start",
+        "attribute": "Bitter"
+      },
+      {
+        "name": "First Gold",
+        "amount": {
+          "value": 5,
+          "unit": "grams"
+        },
+        "add": "Middle",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1056 -American Ale™"
+  },
+  "food_pairing": [
+    "Game Terrine",
+    "Barbecue-griddled Poussin",
+    "Clootie Dumpling"
+  ],
+  "brewers_tips": "Pre-mix your malts to keep the conversion of starches to sugars even across the mash and give you a more uniform grain bed for lautering and sparging. This is a lot less labour intensive than manually stirring your speciality malts into your mash tun.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

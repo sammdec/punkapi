@@ -1,0 +1,88 @@
+{
+  "id": 248,
+  "name": "Twin Atlantic",
+  "tagline": "Mango & Pineapple Pale",
+  "first_brewed": "2016",
+  "description": "Brewed in collaboration with our AGM-headlining band, Twin Atlantic, this US style pale features some of our favourite hops and is loaded with tropical fruit.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 5,
+  "ibu": 80,
+  "target_fg": 1011,
+  "target_og": 1048,
+  "ebc": 19,
+  "srm": 9.7,
+  "ph": 5.2,
+  "attenuation_level": 77,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 65,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": "Mango and Pineapple added to FV after Primary fermentation"
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 3,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Cara Malt",
+        "amount": {
+          "value": 0.2,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Cascade",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Equinox",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "End",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1056 – American Ale™"
+  },
+  "food_pairing": [
+    "Jerk Chicken Kebabs with Mango Salsa",
+    "Avocado and Citrus Salad",
+    "Pineapple Upside Down Cake"
+  ],
+  "brewers_tips": "If you can't find an awesome Scottish band to collaborate with just pump up the volume on your stereo and have fun moshing whilst you're mashing in. Use ripe but fresh fruit and be prepared to lose extra volume to it. It'll be worth it.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

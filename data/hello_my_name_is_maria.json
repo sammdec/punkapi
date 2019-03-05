@@ -1,0 +1,142 @@
+{
+  "id": 292,
+  "name": "Hello My Name Is Maria",
+  "tagline": "Mandarin Infused Double IPA.",
+  "first_brewed": "2017",
+  "description": "Brewed exclusively for the Spanish market, this Hello My Name brew features a twist of flavour inspired by Spain.",
+  "image_url": null,
+  "abv": 8.2,
+  "ibu": 70,
+  "target_fg": 1009,
+  "target_og": 1070,
+  "ebc": 15,
+  "srm": 8,
+  "ph": 4.4,
+  "attenuation_level": 87,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 65
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 5.52,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Caramalt",
+        "amount": {
+          "value": 0.12,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 24,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 30,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 40,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Mandarin Segements",
+        "amount": {
+          "value": 1000,
+          "unit": "grams"
+        },
+        "add": "Mash",
+        "attribute": "Flavour"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Stir-fried chicken",
+    "Chocolate mousse",
+    "Orange polenta cake"
+  ],
+  "brewers_tips": "Using the mandarin in the mash means you can also throw in the peel to extract the essential oils from it. The pith can be quite bitter if it makes it into the boil.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}

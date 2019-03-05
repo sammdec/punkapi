@@ -1,17 +1,17 @@
 {
-  "id": 238,
-  "name": "Kingpin",
-  "tagline": "21st century lager.",
-  "first_brewed": "2016",
-  "description": "A 4.7% German Pils with light, biscuit and toasty malt character, upon which is built a hop bitterness that provides complexity and a long, dry finish.",
-  "image_url": null,
-  "abv": 4.7,
-  "ibu": 40,
-  "target_fg": 1008,
-  "target_og": 1044,
-  "ebc": 14,
-  "srm": 7,
-  "ph": 4.2,
+  "id": 254,
+  "name": "Small Batch: Kellerbier",
+  "tagline": "Crisp Unfiltered Goodness.",
+  "first_brewed": "2017",
+  "description": "A pale lager, with toasty biscuit malt balances against a robust spicy bitterness.",
+  "image_url": "https://images.punkapi.com/v2/keg.png",
+  "abv": 4.5,
+  "ibu": 25,
+  "target_fg": 1011,
+  "target_og": 1043,
+  "ebc": 17,
+  "srm": 8.6,
+  "ph": 5.3,
   "attenuation_level": 79,
   "volume": {
     "value": 20,
@@ -25,7 +25,7 @@
     "mash_temp": [
       {
         "temp": {
-          "value": 65,
+          "value": 56,
           "unit": "celsius"
         },
         "duration": 75
@@ -42,37 +42,37 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pilsner",
+        "name": "Pale Ale Propino",
         "amount": {
-          "value": 1.63,
+          "value": 1.2,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Caramalt",
+        "name": "Pilsner",
         "amount": {
-          "value": 0.16,
+          "value": 1.35,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich",
         "amount": {
-          "value": 0.63,
+          "value": 0.5,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Pale Malt",
+        "name": "Amber",
         "amount": {
-          "value": 1.50,
+          "value": 0.1,
           "unit": "kilograms"
         }
       }
     ],
     "hops": [
       {
-        "name": "Magnum",
+        "name": "Perle",
         "amount": {
           "value": 5,
           "unit": "grams"
@@ -81,31 +81,31 @@
         "attribute": "Bitter"
       },
       {
-        "name": "Perle",
+        "name": "Hallertauer Mittelfrüh",
         "amount": {
-          "value": 25,
+          "value": 7,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "Start",
+        "attribute": "Bitter"
       },
       {
-        "name": "Perle",
+        "name": "Mandarina Bavaria",
         "amount": {
-          "value": 12.5,
+          "value": 20,
           "unit": "grams"
         },
         "add": "End",
         "attribute": "Flavour"
       }
     ],
-    "yeast": "Wyeast 2007 – Pilsen Lager™"
+    "yeast": "Wyeast 2124 - Bohemian Lager™"
   },
   "food_pairing": [
-    "Jamaican jerk chicken wings",
-    "Corn dogs",
-    "Strawberry ice cream sundae"
+    "Bratwurst and Mustard",
+    "Caraway Roast Pork",
+    "Gingerbread Cake"
   ],
-  "brewers_tips": "Keep an eye on your fermentation temperature to ensure you get the crisp notes that are the hallmark of a good pilsner.",
+  "brewers_tips": "Kellerbier translates to cellar beer, if you don’t have a cellar just make sure to keep the fermentation temperature as close as possible to what you'd expect in a bavarian basement.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

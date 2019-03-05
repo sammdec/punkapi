@@ -1,0 +1,145 @@
+{
+  "id": 274,
+  "name": "Prototype Black Rye IPA",
+  "tagline": "Complex Dark Ale",
+  "first_brewed": "2017",
+  "description": "Our Prototype Challenge sees us pit three new trial beers against each other. This Black Rye IPA combines two spins on an American IPA, in the left-right jab combo of extra ingredients.",
+  "image_url": null,
+  "abv": 6.5,
+  "ibu": 70,
+  "target_fg": 1012,
+  "target_og": 1060,
+  "ebc": 135,
+  "srm": 69,
+  "ph": 4.5,
+  "attenuation_level": 80,
+  "volume": {
+    "value": 20,
+    "unit": "liters"
+  },
+  "boil_volume": {
+    "value": 25,
+    "unit": "liters"
+  },
+  "method": {
+    "mash_temp": [
+      {
+        "temp": {
+          "value": 66,
+          "unit": "celsius"
+        },
+        "duration": 75
+      }
+    ],
+    "fermentation": {
+      "temp": {
+        "value": 19,
+        "unit": "celsius"
+      }
+    },
+    "twist": null
+  },
+  "ingredients": {
+    "malt": [
+      {
+        "name": "Pale Ale",
+        "amount": {
+          "value": 4.080,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Rye",
+        "amount": {
+          "value": 0.360,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Light Crystal",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Chocolate Wheat",
+        "amount": {
+          "value": 0.240,
+          "unit": "kilograms"
+        }
+      },
+      {
+        "name": "Carafa Special III",
+        "amount": {
+          "value": 0.180,
+          "unit": "kilograms"
+        }
+      }
+    ],
+    "hops": [
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 24,
+          "unit": "grams"
+        },
+        "add": "90",
+        "attribute": "Bittering"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "30",
+        "attribute": "Flavour"
+      },
+      {
+        "name": "Centennial",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Simcoe",
+        "amount": {
+          "value": 20,
+          "unit": "grams"
+        },
+        "add": "0",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Citra",
+        "amount": {
+          "value": 150,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      },
+      {
+        "name": "Chinook",
+        "amount": {
+          "value": 50,
+          "unit": "grams"
+        },
+        "add": "Dry Hop",
+        "attribute": "Aroma"
+      }
+    ],
+    "yeast": "Wyeast 1272 American Ale II™"
+  },
+  "food_pairing": [
+    "Guacamole And Chips",
+    "Coriander Chicken Tostadas",
+    "Key Lime Pie"
+  ],
+  "brewers_tips": "If you want the colour but less of the flavour of the dark malts, try substituting the Carafa Special III for a dehusked version of Carafa.",
+  "contributed_by": "John Jenkman <johnjenkman>"
+}
