@@ -77,14 +77,14 @@
         }
       },
       {
-        "name": "Carafa Special Type III",
+        "name": "Carafa Special Malt Type 3",
         "amount": {
           "value": 0.5,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Carafa Special Type I",
+        "name": "Carafa Special Malt Type 1",
         "amount": {
           "value": 0.25,
           "unit": "kilograms"

@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Marris Otter",
+        "name": "Maris Otter",
         "amount": {
           "value": 5,
           "unit": "kilograms"
@@ -56,7 +56,7 @@
         }
       },
       {
-        "name": "Crystal Dark",
+        "name": "Dark Crystal",
         "amount": {
           "value": 0.27,
           "unit": "kilograms"
