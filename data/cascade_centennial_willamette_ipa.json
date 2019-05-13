@@ -70,14 +70,14 @@
         }
       },
       {
-        "name": "Dextrin",
+        "name": "Dextrin Malt",
         "amount": {
           "value": 0.63,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Oats",
+        "name": "Flaked Oats",
         "amount": {
           "value": 0.63,
           "unit": "kilograms"

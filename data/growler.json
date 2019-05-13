@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Malt",
+        "name": "Pale Ale",
         "amount": {
           "value": 4,
           "unit": "kilograms"

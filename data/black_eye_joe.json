@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Extra Pale Ale Malt",
+        "name": "Extra Pale",
         "amount": {
           "value": 2.7,
           "unit": "kilograms"

@@ -84,14 +84,14 @@
         }
       },
       {
-        "name": "Dextrin",
+        "name": "Dextrin Malt",
         "amount": {
           "value": 0.480,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Dpouble Roasted Crystal",
+        "name": "Double Roasted Crystal",
         "amount": {
           "value": 0.240,
           "unit": "kilograms"

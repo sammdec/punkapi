@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Lager",
+        "name": "Lager Malt",
         "amount": {
           "value": 4.66,
           "unit": "kilograms"

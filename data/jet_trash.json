@@ -56,14 +56,14 @@
         }
       },
       {
-        "name": "Dextrin",
+        "name": "Dextrin Malt",
         "amount": {
           "value": 0.240,
           "unit": "kilograms"
         }
       },
       {
-        "name": "CaraRed",
+        "name": "Carared",
         "amount": {
           "value": 0.240,
           "unit": "kilograms"

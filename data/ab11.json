@@ -42,14 +42,14 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Extra pale - Sprint Blend",
+        "name": "Extra Pale - Spring Blend",
         "amount": {
           "value": 8.75,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Cara",
+        "name": "Caramalt",
         "amount": {
           "value": 1.25,
           "unit": "kilograms"
