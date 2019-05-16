@@ -15,11 +15,11 @@
   "attenuation_level": null,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -40,12 +40,8 @@
     "twist": "This beer is an odd one in our collection as it is a blend of two recipes that feature elsewhere. These recipes are #123 Everyday Anarchy and #124 Black Jacques. Both Imperial Saisons spent a little under a year in white and red wine barrels respectively. However, while the pair were being tasted to determine their readiness to be released, a fun game of blending turned into a light bulb moment. The beers were blended and laid down once more in our barrel cellar, this time being infused with the heady note of rum. We were so excited about this mystical blend that we ended up using up all the beer that had been lovingly aged. It would have been a travesty for these beers to go unrecognised as the unique individuals they were, so we brewed them again in 2013 to be released as had always been intended. Age the individual beers separately before blending and ageing further on oak chips soaked in rum."
   },
   "ingredients": {
-    "malt": [
-
-    ],
-    "hops": [
-
-    ],
+    "malt": [],
+    "hops": [],
     "yeast": null
   },
   "food_pairing": [

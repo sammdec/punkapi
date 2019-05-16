@@ -15,11 +15,11 @@
   "attenuation_level": 76,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -166,11 +166,7 @@
     ],
     "yeast": "Wyeast 3522 - Belgian Ardennes™"
   },
-  "food_pairing": [
-    "Grilled fish salad",
-    "Angelfood cake",
-    "Pad Thai"
-  ],
+  "food_pairing": ["Grilled fish salad", "Angelfood cake", "Pad Thai"],
   "brewers_tips": "Don't be scared to let the fermentation temperature climb up another couple of degrees to really emphasize the Belgian character.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

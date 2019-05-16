@@ -15,11 +15,11 @@
   "attenuation_level": 87,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -124,11 +124,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Okra fries",
-    "Sea bass ceviche",
-    "Sea salt fudge"
-  ],
+  "food_pairing": ["Okra fries", "Sea bass ceviche", "Sea salt fudge"],
   "brewers_tips": "Try to use the juiciest, ripest mangoes possible.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

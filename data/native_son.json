@@ -15,11 +15,11 @@
   "attenuation_level": 86,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,21 +44,21 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 5.280,
+          "value": 5.28,
           "unit": "kilograms"
         }
       },
       {
         "name": "Dextrose",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Medium Crystal",
         "amount": {
-          "value": 0.120,
+          "value": 0.12,
           "unit": "kilograms"
         }
       }

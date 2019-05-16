@@ -15,11 +15,11 @@
   "attenuation_level": 102,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -164,11 +164,7 @@
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },
-  "food_pairing": [
-    "Stilton",
-    "Pan seared steak",
-    "Dark Chocolate Fondant"
-  ],
+  "food_pairing": ["Stilton", "Pan seared steak", "Dark Chocolate Fondant"],
   "brewers_tips": "Age this beer in the cellar for a few months to allow the warm alcohol flavours to reduce.",
   "contributed_by": "Ali Skinner <AliSkinner>"
 }

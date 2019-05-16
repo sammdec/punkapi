@@ -15,11 +15,11 @@
   "attenuation_level": 81,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,21 +44,21 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 3.120,
+          "value": 3.12,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Dextrin Malt",
         "amount": {
-          "value": 0.180,
+          "value": 0.18,
           "unit": "kilograms"
         }
       }
@@ -121,10 +121,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Monterey Jack stuffed grilled jalapeños",
-    "Apple pie"
-  ],
+  "food_pairing": ["Monterey Jack stuffed grilled jalapeños", "Apple pie"],
   "brewers_tips": "Rack this into a corny keg, cool it down and carbonate it with 10 PSI of top pressure for 10 days. Should be super drinkable.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

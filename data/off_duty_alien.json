@@ -15,11 +15,11 @@
   "attenuation_level": 83,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,14 +44,14 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 4.320,
+          "value": 4.32,
           "unit": "kilograms"
         }
       },
       {
         "name": "Caramalt",
         "amount": {
-          "value": 0.840,
+          "value": 0.84,
           "unit": "kilograms"
         }
       },

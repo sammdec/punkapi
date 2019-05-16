@@ -15,11 +15,11 @@
   "attenuation_level": 86,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,14 +44,14 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 3.540,
+          "value": 3.54,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carapils",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       }
@@ -105,11 +105,7 @@
     ],
     "yeast": "Saflager W-34/70"
   },
-  "food_pairing": [
-    "Goat's cheese salad",
-    "Pesto pasta",
-    "Lemon cookies"
-  ],
+  "food_pairing": ["Goat's cheese salad", "Pesto pasta", "Lemon cookies"],
   "brewers_tips": "Saphir hops are not widespread at the moment if you cannot get hold of any, a good batch of Mittlefruh is a fair substitute.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

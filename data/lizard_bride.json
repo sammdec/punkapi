@@ -15,11 +15,11 @@
   "attenuation_level": 79.3,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -177,10 +177,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Roasted pumpkin and mozzarella",
-    "Black forrest gateaux"
-  ],
+  "food_pairing": ["Roasted pumpkin and mozzarella", "Black forrest gateaux"],
   "brewers_tips": "Try to find the ripest berries possible to impart as much juicy goodness as possible. These can be forzen until you have the full set.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

@@ -15,11 +15,11 @@
   "attenuation_level": 82.1,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -125,11 +125,7 @@
     ],
     "yeast": "Wyeast 3522 - Belgian Ardennes™"
   },
-  "food_pairing": [
-    "Moules frites",
-    "Thai green curry",
-    "Lemon posset"
-  ],
+  "food_pairing": ["Moules frites", "Thai green curry", "Lemon posset"],
   "brewers_tips": "Bottle condition and prime with a little bit more sugar than usual to attain those authentic fine Belgian bubbles.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

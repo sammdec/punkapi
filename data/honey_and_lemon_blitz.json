@@ -3,8 +3,7 @@
   "name": "Honey And Lemon Blitz",
   "tagline": "Honey & Lemon Infused Berliner Weisse.",
   "first_brewed": "2016",
-  "description":
-    "Honey & Lemon Blitz sees tart Berliner Weisse character multiplied by lemony acidity; light bready malt and a hint of warming honey hold this back from the brink of palate- destroying sourness.",
+  "description": "Honey & Lemon Blitz sees tart Berliner Weisse character multiplied by lemony acidity; light bready malt and a hint of warming honey hold this back from the brink of palate- destroying sourness.",
   "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 3.2,
   "ibu": null,
@@ -16,11 +15,11 @@
   "attenuation_level": 75,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -135,7 +134,6 @@
     "Berry and Cream Meringue",
     "Lemon Drizzle Cake"
   ],
-  "brewers_tips":
-    "Be careful not to over do the smoked malt as it's just a background flavour and you don’t want it to be prominent in the finished beer.",
+  "brewers_tips": "Be careful not to over do the smoked malt as it's just a background flavour and you don’t want it to be prominent in the finished beer.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

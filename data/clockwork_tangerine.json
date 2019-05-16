@@ -15,11 +15,11 @@
   "attenuation_level": 75,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,7 +44,7 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 3.420,
+          "value": 3.42,
           "unit": "kilograms"
         }
       },
@@ -58,7 +58,7 @@
       {
         "name": "Medium Crystal",
         "amount": {
-          "value": 0.090,
+          "value": 0.09,
           "unit": "kilograms"
         }
       }

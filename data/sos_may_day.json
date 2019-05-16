@@ -15,11 +15,11 @@
   "attenuation_level": 77,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,28 +44,28 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 4.200,
+          "value": 4.2,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich Type 1 Light",
         "amount": {
-          "value": 0.960,
+          "value": 0.96,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carapils",
         "amount": {
-          "value": 0.060,
+          "value": 0.06,
           "unit": "kilograms"
         }
       },
       {
         "name": "Acidulated Malt",
         "amount": {
-          "value": 0.060,
+          "value": 0.06,
           "unit": "kilograms"
         }
       }

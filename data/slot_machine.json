@@ -15,11 +15,11 @@
   "attenuation_level": 78,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,28 +44,28 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 3.420,
+          "value": 3.42,
           "unit": "kilograms"
         }
       },
       {
         "name": "Rye",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Medium Crystal",
         "amount": {
-          "value": 0.180,
+          "value": 0.18,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carafa Special Malt Type 3",
         "amount": {
-          "value": 0.120,
+          "value": 0.12,
           "unit": "kilograms"
         }
       }

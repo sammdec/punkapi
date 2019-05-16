@@ -3,8 +3,7 @@
   "name": "Science IPA",
   "tagline": "India Pale Ale",
   "first_brewed": "2016",
-  "description":
-    "A beer brewed specifically for the British Science Festival, held in Swansea.",
+  "description": "A beer brewed specifically for the British Science Festival, held in Swansea.",
   "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 5,
   "ibu": null,
@@ -16,11 +15,11 @@
   "attenuation_level": 77,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -128,7 +127,6 @@
     "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": ["Chicken Katsu", "Cheese and Ham Omelette", "Pumpkin Pie"],
-  "brewers_tips":
-    "This beer is all about the balance between the malty backbone of the beer and the fresh hop aroma. The fresher the hops the better.",
+  "brewers_tips": "This beer is all about the balance between the malty backbone of the beer and the fresh hop aroma. The fresher the hops the better.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

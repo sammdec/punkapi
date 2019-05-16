@@ -15,11 +15,11 @@
   "attenuation_level": 94.4,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -133,11 +133,7 @@
     ],
     "yeast": "Wyeast 3711 - French Saison™"
   },
-  "food_pairing": [
-    "Cured Spanish ham",
-    "Steak pasty",
-    "Black cherry tart"
-  ],
+  "food_pairing": ["Cured Spanish ham", "Steak pasty", "Black cherry tart"],
   "brewers_tips": "Addition of the grains of paradise help to accentuate the peppery spiciness of the yeast.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

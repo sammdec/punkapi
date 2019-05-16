@@ -15,11 +15,11 @@
   "attenuation_level": 79.7,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -58,7 +58,7 @@
       {
         "name": "Crystal 150",
         "amount": {
-          "value": 0.50,
+          "value": 0.5,
           "unit": "kilograms"
         }
       },
@@ -128,11 +128,7 @@
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },
-  "food_pairing": [
-    "Arrabiata pasta",
-    "Mulled cheddar",
-    "Toasted almond cake"
-  ],
+  "food_pairing": ["Arrabiata pasta", "Mulled cheddar", "Toasted almond cake"],
   "brewers_tips": "Achieve the red colour by using the ratio of Caramalt, Crystal and Dark Crystal malts. The trick is to get the colour, without too much dried fruit character.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

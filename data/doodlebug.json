@@ -15,18 +15,18 @@
   "attenuation_level": 70.4,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
       {
         "temp": {
-            "value": 65,
-            "unit": "celsius"
+          "value": 65,
+          "unit": "celsius"
         },
         "duration": null
       }

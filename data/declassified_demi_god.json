@@ -15,11 +15,11 @@
   "attenuation_level": 84,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,49 +44,49 @@
       {
         "name": "Extra Pale",
         "amount": {
-          "value": 7.440,
+          "value": 7.44,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 1.440,
+          "value": 1.44,
           "unit": "kilograms"
         }
       },
       {
         "name": "Chocolate",
         "amount": {
-          "value": 0.720,
+          "value": 0.72,
           "unit": "kilograms"
         }
       },
       {
         "name": "Roasted Barley",
         "amount": {
-          "value": 0.720,
+          "value": 0.72,
           "unit": "kilograms"
         }
       },
       {
         "name": "Caramalt",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Smoked Malt",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Dark Crystal",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       }

@@ -15,11 +15,11 @@
   "attenuation_level": 84,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,35 +44,35 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 1.560,
+          "value": 1.56,
           "unit": "kilograms"
         }
       },
       {
         "name": "Vienna",
         "amount": {
-          "value": 1.560,
+          "value": 1.56,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich",
         "amount": {
-          "value": 0.600,
+          "value": 0.6,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carahell",
         "amount": {
-          "value": 0.180,
+          "value": 0.18,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carared",
         "amount": {
-          "value": 0.180,
+          "value": 0.18,
           "unit": "kilograms"
         }
       }

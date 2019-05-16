@@ -15,11 +15,11 @@
   "attenuation_level": 77,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,21 +44,21 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 4.800,
+          "value": 4.8,
           "unit": "kilograms"
         }
       },
       {
         "name": "Wheat",
         "amount": {
-          "value": 0.600,
+          "value": 0.6,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.600,
+          "value": 0.6,
           "unit": "kilograms"
         }
       }

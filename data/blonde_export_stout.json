@@ -15,11 +15,11 @@
   "attenuation_level": 73,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,28 +44,28 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 5.300,
+          "value": 5.3,
           "unit": "kilograms"
         }
       },
       {
         "name": "Wheat",
         "amount": {
-          "value": 0.800,
+          "value": 0.8,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.800,
+          "value": 0.8,
           "unit": "kilograms"
         }
       },
       {
         "name": "Smoked Malt",
         "amount": {
-          "value": 0.200,
+          "value": 0.2,
           "unit": "kilograms"
         }
       }
@@ -137,11 +137,7 @@
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },
-  "food_pairing": [
-    "Duck Crackling",
-    "Coq Au Vin",
-    "Oreo Cheesecake"
-  ],
+  "food_pairing": ["Duck Crackling", "Coq Au Vin", "Oreo Cheesecake"],
   "brewers_tips": "An oxymoron of a beer. The cocoa nibs are vital in providing that stout like flavour without the associated colour.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

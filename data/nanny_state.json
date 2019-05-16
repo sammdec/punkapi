@@ -15,11 +15,11 @@
   "attenuation_level": 28.6,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -237,9 +237,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Earthy mushroom pasta"
-  ],
+  "food_pairing": ["Earthy mushroom pasta"],
   "brewers_tips": "Get hops in every stage of the brewing process - mash, run off boil and flame off. There's not too much malt body, so the more hops the better.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

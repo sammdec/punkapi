@@ -15,11 +15,11 @@
   "attenuation_level": 82,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,42 +44,42 @@
       {
         "name": "Extra Pale",
         "amount": {
-          "value": 9.600,
+          "value": 9.6,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Amber",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
       {
         "name": "Brown",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
       {
         "name": "Double Roasted Crystal",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       }

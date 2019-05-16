@@ -3,8 +3,7 @@
   "name": "Storm",
   "tagline": "Islay Whisky Aged IPA.",
   "first_brewed": "12/2007",
-  "description":
-    "Dark and powerful Islay magic infuses this tropical sensation of an IPA. Using the original Punk IPA as a base, we boosted the ABV to 8% giving it some extra backbone to stand up to the peated smoke imported directly from Islay.",
+  "description": "Dark and powerful Islay magic infuses this tropical sensation of an IPA. Using the original Punk IPA as a base, we boosted the ABV to 8% giving it some extra backbone to stand up to the peated smoke imported directly from Islay.",
   "image_url": "https://images.punkapi.com/v2/23.png",
   "abv": 8,
   "ibu": 60,
@@ -16,11 +15,11 @@
   "attenuation_level": 86,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -127,7 +126,6 @@
     "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": ["Oysters", "Hickory smoked ham", "Rocky Road"],
-  "brewers_tips":
-    "After primary fermentation is complete, rack off into a secondary fermeter and add the oak chips to replicate the authentic Islay barrel experience.",
+  "brewers_tips": "After primary fermentation is complete, rack off into a secondary fermeter and add the oak chips to replicate the authentic Islay barrel experience.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

@@ -15,11 +15,11 @@
   "attenuation_level": 82.6,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -72,7 +72,7 @@
       {
         "name": "Munich",
         "amount": {
-          "value": 0.50,
+          "value": 0.5,
           "unit": "kilograms"
         }
       },

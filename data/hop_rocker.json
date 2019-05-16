@@ -15,11 +15,11 @@
   "attenuation_level": 80.7,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -112,11 +112,7 @@
     ],
     "yeast": "Saflager S189"
   },
-  "food_pairing": [
-    "Cajun spiced chicken wings",
-    "Mild cheddar",
-    "Lemon tart"
-  ],
+  "food_pairing": ["Cajun spiced chicken wings", "Mild cheddar", "Lemon tart"],
   "brewers_tips": "After the fermentation has finished, chill the beer to below 5°C (if you can), wait 10 days and then rack the beer off the yeast into another bucket. The yeast left in suspension will carry on working its magic to create really clean, crisp lager flavours.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

@@ -15,11 +15,11 @@
   "attenuation_level": 82,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,28 +44,28 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 3.120,
+          "value": 3.12,
           "unit": "kilograms"
         }
       },
       {
         "name": "Wheat",
         "amount": {
-          "value": 0.300,
+          "value": 0.3,
           "unit": "kilograms"
         }
       },
       {
         "name": "Caramalt",
         "amount": {
-          "value": 0.300,
+          "value": 0.3,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich",
         "amount": {
-          "value": 0.300,
+          "value": 0.3,
           "unit": "kilograms"
         }
       }

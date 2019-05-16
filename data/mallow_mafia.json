@@ -15,11 +15,11 @@
   "attenuation_level": 78,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,56 +44,56 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 5.880,
+          "value": 5.88,
           "unit": "kilograms"
         }
       },
       {
         "name": "Chocolate",
         "amount": {
-          "value": 1.680,
+          "value": 1.68,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich",
         "amount": {
-          "value": 0.960,
+          "value": 0.96,
           "unit": "kilograms"
         }
       },
       {
         "name": "Wheat",
         "amount": {
-          "value": 0.960,
+          "value": 0.96,
           "unit": "kilograms"
         }
       },
       {
         "name": "Brown",
         "amount": {
-          "value": 0.600,
+          "value": 0.6,
           "unit": "kilograms"
         }
       },
       {
         "name": "Black Malt",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Extra Dark Crystal",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
@@ -163,10 +163,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Affogato with ice cream",
-    "Chocolate cake"
-  ],
+  "food_pairing": ["Affogato with ice cream", "Chocolate cake"],
   "brewers_tips": "If your mash run off takes a long time, increase the temperature of your sparge water to keep the mash bed warm and permeable.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

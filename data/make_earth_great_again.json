@@ -15,11 +15,11 @@
   "attenuation_level": 94,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,28 +44,28 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 3.720,
+          "value": 3.72,
           "unit": "kilograms"
         }
       },
       {
         "name": "Dextrose",
         "amount": {
-          "value": 0.840,
+          "value": 0.84,
           "unit": "kilograms"
         }
       },
       {
         "name": "White Wheat",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Torrified Wheat",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       }
@@ -128,10 +128,7 @@
     ],
     "yeast": "Wyeast 3711 - French Saison™"
   },
-  "food_pairing": [
-    "Oysters With a Chilli And Dill Sauce",
-    "Raspberry Souffle"
-  ],
+  "food_pairing": ["Oysters With a Chilli And Dill Sauce", "Raspberry Souffle"],
   "brewers_tips": "So your homebrew shop of choice may not stock all the ingredients here! You can buy cloudberry jam and add that instead. The pectin in the jam is not ideal and will form a haze but that can be forgiven in a saison.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

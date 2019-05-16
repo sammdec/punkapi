@@ -15,11 +15,11 @@
   "attenuation_level": 81.6,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -103,11 +103,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Crab Cakes",
-    "Spicy Bean Burrito",
-    "Dundee Fruit Cake"
-  ],
+  "food_pairing": ["Crab Cakes", "Spicy Bean Burrito", "Dundee Fruit Cake"],
   "brewers_tips": "We don't recommend roulette as a way to design beer. Spin the bottle is a much more sensible option. Make this beer with the freshest ingredients you can. Try to arrange brewday as close to delivery day as possible and throw 10 brewbucks on black 17 for us.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

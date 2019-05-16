@@ -15,11 +15,11 @@
   "attenuation_level": 83,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,14 +44,14 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 3.360,
+          "value": 3.36,
           "unit": "kilograms"
         }
       },
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 1.200,
+          "value": 1.2,
           "unit": "kilograms"
         }
       }

@@ -15,11 +15,11 @@
   "attenuation_level": 86,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,14 +44,14 @@
       {
         "name": "Pilsner",
         "amount": {
-          "value": 3.360,
+          "value": 3.36,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carapils",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       }

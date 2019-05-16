@@ -15,11 +15,11 @@
   "attenuation_level": 72,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,63 +44,63 @@
       {
         "name": "Extra Pale",
         "amount": {
-          "value": 5.760,
+          "value": 5.76,
           "unit": "kilograms"
         }
       },
       {
         "name": "Caramalt",
         "amount": {
-          "value": 1.200,
+          "value": 1.2,
           "unit": "kilograms"
         }
       },
       {
         "name": "Chocolate",
         "amount": {
-          "value": 1.080,
+          "value": 1.08,
           "unit": "kilograms"
         }
       },
       {
         "name": "Flaked Oats",
         "amount": {
-          "value": 0.720,
+          "value": 0.72,
           "unit": "kilograms"
         }
       },
       {
         "name": "Extra Dark Crystal",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Brown",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Dextrin Malt",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Double Roasted Crystal",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
       {
         "name": "Amber",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       }

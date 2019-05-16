@@ -15,11 +15,11 @@
   "attenuation_level": 81,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,21 +44,21 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 8.160,
+          "value": 8.16,
           "unit": "kilograms"
         }
       },
       {
         "name": "Rye",
         "amount": {
-          "value": 1.440,
+          "value": 1.44,
           "unit": "kilograms"
         }
       },
       {
         "name": "Brown",
         "amount": {
-          "value": 0.120,
+          "value": 0.12,
           "unit": "kilograms"
         }
       }

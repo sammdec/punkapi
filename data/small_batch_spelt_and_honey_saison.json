@@ -15,11 +15,11 @@
   "attenuation_level": 83,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,7 +44,7 @@
       {
         "name": "Maris Otter",
         "amount": {
-          "value": 1.700,
+          "value": 1.7,
           "unit": "kilograms"
         }
       },
@@ -101,11 +101,7 @@
     ],
     "yeast": "WLP351 - Bavarian Weizen"
   },
-  "food_pairing": [
-    "Pancakes",
-    "Honey Mustard Chicken",
-    "Crème Brûlée"
-  ],
+  "food_pairing": ["Pancakes", "Honey Mustard Chicken", "Crème Brûlée"],
   "brewers_tips": "Spelt malt can slow your run off, similar to Rye. Take your time or add some extra malt to compensate for lower efficiency.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

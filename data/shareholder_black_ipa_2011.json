@@ -15,11 +15,11 @@
   "attenuation_level": 79,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -164,10 +164,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Classic American cheeseburger",
-    "Chilli chocolate bars"
-  ],
+  "food_pairing": ["Classic American cheeseburger", "Chilli chocolate bars"],
   "brewers_tips": "Get as many Equity Punks involved. You can toast the oak chips yourself in an oven.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

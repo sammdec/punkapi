@@ -15,11 +15,11 @@
   "attenuation_level": 79,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,28 +44,28 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 7.080,
+          "value": 7.08,
           "unit": "kilograms"
         }
       },
       {
         "name": "Caramalt",
         "amount": {
-          "value": 0.480,
+          "value": 0.48,
           "unit": "kilograms"
         }
       },
       {
         "name": "Light Crystal",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
       {
         "name": "Medium Crystal",
         "amount": {
-          "value": 0.120,
+          "value": 0.12,
           "unit": "kilograms"
         }
       },
@@ -117,10 +117,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Stilton and walnut salad",
-    "Toffee caramel cheesecake"
-  ],
+  "food_pairing": ["Stilton and walnut salad", "Toffee caramel cheesecake"],
   "brewers_tips": "Sanitise the oak chips before adding them to the fermenter. Vodka is ideal as it’s a neutral spirit and can be drained off. If you don’t want to affect the ABV, try steaming them.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

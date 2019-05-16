@@ -15,11 +15,11 @@
   "attenuation_level": 87,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -132,11 +132,7 @@
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
   },
-  "food_pairing": [
-    "Pork meatballs",
-    "Game pie",
-    "Grilled goat’s cheese"
-  ],
+  "food_pairing": ["Pork meatballs", "Game pie", "Grilled goat’s cheese"],
   "brewers_tips": "Add the lingonberry juice either to the end of the boil or to the fermenter, depending on whether the juice has been pasteurised.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

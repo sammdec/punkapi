@@ -15,11 +15,11 @@
   "attenuation_level": 81,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -103,11 +103,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Citrus Salad",
-    "Spicy Chilli Prawns",
-    "Orange Zest Tart"
-  ],
+  "food_pairing": ["Citrus Salad", "Spicy Chilli Prawns", "Orange Zest Tart"],
   "brewers_tips": "Adding the fruit at the end of the boil effectively pasteurises it. If you plan to add fruit after primary fermentation, buy aseptic puree or have a plan to pasteurise it before adding it.",
   "contributed_by": "John Jenkman <johnjenkman>"
 }

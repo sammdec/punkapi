@@ -15,11 +15,11 @@
   "attenuation_level": 70,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -127,11 +127,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Oyster beignets",
-    "Beef shin stew",
-    "A Shakin' jesse"
-  ],
+  "food_pairing": ["Oyster beignets", "Beef shin stew", "A Shakin' jesse"],
   "brewers_tips": "There's a lot of speciality malt in the mash. Make sure you take the run off nice and steady – increase the flow too much and pull in the bed at your peril.",
   "contributed_by": "Sasha <SashaMasondeCaires>"
 }

@@ -15,11 +15,11 @@
   "attenuation_level": 77,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -44,42 +44,42 @@
       {
         "name": "Pale Ale",
         "amount": {
-          "value": 4.320,
+          "value": 4.32,
           "unit": "kilograms"
         }
       },
       {
         "name": "Munich Type 1 Light",
         "amount": {
-          "value": 0.600,
+          "value": 0.6,
           "unit": "kilograms"
         }
       },
       {
         "name": "Double Roasted Crystal",
         "amount": {
-          "value": 0.420,
+          "value": 0.42,
           "unit": "kilograms"
         }
       },
       {
         "name": "Chocolate Wheat",
         "amount": {
-          "value": 0.300,
+          "value": 0.3,
           "unit": "kilograms"
         }
       },
       {
         "name": "Medium Crystal",
         "amount": {
-          "value": 0.240,
+          "value": 0.24,
           "unit": "kilograms"
         }
       },
       {
         "name": "Carafa Special Malt Type 3",
         "amount": {
-          "value": 0.180,
+          "value": 0.18,
           "unit": "kilograms"
         }
       }

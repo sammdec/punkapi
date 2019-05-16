@@ -3,8 +3,7 @@
   "name": "Mango And Chili Barley Wine",
   "tagline": "Spicy Chewy Sweet",
   "first_brewed": "2016",
-  "description":
-    "A huge, chewy barley wine, loaded with bitterness and balanced with a sweet and spicy combo of mango and chili. A concept brew which was so well received, we tweaked it and it became Neon Overlord.",
+  "description": "A huge, chewy barley wine, loaded with bitterness and balanced with a sweet and spicy combo of mango and chili. A concept brew which was so well received, we tweaked it and it became Neon Overlord.",
   "image_url": "https://images.punkapi.com/v2/keg.png",
   "abv": 12,
   "ibu": null,
@@ -16,11 +15,11 @@
   "attenuation_level": 84,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -152,7 +151,6 @@
     "Thai Green Chicken Curry",
     "Vanilla Panna Cotta"
   ],
-  "brewers_tips":
-    "Crack open the chili and add it in a muslin bag so you can take it out when the chilli heat suits you",
+  "brewers_tips": "Crack open the chili and add it in a muslin bag so you can take it out when the chilli heat suits you",
   "contributed_by": "Sam Mason <samjbmason>"
 }

@@ -15,11 +15,11 @@
   "attenuation_level": 79,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -116,11 +116,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Grilled fish tacos",
-    "Greek salad",
-    "Goat's cheese"
-  ],
+  "food_pairing": ["Grilled fish tacos", "Greek salad", "Goat's cheese"],
   "brewers_tips": "Make sure the dry hops get plenty of contact with the beer! Weigh them down in a muslin sack if using whole leaf.",
   "contributed_by": "Sam Mason <samjbmason>"
 }

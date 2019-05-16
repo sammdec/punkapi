@@ -15,11 +15,11 @@
   "attenuation_level": 79.3,
   "volume": {
     "value": 20,
-    "unit": "liters"
+    "unit": "litres"
   },
   "boil_volume": {
     "value": 25,
-    "unit": "liters"
+    "unit": "litres"
   },
   "method": {
     "mash_temp": [
@@ -177,10 +177,7 @@
     ],
     "yeast": "Wyeast 1056 - American Ale™"
   },
-  "food_pairing": [
-    "Warms goats cheese salad",
-    "Trifle or chocolate cake"
-  ],
+  "food_pairing": ["Warms goats cheese salad", "Trifle or chocolate cake"],
   "brewers_tips": "The mixture of berries and hops create a very intense flavour profile, a great brew for using up some spare hops.",
   "contributed_by": "Sam Mason <samjbmason>"
 }
