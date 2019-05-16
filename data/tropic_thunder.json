@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Ale Propino",
+        "name": "Propino Pale Malt",
         "amount": {
           "value": 3.8,
           "unit": "kilograms"
@@ -63,7 +63,7 @@
         }
       },
       {
-        "name": "Premium English Cara",
+        "name": "Premium English Caramalt",
         "amount": {
           "value": 0.3,
           "unit": "kilograms"

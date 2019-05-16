@@ -71,7 +71,7 @@
         }
       },
       {
-        "name": "Dark Crystal Malt",
+        "name": "Dark Crystal",
         "amount": {
           "value": 0.35,
           "unit": "kilograms"
@@ -98,7 +98,7 @@
         "attribute": "flavour"
       },
       {
-        "name": "Amarilo",
+        "name": "Amarillo",
         "amount": {
           "value": 40,
           "unit": "grams"

@@ -49,7 +49,7 @@
         }
       },
       {
-        "name": "Chocolate Malt",
+        "name": "Chocolate",
         "amount": {
           "value": 0.5,
           "unit": "kilograms"
@@ -63,7 +63,7 @@
         }
       },
       {
-        "name": "Crystal Malt",
+        "name": "Crystal",
         "amount": {
           "value": 0.5,
           "unit": "kilograms"

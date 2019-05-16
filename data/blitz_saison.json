@@ -63,7 +63,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Marris Otter",
+        "name": "Maris Otter",
         "amount": {
           "value": 3,
           "unit": "kilograms"
@@ -77,7 +77,7 @@
         }
       },
       {
-        "name": "Oats",
+        "name": "Flaked Oats",
         "amount": {
           "value": 0.25,
           "unit": "kilograms"

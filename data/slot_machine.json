@@ -63,7 +63,7 @@
         }
       },
       {
-        "name": "Carafa Special III",
+        "name": "Carafa Special Malt Type 3",
         "amount": {
           "value": 0.120,
           "unit": "kilograms"
@@ -144,7 +144,7 @@
         "attribute": "Aroma"
       }
     ],
-    "yeast": "Wyeast 1056 - American Ale"
+    "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": [
     "Barbeque and Mustard Beef on Rye Bread",

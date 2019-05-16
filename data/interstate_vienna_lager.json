@@ -70,7 +70,7 @@
         }
       },
       {
-        "name": "CaraRed",
+        "name": "Carared",
         "amount": {
           "value": 0.180,
           "unit": "kilograms"
@@ -88,7 +88,7 @@
         "attribute": "Bittering"
       },
       {
-        "name": "Hallertauer Mittelfruh",
+        "name": "Hallertauer Mittelfrüh",
         "amount": {
           "value": 20,
           "unit": "grams"

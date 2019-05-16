@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Ale Propino",
+        "name": "Propino Pale Malt",
         "amount": {
           "value": 1.2,
           "unit": "kilograms"

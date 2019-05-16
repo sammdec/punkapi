@@ -77,14 +77,14 @@
         }
       },
       {
-        "name": "Carafa Special Type I",
+        "name": "Carafa Special Malt Type 1",
         "amount": {
           "value": 0.25,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Carafa Special Type III",
+        "name": "Carafa Special Malt Type 3",
         "amount": {
           "value": 0.5,
           "unit": "kilograms"
@@ -129,7 +129,7 @@
         "attribute": "Flavour"
       }
     ],
-    "yeast": "Wyeast 1272 - American Ale 11™"
+    "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": [
     "Char-grilled Lamb Cutlets",

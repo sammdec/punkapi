@@ -84,7 +84,7 @@
         }
       },
       {
-        "name": "Carafa Special I",
+        "name": "Carafa Special Malt Type 1",
         "amount": {
           "value": 0.369,
           "unit": "kilograms"
@@ -147,7 +147,7 @@
         "attribute": "Flavour"
       }
     ],
-    "yeast": "™"
+    "yeast": "Wyeast 1056 - American Ale™"
   },
   "food_pairing": [
     "Habanero pulled pork",

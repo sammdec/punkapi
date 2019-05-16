@@ -56,14 +56,14 @@
         }
       },
       {
-        "name": "Viena",
+        "name": "Vienna",
         "amount": {
           "value": 0.240,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Acidulated",
+        "name": "Acidulated Malt",
         "amount": {
           "value": 0.060,
           "unit": "kilograms"

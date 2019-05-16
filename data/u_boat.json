@@ -86,7 +86,7 @@
     ],
     "hops": [
       {
-        "name": "Hallertauer Mittelfrüh",
+        "name": "Hallertauer Mittelfrüh",
         "amount": {
           "value": 7.5,
           "unit": "grams"
@@ -95,7 +95,7 @@
         "attribute": "bitter"
       },
       {
-        "name": "Hallertauer Mittelfrüh",
+        "name": "Hallertauer Mittelfrüh",
         "amount": {
           "value": 11.5,
           "unit": "grams"

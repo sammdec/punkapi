@@ -77,7 +77,7 @@
         }
       },
       {
-        "name": "Smoked",
+        "name": "Smoked Malt",
         "amount": {
           "value": 0.480,
           "unit": "kilograms"
@@ -165,7 +165,7 @@
         "attribute": "Aroma"
       }
     ],
-    "yeast": "Wyeast 1272 American Ale II™"
+    "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": [
     "Mole Mexican chilli beef",

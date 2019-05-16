@@ -63,7 +63,7 @@
         }
       },
       {
-        "name": "Smoked",
+        "name": "Smoked Malt",
         "amount": {
           "value": 0.200,
           "unit": "kilograms"
@@ -72,7 +72,7 @@
     ],
     "hops": [
       {
-        "name": "Magnun",
+        "name": "Magnum",
         "amount": {
           "value": 7,
           "unit": "grams"
@@ -135,7 +135,7 @@
         "attribute": "Flavour"
       }
     ],
-    "yeast": "Wyeast 1272 American Ale II™"
+    "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": [
     "Duck Crackling",

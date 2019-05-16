@@ -56,7 +56,7 @@
         }
       },
       {
-        "name": "Double Roast Crystal",
+        "name": "Double Roasted Crystal",
         "amount": {
           "value": 0.120,
           "unit": "kilograms"
@@ -128,7 +128,7 @@
         "attribute": "Aroma"
       }
     ],
-    "yeast": "Wyeast 3638 Bavarian Wheat"
+    "yeast": "Wyeast 3638 - Bavarian Wheat™"
   },
   "food_pairing": [
     "Grilled Portobello Mushroom Burger",

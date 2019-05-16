@@ -56,7 +56,7 @@
         }
       },
       {
-        "name": "Acidulated",
+        "name": "Acidulated Malt",
         "amount": {
           "value": 0.287,
           "unit": "kilograms"
@@ -142,7 +142,7 @@
         "attribute": "Flavour"
       }
     ],
-    "yeast": "Wyeast 1272 American Ale II™"
+    "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": [
     "White Chocolate and Pistachio Cheesecake",

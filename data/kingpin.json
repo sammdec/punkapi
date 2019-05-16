@@ -63,7 +63,7 @@
         }
       },
       {
-        "name": "Pale Malt",
+        "name": "Pale Ale",
         "amount": {
           "value": 1.50,
           "unit": "kilograms"
@@ -99,7 +99,7 @@
         "attribute": "Flavour"
       }
     ],
-    "yeast": "Wyeast 2007 – Pilsen Lager™"
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
   },
   "food_pairing": [
     "Jamaican jerk chicken wings",

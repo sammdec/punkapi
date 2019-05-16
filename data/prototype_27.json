@@ -42,14 +42,14 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Ale Malt",
+        "name": "Pale Ale",
         "amount": {
           "value": 8.13,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Crystal Malt 150",
+        "name": "Crystal 150",
         "amount": {
           "value": 0.28,
           "unit": "kilograms"

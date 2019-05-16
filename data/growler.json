@@ -42,7 +42,7 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Malt",
+        "name": "Pale Ale",
         "amount": {
           "value": 4,
           "unit": "kilograms"
@@ -92,7 +92,7 @@
         "attribute": "aroma"
       }
     ],
-    "yeast": "Wyeast 2007 - Pilsner™"
+    "yeast": "Wyeast 2007 - Pilsen Lager™"
   },
   "food_pairing": [
     "Havarti cheese",

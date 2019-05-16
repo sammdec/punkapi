@@ -42,14 +42,14 @@
   "ingredients": {
     "malt": [
       {
-        "name": "Pale Ale Propino",
+        "name": "Propino Pale Malt",
         "amount": {
           "value": 3.3,
           "unit": "kilograms"
         }
       },
       {
-        "name": "Marris Otter",
+        "name": "Maris Otter",
         "amount": {
           "value": 0.8,
           "unit": "kilograms"

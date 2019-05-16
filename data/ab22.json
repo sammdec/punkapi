@@ -70,7 +70,7 @@
         }
       },
       {
-        "name": "Carafa Special III",
+        "name": "Carafa Special Malt Type 3",
         "amount": {
           "value": 0.120,
           "unit": "kilograms"
@@ -151,7 +151,7 @@
         "attribute": "Flavour"
       }
     ],
-    "yeast": "Wyeast 1272 American Ale II™"
+    "yeast": "Wyeast 1272 - American Ale II™"
   },
   "food_pairing": [
     "Roast Pheasant With Savoy Cabbage",
