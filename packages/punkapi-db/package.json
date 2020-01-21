@@ -1,0 +1,24 @@
+{
+  "name": "punkapi-db",
+  "version": "2.6.0",
+  "description": "Raw data in JSON format from Brewdog's DIY Dog",
+  "keywords": [
+    "api",
+    "beer",
+    "brewdog",
+    "diy dog"
+  ],
+  "repository": "https://github.com/samjbmason/punkapi-db.git",
+  "scripts": {
+    "test": "ajv validate -s spec/schema.json -d 'data/*.json' && node ./spec/test.js",
+    "build": "node ./build",
+    "prepublish": "npm run build"
+  },
+  "author": "Sam Mason <sam.jbmason@gmail.com>",
+  "license": "MIT",
+  "main": "data.json",
+  "devDependencies": {
+    "ajv-cli": "^1.1.1",
+    "lodash": "^4.17.11"
+  }
+}
