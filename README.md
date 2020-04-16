@@ -37,6 +37,7 @@ These are user contributed wrappers for the API
 * Swift/iOS - [Oni-zerone/PunkAPI](https://github.com/Oni-zerone/PunkAPI)
 * Vue.JS - [yoohahn/VueDogs-API](https://github.com/yoohahn/VueDogs-API)
 * Docker - [yoohahn/brewdog-recipe](https://hub.docker.com/r/yoohahn/brewdog-recipe/)
+* R - [phillc73/brewdogr](https://github.com/phillc73/brewdogr)
 
 ## The Beers
 
