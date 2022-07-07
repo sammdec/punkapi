@@ -18,7 +18,9 @@
   "license": "MIT",
   "main": "data.json",
   "devDependencies": {
-    "ajv-cli": "^1.1.1",
-    "lodash": "^4.17.11"
+    "ajv": "^6.12.6",
+    "ajv-cli": "^3.3.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6"
   }
 }
