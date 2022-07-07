@@ -18,6 +18,7 @@
   "license": "MIT",
   "main": "data.json",
   "devDependencies": {
+    "ajv": "^6.12.3",
     "ajv-cli": "^1.1.1",
     "lodash": "^4.17.11"
   }
