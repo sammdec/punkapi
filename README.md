@@ -38,6 +38,7 @@ These are user contributed wrappers for the API
 * Vue.JS - [yoohahn/VueDogs-API](https://github.com/yoohahn/VueDogs-API)
 * Docker - [yoohahn/brewdog-recipe](https://hub.docker.com/r/yoohahn/brewdog-recipe/)
 * R - [phillc73/brewdogr](https://github.com/phillc73/brewdogr)
+* Java - [mGungorr/PunkApi4J](https://github.com/mGungorr/PunkApi4J)
 
 ## The Beers
 
