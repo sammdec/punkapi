@@ -31,6 +31,7 @@ const punkapi = require('punkapi-db')
 These are user contributed wrappers for the API
 
 * C - [apfohl/punkapi](https://github.com/apfohl/punkapi)
+* C# - [a-bagley/punkapi-net](https://github.com/a-bagley/punkapi-net)
 * Ruby - [samjbmason/punkapi-ruby](https://github.com/samjbmason/punkapi-ruby)
 * PHP - [billythekid/PunkApi](https://github.com/billythekid/PunkApi)
 * JavaScript - [mikefrancis/brewdog.js](https://github.com/mikefrancis/brewdog.js)
