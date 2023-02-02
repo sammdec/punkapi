@@ -86,7 +86,7 @@
           "value": 800,
           "unit": "grams"
         },
-        "add": "Kettle",
+        "add": "kettle",
         "attribute": "Flavour"
       }
     ],

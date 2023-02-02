@@ -91,7 +91,7 @@
           "value": 37.5,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -100,7 +100,7 @@
           "value": 262.5,
           "unit": "grams"
         },
-        "add": "Middle",
+        "add": "middle",
         "attribute": "Aroma"
       },
       {
@@ -109,7 +109,7 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       },
       {
@@ -118,7 +118,7 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       },
       {
@@ -127,7 +127,7 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       }
     ],

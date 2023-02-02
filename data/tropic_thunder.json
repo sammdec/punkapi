@@ -91,7 +91,7 @@
           "value": 2,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -100,7 +100,7 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -109,7 +109,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -118,7 +118,7 @@
           "value": 7,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       },
       {
@@ -127,7 +127,7 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Whirlpool",
+        "add": "whirlpool",
         "attribute": "Flavour"
       }
     ],

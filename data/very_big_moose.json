@@ -79,7 +79,7 @@
           "value": 115,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       },
       {
@@ -88,7 +88,7 @@
           "value": 8,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       },
       {
@@ -97,7 +97,7 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       }
     ],

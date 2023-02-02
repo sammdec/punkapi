@@ -130,7 +130,7 @@
           "value": 750,
           "unit": "grams"
         },
-        "add": "Kettle",
+        "add": "kettle",
         "attribute": "Flavour"
       },
       {
@@ -139,7 +139,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Kettle",
+        "add": "kettle",
         "attribute": "Flavour"
       },
       {
@@ -148,7 +148,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       },
       {
@@ -157,7 +157,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       }
     ],

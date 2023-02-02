@@ -120,7 +120,7 @@
           "value": 150,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -129,7 +129,7 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       }
     ],

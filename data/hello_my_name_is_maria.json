@@ -90,7 +90,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -99,7 +99,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -108,7 +108,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -117,7 +117,7 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -126,7 +126,7 @@
           "value": 1000,
           "unit": "grams"
         },
-        "add": "Mash",
+        "add": "mash",
         "attribute": "Flavour"
       }
     ],

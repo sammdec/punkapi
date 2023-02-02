@@ -70,7 +70,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Aroma"
       },
       {
@@ -88,7 +88,7 @@
           "value": 1,
           "unit": "kilogram"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -97,7 +97,7 @@
           "value": 1,
           "unit": "kilogram"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       }
     ],

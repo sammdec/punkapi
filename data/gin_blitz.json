@@ -84,7 +84,7 @@
           "value": 6,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -93,7 +93,7 @@
           "value": 400,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Aroma"
       },
       {
@@ -102,7 +102,7 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Aroma"
       },
       {
@@ -111,7 +111,7 @@
           "value": 155,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Aroma"
       }
     ],

@@ -63,7 +63,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Aroma"
       },
       {
@@ -72,7 +72,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Aroma"
       }
     ],

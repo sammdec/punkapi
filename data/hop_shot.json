@@ -56,7 +56,7 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -65,7 +65,7 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -74,7 +74,7 @@
           "value": 18.75,
           "unit": "grams"
         },
-        "add": "Middle",
+        "add": "middle",
         "attribute": "Flavour"
       },
       {
@@ -83,7 +83,7 @@
           "value": 18.75,
           "unit": "grams"
         },
-        "add": "Middle",
+        "add": "middle",
         "attribute": "Flavour"
       },
       {
@@ -92,7 +92,7 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       },
       {
@@ -101,7 +101,7 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       },
       {
@@ -110,7 +110,7 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -119,7 +119,7 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -128,7 +128,7 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       }
     ],

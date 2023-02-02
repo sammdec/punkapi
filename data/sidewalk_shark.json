@@ -111,7 +111,7 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -120,7 +120,7 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       }
     ],

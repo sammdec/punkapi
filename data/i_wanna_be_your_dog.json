@@ -121,7 +121,7 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Wood Ageing",
+        "add": "wood ageing",
         "attribute": "Flavour"
       },
       {
@@ -130,7 +130,7 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Wood Ageing",
+        "add": "wood ageing",
         "attribute": "Flavour"
       }
     ],

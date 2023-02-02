@@ -70,7 +70,7 @@
           "value": 33,
           "unit": "grams"
         },
-        "add": "Whirlpool",
+        "add": "whirlpool",
         "attribute": "Aroma"
       },
       {
@@ -79,7 +79,7 @@
           "value": 83,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       },
       {
@@ -88,7 +88,7 @@
           "value": 83,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Aroma"
       }
     ],

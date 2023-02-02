@@ -111,7 +111,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -120,7 +120,7 @@
           "value": 0.5,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -129,7 +129,7 @@
           "value": 6,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       },
       {
@@ -138,7 +138,7 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
+        "add": "dry hop",
         "attribute": "Flavour"
       }
     ],

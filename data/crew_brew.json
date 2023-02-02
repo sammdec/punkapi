@@ -84,7 +84,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Mash",
+        "add": "mash",
         "attribute": "Bitter"
       },
       {
@@ -93,7 +93,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Mash",
+        "add": "mash",
         "attribute": "Bitter"
       },
       {
@@ -102,7 +102,7 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -111,7 +111,7 @@
           "value": 15,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -120,7 +120,7 @@
           "value": 15,
           "unit": "grams"
         },
-        "add": "Middle",
+        "add": "middle",
         "attribute": "Flavour"
       },
       {
@@ -129,7 +129,7 @@
           "value": 15,
           "unit": "grams"
         },
-        "add": "Middle",
+        "add": "middle",
         "attribute": "Flavour"
       },
       {
@@ -138,7 +138,7 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Aroma"
       },
       {
@@ -147,7 +147,7 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Aroma"
       }
     ],

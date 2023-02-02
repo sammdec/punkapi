@@ -109,7 +109,7 @@
           "value": 400,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -118,7 +118,7 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Wood Ageing",
+        "add": "wood ageing",
         "attribute": "Flavour"
       }
     ],

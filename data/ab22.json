@@ -84,7 +84,7 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "First Wort Hops",
+        "add": "first wort hops",
         "attribute": "Bittering"
       },
       {
@@ -93,7 +93,7 @@
           "value": 4,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -102,7 +102,7 @@
           "value": 4,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -111,7 +111,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -120,7 +120,7 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -129,7 +129,7 @@
           "value": 2,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -138,7 +138,7 @@
           "value": 2,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -147,7 +147,7 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       }
     ],

@@ -136,7 +136,7 @@
           "value": 12.5,
           "unit": "grams"
         },
-        "add": "FV",
+        "add": "fv",
         "attribute": "aroma"
       }
     ],

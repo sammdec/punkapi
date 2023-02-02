@@ -84,7 +84,7 @@
           "value": 22,
           "unit": "grams"
         },
-        "add": "Start",
+        "add": "start",
         "attribute": "Bitter"
       },
       {
@@ -93,7 +93,7 @@
           "value": 22,
           "unit": "grams"
         },
-        "add": "End",
+        "add": "end",
         "attribute": "Flavour"
       }
     ],

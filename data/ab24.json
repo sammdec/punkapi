@@ -125,7 +125,7 @@
           "value": 900,
           "unit": "grams"
         },
-        "add": "Kettle",
+        "add": "kettle",
         "attribute": "Flavour"
       },
       {
@@ -134,7 +134,7 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Flame Out",
+        "add": "flame out",
         "attribute": "Flavour"
       },
       {
@@ -143,7 +143,7 @@
           "value": 160,
           "unit": "ml"
         },
-        "add": "FV Addition",
+        "add": "fv addition",
         "attribute": "Flavour"
       }
     ],
