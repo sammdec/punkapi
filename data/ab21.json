@@ -77,8 +77,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Bramling Cross",
@@ -86,8 +86,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

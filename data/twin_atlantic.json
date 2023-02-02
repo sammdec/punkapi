@@ -63,8 +63,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Aroma"
+        "add": "end",
+        "attribute": "aroma"
       },
       {
         "name": "Equinox",
@@ -72,8 +72,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Aroma"
+        "add": "end",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

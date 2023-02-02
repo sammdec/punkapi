@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Hallertauer Mittelfrüh",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "WLP013 - London Ale"

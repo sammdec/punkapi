@@ -64,7 +64,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Simcoe",
@@ -73,7 +73,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Mosaic",
@@ -82,7 +82,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -91,7 +91,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -100,7 +100,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -109,7 +109,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -117,8 +117,8 @@
           "value": 66,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -126,8 +126,8 @@
           "value": 66,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -135,8 +135,8 @@
           "value": 66,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

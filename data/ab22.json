@@ -84,8 +84,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "First Wort Hops",
-        "attribute": "Bittering"
+        "add": "first wort hops",
+        "attribute": "bitter"
       },
       {
         "name": "American Oak Chips Medium Toast Soaked In Speyside Whisky",
@@ -93,8 +93,8 @@
           "value": 4,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Black Pepper",
@@ -102,8 +102,8 @@
           "value": 4,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Cardamon",
@@ -111,8 +111,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Ginger",
@@ -120,8 +120,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Nutmeg",
@@ -129,8 +129,8 @@
           "value": 2,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Cinnamon",
@@ -138,8 +138,8 @@
           "value": 2,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Star Anis",
@@ -147,8 +147,8 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

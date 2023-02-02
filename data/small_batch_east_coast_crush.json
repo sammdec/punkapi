@@ -70,8 +70,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Aroma"
+        "add": "start",
+        "attribute": "aroma"
       },
       {
         "name": "Mandarina Bavaria",
@@ -79,8 +79,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Aroma"
+        "add": "start",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -88,8 +88,8 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Aroma"
+        "add": "start",
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -97,8 +97,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mandarina Bavaria",
@@ -106,8 +106,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -115,8 +115,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -124,8 +124,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

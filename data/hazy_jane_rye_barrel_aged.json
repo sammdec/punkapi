@@ -78,7 +78,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Chinook",
@@ -87,7 +87,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -96,7 +96,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -105,7 +105,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -113,8 +113,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -122,8 +122,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -131,8 +131,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -140,8 +140,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "American Oak Wood- chip medium toast, Ageing soaked in Rye Whisky",
@@ -149,8 +149,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Wood Ageing"
+        "add": "dry hop",
+        "attribute": "wood ageing"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

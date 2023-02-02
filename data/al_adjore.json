@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Mandarina Bavaria",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Hallertauer Blanc",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "French Oak Chips Medium Toast",
@@ -111,8 +111,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Wood Ageing",
-        "attribute": "Flavour"
+        "add": "wood ageing",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

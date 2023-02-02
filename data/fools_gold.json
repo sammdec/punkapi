@@ -64,7 +64,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bitering"
+        "attribute": "bitter"
       },
       {
         "name": "Sterling",
@@ -73,7 +73,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Sterling",
@@ -82,7 +82,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Saflager W-34/70"

@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Citra",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Simcoe",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Citra",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Ahtanum",
@@ -107,7 +107,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Chinook",
@@ -116,7 +116,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Chinook",
@@ -125,7 +125,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -134,7 +134,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -143,7 +143,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -152,7 +152,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Tangerine Extract",
@@ -160,8 +160,8 @@
           "value": 7.5,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Simcoe",
@@ -169,8 +169,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -178,8 +178,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -187,8 +187,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Chinook",
@@ -196,8 +196,8 @@
           "value": 19,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Ahtanum",
@@ -205,8 +205,8 @@
           "value": 15,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Cascade",
@@ -214,8 +214,8 @@
           "value": 15,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -223,8 +223,8 @@
           "value": 4,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

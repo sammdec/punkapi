@@ -77,8 +77,8 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Aroma"
+        "add": "middle",
+        "attribute": "aroma"
       },
       {
         "name": "Chinook",
@@ -86,8 +86,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Amarillo",
@@ -95,8 +95,8 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Simcoe",
@@ -104,8 +104,8 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Citra",
@@ -113,8 +113,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -122,8 +122,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -131,8 +131,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -140,8 +140,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "WLP4000 - Vermont Ale"

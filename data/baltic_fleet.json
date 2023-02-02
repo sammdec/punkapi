@@ -92,7 +92,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Amarillo",
@@ -101,7 +101,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Saphire",
@@ -110,7 +110,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Plum Concentrate",
@@ -118,8 +118,8 @@
           "value": 400,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 2126 - Bohemian Lager™"

@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "East Kent Golding",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Fuggles",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "East Kent Golding",
@@ -112,7 +112,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Fuggles",
@@ -121,7 +121,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 2126 - Bohemian Lager™"

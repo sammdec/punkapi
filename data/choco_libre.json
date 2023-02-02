@@ -99,7 +99,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Cinnamon Powder",
@@ -107,8 +107,8 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Cocoa Nibs",
@@ -116,8 +116,8 @@
           "value": 15.4,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Vanilla Extract",
@@ -125,8 +125,8 @@
           "value": 108,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       },
       {
         "name": "Ground Coffee",
@@ -134,8 +134,8 @@
           "value": 31,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       },
       {
         "name": "Habenero Powder",
@@ -143,8 +143,8 @@
           "value": 1,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

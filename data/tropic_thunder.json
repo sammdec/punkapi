@@ -91,8 +91,8 @@
           "value": 2,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Hallertauer Mittelfrüh",
@@ -100,8 +100,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "First Gold",
@@ -109,8 +109,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Hallertauer Mittelfrüh",
@@ -118,8 +118,8 @@
           "value": 7,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Sweet Orange Peel",
@@ -127,8 +127,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Whirlpool",
-        "attribute": "Flavour"
+        "add": "whirlpool",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

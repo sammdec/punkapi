@@ -113,7 +113,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Cascade",
@@ -122,7 +122,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Demerara Sugar",
@@ -130,8 +130,8 @@
           "value": 750,
           "unit": "grams"
         },
-        "add": "Kettle",
-        "attribute": "Flavour"
+        "add": "kettle",
+        "attribute": "flavour"
       },
       {
         "name": "Marshmallows",
@@ -139,8 +139,8 @@
           "value": 40,
           "unit": "grams"
         },
-        "add": "Kettle",
-        "attribute": "Flavour"
+        "add": "kettle",
+        "attribute": "flavour"
       },
       {
         "name": "Ground Coffee",
@@ -148,8 +148,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       },
       {
         "name": "Cocoa Nibs",
@@ -157,8 +157,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

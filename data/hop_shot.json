@@ -56,8 +56,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Columbus Extract",
@@ -65,8 +65,8 @@
           "value": 30,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Centennial",
@@ -74,8 +74,8 @@
           "value": 18.75,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
       {
         "name": "Columbus",
@@ -83,8 +83,8 @@
           "value": 18.75,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -92,8 +92,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Columbus",
@@ -101,8 +101,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       },
       {
         "name": "Amarillo",
@@ -110,8 +110,8 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -119,8 +119,8 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -128,8 +128,8 @@
           "value": 100,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

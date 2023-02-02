@@ -70,8 +70,8 @@
           "value": 33,
           "unit": "grams"
         },
-        "add": "Whirlpool",
-        "attribute": "Aroma"
+        "add": "whirlpool",
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -79,8 +79,8 @@
           "value": 83,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -88,8 +88,8 @@
           "value": 83,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "WLP4000 - Vermont Ale"

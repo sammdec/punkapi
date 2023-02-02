@@ -78,7 +78,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Mandarina Bavaria",
@@ -87,7 +87,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Golden Honey",
@@ -95,8 +95,8 @@
           "value": 200,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       }
     ],
     "yeast": "WLP351 - Bavarian Weizen"

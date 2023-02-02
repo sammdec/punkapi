@@ -63,8 +63,8 @@
           "value": 5,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Sterling",
@@ -72,8 +72,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Sterling",
@@ -81,8 +81,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Flavour"
+        "add": "end",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 2124 - Bohemian Lager™"

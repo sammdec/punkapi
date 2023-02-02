@@ -70,8 +70,8 @@
           "value": 26.67,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Centennial",
@@ -79,8 +79,8 @@
           "value": 13.33,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Flavour"
+        "add": "middle",
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -88,8 +88,8 @@
           "value": 13.33,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Aroma"
+        "add": "end",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -97,8 +97,8 @@
           "value": 13.33,
           "unit": "grams"
         },
-        "add": "End",
-        "attribute": "Aroma"
+        "add": "end",
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -106,8 +106,8 @@
           "value": 1.33,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       },
       {
         "name": "Apollo",
@@ -115,8 +115,8 @@
           "value": 0.67,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Aroma"
+        "add": "dry hop",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

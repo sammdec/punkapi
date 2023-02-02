@@ -84,8 +84,8 @@
           "value": 6,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Juniper Berry",
@@ -93,8 +93,8 @@
           "value": 400,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Aroma"
+        "add": "start",
+        "attribute": "aroma"
       },
       {
         "name": "Coriander",
@@ -102,8 +102,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Aroma"
+        "add": "start",
+        "attribute": "aroma"
       },
       {
         "name": "Orange Peel",
@@ -111,8 +111,8 @@
           "value": 155,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Aroma"
+        "add": "start",
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

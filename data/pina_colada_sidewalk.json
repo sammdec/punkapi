@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Mosaic",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Lemon Peel",
@@ -111,8 +111,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Coriander Seed",
@@ -120,8 +120,8 @@
           "value": 0.5,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Coconut Extract",
@@ -129,8 +129,8 @@
           "value": 6,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       },
       {
         "name": "Pineapple Juice",
@@ -138,8 +138,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

@@ -98,8 +98,8 @@
           "value": 10,
           "unit": "grams"
         },
-        "add": "Start",
-        "attribute": "Bitter"
+        "add": "start",
+        "attribute": "bitter"
       },
       {
         "name": "Lactose",
@@ -107,8 +107,8 @@
           "value": 600,
           "unit": "grams"
         },
-        "add": "Middle",
-        "attribute": "Aroma"
+        "add": "middle",
+        "attribute": "aroma"
       },
       {
         "name": "Coffee",
@@ -116,8 +116,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       },
       {
         "name": "Cacoa Nibs",
@@ -125,8 +125,8 @@
           "value": 20,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       },
       {
         "name": "Vanilla",
@@ -134,8 +134,8 @@
           "value": 4,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

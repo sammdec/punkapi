@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Sorachi Ace",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Sorachi Ace",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Maple Syrup",
@@ -111,8 +111,8 @@
           "value": 50,
           "unit": "grams"
         },
-        "add": "Flame Out",
-        "attribute": "Flavour"
+        "add": "flame out",
+        "attribute": "flavour"
       },
       {
         "name": "Maple Syrup",
@@ -120,8 +120,8 @@
           "value": 25,
           "unit": "grams"
         },
-        "add": "Dry Hop",
-        "attribute": "Flavour"
+        "add": "dry hop",
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"
