@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "90",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Columbus",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "90",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Chinook",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "30",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -107,7 +107,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -116,7 +116,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -125,7 +125,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Centennial",
@@ -134,7 +134,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -143,7 +143,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

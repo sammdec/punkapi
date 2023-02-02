@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Cocoa Nibs",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Sodium Chloride",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cinnamon Powder",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

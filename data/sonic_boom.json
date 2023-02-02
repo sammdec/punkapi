@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "90",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Cascade",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "30",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "German Cascade",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Ariana",
@@ -107,7 +107,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Huell Melon",
@@ -116,7 +116,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "German Comet",
@@ -125,7 +125,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

@@ -64,7 +64,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Spalter",
@@ -73,7 +73,7 @@
           "unit": "grams"
         },
         "add": "30",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Spalter",
@@ -82,7 +82,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Saphire",
@@ -91,7 +91,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Saphire",
@@ -100,7 +100,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Saflager W-34/70"

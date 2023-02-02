@@ -78,7 +78,7 @@
           "unit": "grams"
         },
         "add": "45",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Raspberry Juice",
@@ -87,7 +87,7 @@
           "unit": "grams"
         },
         "add": "kettle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

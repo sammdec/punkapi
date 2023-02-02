@@ -118,7 +118,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "flavoour"
+        "attribute": "flavour"
       },
       {
         "name": "Citra",
@@ -127,7 +127,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "flavouor"
+        "attribute": "flavour"
       },
       {
         "name": "Cascade",

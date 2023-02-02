@@ -99,7 +99,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Columbus",
@@ -108,7 +108,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Saaz",
@@ -117,7 +117,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "First Gold",
@@ -126,7 +126,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

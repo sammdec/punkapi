@@ -99,7 +99,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bitering"
+        "attribute": "bitter"
       },
       {
         "name": "Galena",
@@ -108,7 +108,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Centennial",
@@ -117,7 +117,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Muscovado Sugar",
@@ -126,7 +126,7 @@
           "unit": "grams"
         },
         "add": "kettle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Ground Coffee",
@@ -135,7 +135,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cold Brew Coffee",
@@ -144,7 +144,7 @@
           "unit": "ml"
         },
         "add": "fv addition",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

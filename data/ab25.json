@@ -92,7 +92,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Fuggles",
@@ -101,7 +101,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

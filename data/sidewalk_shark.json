@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Mosaic",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Amarillo",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Lemon Peel",
@@ -112,7 +112,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Coriander Seeds",
@@ -121,7 +121,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

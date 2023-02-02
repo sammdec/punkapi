@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Galena",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "American Oak Chips Heavy Toast Soaked in Bourbon",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "wood ageing",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

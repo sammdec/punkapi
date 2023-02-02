@@ -99,7 +99,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Columbus",
@@ -108,7 +108,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Sorachi Ace",
@@ -117,7 +117,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -126,7 +126,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Nelson Sauvin",
@@ -135,7 +135,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Sorachi Ace",
@@ -144,7 +144,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Centennial",
@@ -153,7 +153,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Nelson Sauvin",
@@ -162,7 +162,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Simcoe",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Apricot Juice",
@@ -89,7 +89,7 @@
           "unit": "kilogram"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Peach Juice",
@@ -98,7 +98,7 @@
           "unit": "kilogram"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

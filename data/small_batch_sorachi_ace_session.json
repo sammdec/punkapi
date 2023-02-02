@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Sorachi Ace",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1388 - Belgian Strong Ale™"

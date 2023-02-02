@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Peach Concentrate",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mango Concentrate",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Milk Sugars",
@@ -107,7 +107,7 @@
           "unit": "grams"
         },
         "add": "kettle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

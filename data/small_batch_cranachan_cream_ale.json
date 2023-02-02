@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Milk Sugars",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Raspberry Juice",
@@ -107,7 +107,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Amarillo",
@@ -116,7 +116,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -125,7 +125,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mosaic",
@@ -134,7 +134,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

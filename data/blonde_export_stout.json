@@ -78,7 +78,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Mandarina Bavaria",
@@ -87,7 +87,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Callista",
@@ -96,7 +96,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Ground Coffee",
@@ -105,7 +105,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Cocoa Nibs",
@@ -114,7 +114,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Oak Chips",
@@ -123,7 +123,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Vanilla",
@@ -132,7 +132,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

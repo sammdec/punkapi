@@ -92,7 +92,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Lactose",
@@ -101,7 +101,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Vanilla Extract",
@@ -110,7 +110,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cacao Nibs",
@@ -119,7 +119,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Coffee",
@@ -128,7 +128,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

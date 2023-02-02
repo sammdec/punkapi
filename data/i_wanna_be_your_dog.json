@@ -113,7 +113,7 @@
           "unit": "grams"
         },
         "add": "70",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "American Oak Chips Medium Toast soaked in Speyside Whisky",
@@ -122,7 +122,7 @@
           "unit": "grams"
         },
         "add": "wood ageing",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "American Oak Chips Heavy Toast soaked in Speyside Whisky",
@@ -131,7 +131,7 @@
           "unit": "grams"
         },
         "add": "wood ageing",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1056 - American Ale™"

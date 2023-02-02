@@ -64,7 +64,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Mandarina Bavaria",
@@ -73,7 +73,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Ginger Powder",
@@ -82,7 +82,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Pink Peppercorns",
@@ -91,7 +91,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Bitter Orange Peel",
@@ -100,7 +100,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Oat Husks",
@@ -109,7 +109,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1388 - Belgian Strong Ale™"

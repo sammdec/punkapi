@@ -138,7 +138,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Lactose",
@@ -147,7 +147,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "First Gold",

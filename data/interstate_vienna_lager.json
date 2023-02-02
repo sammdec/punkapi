@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "65",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "Hallertauer Mittelfrüh",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "10",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mandarina Bavaria",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "0",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 2126 - Bohemian Lager™"

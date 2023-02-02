@@ -92,7 +92,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Coriander",
@@ -101,7 +101,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Peppercorn",
@@ -110,7 +110,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Amarillo",
@@ -119,7 +119,7 @@
           "unit": "grams"
         },
         "add": "whirlpool",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 3711 - French Saison™"

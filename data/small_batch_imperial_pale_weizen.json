@@ -71,7 +71,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Ariana",
@@ -80,7 +80,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cascade",
@@ -89,7 +89,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Mandarina Bavaria",
@@ -98,7 +98,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Ariana",
@@ -107,7 +107,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Mandarina Bavaria",
@@ -116,7 +116,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "WLP351 - Bavarian Weizen"

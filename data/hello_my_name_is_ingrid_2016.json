@@ -64,7 +64,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Centennial",
@@ -73,7 +73,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Columbus",
@@ -82,7 +82,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -91,7 +91,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Enigma",
@@ -100,7 +100,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Bramling Cross",
@@ -109,7 +109,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Columbus",
@@ -118,7 +118,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -127,7 +127,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Enigma",
@@ -136,7 +136,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Bramling Cross",
@@ -145,7 +145,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Citra",
@@ -154,7 +154,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Enigma",
@@ -163,7 +163,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Bramling Cross",
@@ -172,7 +172,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "first wort hops",
-        "attribute": "Bittering"
+        "attribute": "bitter"
       },
       {
         "name": "American Oak Chips Medium Toast Soaked In Speyside Whisky",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Black Pepper",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cardamon",
@@ -112,7 +112,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Ginger",
@@ -121,7 +121,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Nutmeg",
@@ -130,7 +130,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cinnamon",
@@ -139,7 +139,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Star Anis",
@@ -148,7 +148,7 @@
           "unit": "grams"
         },
         "add": "flame out",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "mash",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Nelson Sauvin",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "mash",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Cascade",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Nelson Sauvin",
@@ -112,7 +112,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Cascade",
@@ -121,7 +121,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Nelson Sauvin",
@@ -130,7 +130,7 @@
           "unit": "grams"
         },
         "add": "middle",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Cascade",
@@ -139,7 +139,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Nelson Sauvin",
@@ -148,7 +148,7 @@
           "unit": "grams"
         },
         "add": "end",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

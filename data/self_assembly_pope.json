@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "start",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Dark Muscavado",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "additions",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"

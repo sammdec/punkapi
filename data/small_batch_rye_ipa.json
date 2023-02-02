@@ -85,7 +85,7 @@
           "unit": "grams"
         },
         "add": "60",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Centennial",
@@ -94,7 +94,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Bitter"
+        "attribute": "bitter"
       },
       {
         "name": "Columbus",
@@ -103,7 +103,7 @@
           "unit": "grams"
         },
         "add": "15",
-        "attribute": "Flavour"
+        "attribute": "flavour"
       },
       {
         "name": "Centennial",
@@ -112,7 +112,7 @@
           "unit": "grams"
         },
         "add": "whirlpool",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Columbus",
@@ -121,7 +121,7 @@
           "unit": "grams"
         },
         "add": "whirlpool",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Columbus",
@@ -130,7 +130,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       },
       {
         "name": "Citra",
@@ -139,7 +139,7 @@
           "unit": "grams"
         },
         "add": "dry hop",
-        "attribute": "Aroma"
+        "attribute": "aroma"
       }
     ],
     "yeast": "Wyeast 1272 - American Ale II™"
